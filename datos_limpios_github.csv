@@ -1,0 +1,1329 @@
+"Carrera","Ciclo","Nro_Curos","Dispositivo_principal","Nro_dispositivos_dia","Modelo_dispositivo_principal","Marca_disp_principal","Horas_uso_dispo_dia","Nro_carga_dia","Satisfaccion","tipo_de_uso","Bateria_dispo_pricipal","Eficiencia_energetica","Consumo_energia_dia"
+"Ingenieria Química",8,7,"Laptop",2,"Laptop Lenovo Ideapad 5","Lenovo",8,5,2,"Estudios;Investigación;Entretenimiento",4990,8.01603206412826,24950
+"Ingenieria Química",6,6,"Celular",2,"Motorola edge 40","Motorola",6,1,4,"Estudios;Entretenimiento",4400,1.36363636363636,4400
+"Ingenieria Química",6,5,"Laptop",2,"Hp, victus, Ryzen 5","HP",7,3,3,"Estudios;Investigación;Entretenimiento",4550,4.61538461538461,13650
+"Ingenieria Química",6,5,"Celular",2,"Samsung galaxy A32","Samsung",5,2,4,"Estudios;Entretenimiento",4860,2.05761316872428,9720
+"Ingenieria Química",6,6,"Celular",3,"Samsung Galaxy 6, Hp, Redmi","Samsung",6,3,3,"Estudios;Investigación",2550,7.05882352941176,7650
+"Ingenieria Química",6,5,"Laptop",2,"Asus vivobook","Asus",8,3,3,"Estudios;Investigación;Entretenimiento",8380,2.86396181384248,25140
+"Ingenieria Mecatrónica",5,5,"Celular",2,"iPhone 12 Pro, TUF Gaming Asís","Apple",4,3,3,"Entretenimiento",2815,4.26287744227353,8445
+"Ingenieria Mecatrónica",6,5,"Laptop",3,"Asus rog strix","Asus",5,4,4,"Estudios;Investigación;Entretenimiento",4840,4.13223140495868,19360
+"Ingenieria Mecatrónica",7,6,"Laptop",2,"Lenovo Slim 7","Lenovo",4,1,4,"Estudios;Entretenimiento",3952,1.01214574898785,3952
+"Ingenieria Mecatrónica",5,4,"Celular",3,"Samsung s10 plus","Samsung",6,2,4,"Estudios;Entretenimiento",4500,2.66666666666667,9000
+"Ingenieria Mecatrónica",8,4,"Tablet",3,"Samsung Galaxy Tab S7+","Samsung",5,1,4,"Estudios",10090,0.495540138751239,10090
+"Ingenieria Mecatrónica",5,6,"Laptop",2,"HP Victus 15","HP",5,2,4,"Estudios;Investigación",4323,2.31320842007865,8646
+"Ingenieria Mecatrónica",7,6,"Celular",2,"Redmi 10 Xiaomi","Xiaomi",6,2,3,"Estudios;Investigación;Entretenimiento",5000,2.4,10000
+"Ingenieria Mecatrónica",8,4,"Laptop",2,"Lenovo Ideapad","Lenovo",5,3,2,"Estudios;Entretenimiento",4950,3.03030303030303,14850
+"Ingenieria Mecatrónica",9,5,"Laptop",2,"Asus TUF Gaming","Asus",12,5,3,"Estudios;Entretenimiento",4240,14.1509433962264,21200
+"Ingenieria Mecatrónica",5,5,"Laptop",2,"Asus X515","Asus",3.5,2,4,"Estudios",4850,1.44329896907216,9700
+"Ingenieria Mecánica",3,6,"Laptop",4,"Asus ROG Strix G15","Asus",5,2,3,"Estudios;Investigación;Entretenimiento",3620,2.76243093922652,7240
+"Ingenieria Mecánica",6,5,"Celular",3,"Redmi 9c","Xiaomi",6,1,3,"Estudios;Investigación;Entretenimiento",5000,1.2,5000
+"Ingenieria Mecánica",7,6,"Celular",3,"Iphone 15 pro","Apple",6,1,4,"Estudios;Investigación;Entretenimiento",3290,1.82370820668693,3290
+"Ingenieria Mecánica",3,6,"Celular",3,"POCO X5","Xiaomi",2.5,1,5,"Estudios;Investigación;Entretenimiento;Otros",5000,0.5,5000
+"Ingenieria Mecánica",3,6,"Tablet",3,"Tab S9","Samsung",6,1,5,"Estudios;Investigación;Otros",8000,0.75,8000
+"Ingenieria Mecánica",3,5,"Celular",2,"Samsung A34 5G","Samsung",3,1,5,"Estudios;Investigación;Entretenimiento",4905,0.611620795107034,4905
+"Ingenieria Mecánica",3,6,"Laptop",3,"Asus ROG zephyrus","Asus",4,1,4,"Estudios;Entretenimiento",4920,0.813008130081301,4920
+"Ingenieria Industrial",4,4,"Celular",2,"Moto g85","Motorola",4.5,3,5,"Estudios;Investigación;Entretenimiento",5200,2.59615384615385,15600
+"Ingenieria Industrial",3,5,"Celular",2,"Motorola g(9) plus","Motorola",6,2,5,"Estudios;Entretenimiento",500,24,1000
+"Ingenieria de la Energía",5,4,"Laptop",3,"THINKPADT490","Lenovo",5,3,3,"Estudios;Investigación;Entretenimiento",4385,3.42075256556442,13155
+"Ingenieria Electrónica",3,6,"Celular",2,"Samsung Galaxy A14 5G","Samsung",5,3,5,"Estudios;Entretenimiento",5000,3,15000
+"Ingenieria Electrónica",10,2,"Celular",3,"Samsung Galaxy S23","Samsung",7,1,3,"Estudios;Entretenimiento",3785,1.84940554821664,3785
+"Ingenieria Electrónica",10,2,"Laptop",1,"HP pavilion Gaming 15","HP",14,4,4,"Estudios;Investigación;Entretenimiento;Otros",4550,12.3076923076923,18200
+"Ingenieria Electrónica",9,6,"Laptop",2,"Asus rog strix g15","Asus",5,2,3,"Estudios;Investigación;Entretenimiento",3620,2.76243093922652,7240
+"Ingenieria Civil",1,7,"Celular",2,"iPhone 8","Apple",5,2,3,"Estudios;Investigación;Entretenimiento",1821,5.49148819330038,3642
+"Ingenieria Civil",7,7,"Celular",3,"Samsung Galaxy S22 Ultra","Samsung",8,2,4,"Estudios;Investigación;Entretenimiento;Otros",5000,3.2,10000
+"Ingenieria Civil",4,5,"Tablet",3,"Ipad Air(5a. generación)","Apple",8,3,4,"Estudios;Investigación",7729,3.10518825203778,23187
+"Ingenieria Civil",8,7,"Celular",2,"Xiaomi redmi 11","Xiaomi",8,1,4,"Estudios;Entretenimiento",5000,1.6,5000
+"Ingenieria Ambiental",4,6,"Laptop",2,"HP Laptop 15-dy2xxx","HP",7,4,4,"Estudios;Investigación",3550,7.88732394366197,14200
+"Ingenieria Ambiental",4,6,"Celular",3,"13 c","Xiaomi",7,1,5,"Estudios;Investigación;Entretenimiento",5000,1.4,5000
+"Ingenieria Ambiental",5,6,"Celular",4,"Iphone 15","Apple",5,2,5,"Estudios;Investigación;Entretenimiento",3877,2.57931390250193,7754
+"Ingenieria Ambiental",5,6,"Celular",2,"Iphone 15 Plus","Apple",6,3,4,"Estudios;Investigación;Entretenimiento",4383,4.10677618069815,13149
+"Ingenieria Ambiental",4,6,"Laptop",2,"Hp Laptop 14-dq2xxx","HP",4,3,5,"Estudios;Investigación",3550,3.38028169014085,10650
+"Ingenieria Ambiental",4,6,"Laptop",3,"HP Laptop 15-dy5xxx","HP",3,4,3,"Estudios;Investigación;Otros",3550,3.38028169014085,14200
+"Ciencia de Datos",1,6,"Tablet",3,"ipad gen 9","Apple",9,1,3,"Estudios;Entretenimiento",8557,1.05177048030852,8557
+"Ciencia de Datos",3,5,"Laptop",2,"Vivobook_ASUSLaptop N7600ZE","Asus",10,3,4,"Estudios;Investigación;Entretenimiento",8380,3.5799522673031,25140
+"Ciencia de Datos",3,5,"Laptop",2,"HP Laptop 15-dy1xxx","HP",10,4,2,"Estudios;Investigación;Entretenimiento",3815,10.4849279161206,15260
+"Ciencia de Datos",5,5,"Celular",2,"Iphone xr","Apple",6,4,1,"Estudios;Entretenimiento",2942,8.15771583956492,11768
+"Ciencias de la computación",7,6,"Laptop",3,"Macbook Pro","Apple",6,1,5,"Estudios;Investigación;Entretenimiento",4781,1.25496758000418,4781
+"Ciencias de la computación",4,5,"Laptop",3,"Lenovo IdeaPad 3 Gaming","Lenovo",8,3,4,"Estudios;Investigación;Entretenimiento",3906,6.14439324116743,11718
+"Ciencias de la computación",3,5,"Celular",2,"iPhone 13","Apple",4,3,4,"Estudios;Investigación;Entretenimiento",3227,3.71862410907964,9681
+"Ciencias de la computación",5,5,"Laptop",3,"asus tuf dash f15","Asus",3,2,3,"Estudios;Investigación;Entretenimiento",4940,1.21457489878543,9880
+"Ciencias de la computación",3,4,"Laptop",2,"Asus ROG Strix Flow","Asus",9,3,5,"Estudios;Investigación;Entretenimiento;Otros",4007,6.73820813576242,12021
+"Ciencias de la computación",1,6,"Celular",2,"Poco X3","Xiaomi",6,2,5,"Estudios;Investigación;Entretenimiento",5160,2.32558139534884,10320
+"Ciencias de la computación",6,5,"Laptop",2,"LATITUDE D15","DELL",5,2,4,"Estudios;Investigación;Entretenimiento",4473,2.23563603845294,8946
+"Ciencias de la computación",1,6,"Celular",3,"Samsung A25","Samsung",3.8,1,4,"Estudios;Entretenimiento",4905,0.774719673802243,4905
+"Ciencias de la computación",1,6,"Celular",2,"OnePlus 11 5g","OnePlus",10,2,4,"Estudios;Investigación;Entretenimiento",5000,4,10000
+"Ciencias de la computación",1,7,"Celular",3,"Motorola g20","Motorola",4,3,4,"Entretenimiento",5000,2.4,15000
+"Ciencias de la computación",1,6,"Celular",2,"Magic 5 lite","Honor",3,1,5,"Estudios;Entretenimiento",5100,0.588235294117647,5100
+"Ciencias de la computación",1,6,"Celular",2,"iPhone XS, HP Pavillion i5","Apple",4,2,4,"Estudios;Investigación;Entretenimiento",2658,3.00978179082017,5316
+"Ciencias de la computación",1,6,"Celular",2,"iPhone 11","Apple",7,2,4,"Estudios;Investigación;Entretenimiento",3110,4.5016077170418,6220
+"Ciencias de la computación",1,5,"Laptop",4,"Macbook pro 14","Apple",9,1,5,"Estudios",6073,1.48196937263297,6073
+"Ciencias de la computación",1,6,"Celular",3,"Samsung galaxy s8 plus","Samsung",3,2,3,"Estudios;Investigación;Entretenimiento",4500,1.33333333333333,9000
+"Ciencias de la computación",1,6,"Celular",3,"iPhone 15","Apple",3,1,5,"Estudios;Entretenimiento",3877,0.77379417075058,3877
+"Ciencias de la computación",1,6,"Celular",2,"Oppo reno 7","OPPO",4,2,4,"Estudios;Investigación;Entretenimiento",4500,1.77777777777778,9000
+"Ciencias de la computación",1,6,"Celular",3,"iphone 13 pro max","Apple",8,1,5,"Estudios;Investigación;Entretenimiento",4352,1.83823529411765,4352
+"Ciencias de la computación",1,6,"Celular",4,"Redmi 12C","Xiaomi",4,1,5,"Estudios;Entretenimiento",5000,0.8,5000
+"Ciencias de la computación",1,6,"Celular",3,"Samsung Galaxy A31","Samsung",7,3,3,"Estudios;Investigación;Entretenimiento",5000,4.2,15000
+"Ciencias de la computación",1,6,"Celular",3,"Redmi note 13 pro +","Xiaomi",6,1,5,"Estudios;Entretenimiento",5000,1.2,5000
+"Ciencias de la computación",1,6,"Celular",2,"Oppo A58","OPPO",5,1,5,"Estudios;Entretenimiento",5000,1,5000
+"Ciencias de la computación",1,6,"Celular",3,"Honor 6x","Honor",9,5,4,"Estudios",5000,9,25000
+"Ciencias de la computación",1,6,"Celular",3,"Iphone 14 pro max","Apple",4,2,4,"Entretenimiento",4323,1.85056673606292,8646
+"Ciencias de la computación",1,6,"Laptop",2,"Realme","Lenovo",4,2,2,"Investigación",5000,1.6,10000
+"Ciencias de la computación",1,6,"Celular",2,"iPhone 11","Apple",5,2,2,"Estudios;Entretenimiento",3110,3.21543408360129,6220
+"Ciencias de la computación",1,6,"Celular",5,"iPhone 14","Apple",3.5,1,4,"Estudios;Entretenimiento",3279,1.06739859713327,3279
+"Ciencias de la computación",1,6,"Celular",4,"Vivo Y21s","Vivo",6,1,5,"Estudios;Investigación;Entretenimiento",5000,1.2,5000
+"Ciencias de la computación",1,6,"Laptop",2,"Latitude 5440","DELL",6,2,5,"Estudios;Entretenimiento;Otros",5856,2.04918032786885,11712
+"Ciencias de la computación",1,6,"Celular",3,"Iphone 11","Apple",5,2,4,"Estudios;Investigación;Entretenimiento",3110,3.21543408360129,6220
+"Ciencias de la computación",1,6,"Celular",4,"Samsung a21s","Samsung",6,1,4,"Estudios",5000,1.2,5000
+"Ciencias de la computación",1,6,"Celular",3,"Samsung galaxy a02s","Samsung",8,4,4,"Estudios;Investigación;Entretenimiento",5000,6.4,20000
+"Ciencias de la computación",1,6,"Celular",3,"Iphone 12","Apple",6,2,2,"Estudios;Investigación;Entretenimiento",2775,4.32432432432432,5550
+"Ciencias de la computación",1,6,"Celular",2,"Samsung galaxy A32","Samsung",7,5,3,"Estudios;Investigación;Entretenimiento",4860,7.20164609053498,24300
+"Ciencias de la computación",1,6,"Celular",2,"iPhone 15 pro max","Apple",7,1,5,"Estudios;Investigación;Entretenimiento",4852,1.44270403957131,4852
+"Ciencias de la computación",1,6,"Laptop",2,"Hp Victus","HP",3,1,4,"Estudios;Investigación",4323,0.693962526023595,4323
+"Ciencias de la computación",1,6,"Celular",3,"Huawei p20","Huawei",3,2,3,"Estudios;Entretenimiento",3400,1.76470588235294,6800
+"Ciencias de la computación",1,6,"Celular",3,"Iphone 13","Apple",10,2,5,"Estudios;Investigación;Entretenimiento",3240,6.17283950617284,6480
+"Ciencias de la computación",1,6,"Celular",3,"iPhone 11","Apple",4,1,4,"Estudios;Entretenimiento",3110,1.28617363344051,3110
+"Ciencias de la computación",1,6,"Laptop",3,"Macbook pro 2019","Apple",6,2,2,"Estudios;Investigación;Entretenimiento",8790,1.36518771331058,17580
+"Ciencias de la computación",1,6,"Celular",3,"Motorola g54+","Motorola",3,1,5,"Estudios;Investigación;Entretenimiento",5000,0.6,5000
+"Ciencias de la computación",1,6,"Celular",2,"Huawei Y9","Huawei",6,1,4,"Estudios;Investigación;Entretenimiento",4000,1.5,4000
+"Ciencias de la computación",1,6,"Celular",3,"Galaxy A12","Samsung",1.5,1,5,"Estudios;Entretenimiento",5000,0.3,5000
+"Ciencias de la computación",1,6,"Celular",2,"iPhone 7","Apple",3,3,3,"Estudios;Entretenimiento",1990,4.52261306532663,5970
+"Ciencias de la computación",1,6,"Celular",2,"Redmin Note 9","Xiaomi",6,5,3,"Estudios;Investigación;Entretenimiento;Otros",5020,5.97609561752988,25100
+"Ciencias de la computación",1,6,"Tablet",3,"Ipad Pro","Apple",2,2,4,"Estudios;Investigación",10758,0.371816322736568,21516
+"Ciencias de la computación",1,6,"Celular",2,"iPhone XR","Apple",3,1,4,"Estudios;Investigación;Entretenimiento",2942,1.01971447994562,2942
+"Ciencias de la computación",1,5,"Celular",2,"Galaxy S24","Samsung",3,1,3,"Estudios;Investigación;Entretenimiento",3880,0.77319587628866,3880
+"Ciencias de la computación",1,6,"Celular",3,"Iphone 15 pro max, macbook air 2023","Apple",5,1,5,"Estudios;Otros",5620,0.889679715302491,5620
+"Ciencias de la computación",1,6,"Laptop",2,"Lenovo LOQ 15","Lenovo",7,2,3,"Estudios;Investigación;Entretenimiento",3886,3.6026762738034,7772
+"Ciencias de la computación",1,6,"Celular",2,"SamsungGalaxyS23FE","Samsung",5,1,4,"Estudios;Investigación;Entretenimiento",4370,1.1441647597254,4370
+"Ciencias de la computación",1,6,"Celular",3,"Redmi Note 12","Xiaomi",10,1,5,"Estudios;Investigación;Entretenimiento",5000,2,5000
+"Ciencias de la computación",1,6,"Laptop",3,"Dell Inspiron I15","DELL",6,1,3,"Estudios;Investigación",4800,1.25,4800
+"Ciencias de la computación",1,6,"Laptop",2,"Ipad pro","Apple",3,2,3,"Estudios;Investigación",10758,0.557724484104852,21516
+"Ciencias de la computación",1,6,"Celular",3,"iPhone 11","Apple",5,3,5,"Estudios;Investigación;Entretenimiento",3110,4.82315112540193,9330
+"Ciencias de la computación",1,6,"Celular",3,"Samsung A51","Samsung",6,2,5,"Estudios;Investigación;Entretenimiento",4500,2.66666666666667,9000
+"Ciencias de la computación",2,7,"Celular",1,"Samsung A03","Samsung",3,2,3,"Estudios;Entretenimiento",4900,1.22448979591837,9800
+"Ciencias de la computación",1,6,"Celular",3,"Google pixel 8","Google",4,1,4,"Estudios;Entretenimiento",4575,0.87431693989071,4575
+"Ciencias de la computación",1,6,"Celular",1,"Xiaomi redmi 9","Xiaomi",5,2,4,"Estudios;Investigación;Entretenimiento",5020,1.99203187250996,10040
+"Ciencias de la computación",1,6,"Celular",2,"iPhone 11","Apple",5,3,3,"Estudios;Entretenimiento",2110,7.10900473933649,6330
+"Ciencias de la computación",1,6,"Laptop",2,"MacBook Pro","Apple",4,1,5,"Estudios;Investigación;Entretenimiento",4781,0.836645053336122,4781
+"Ciencias de la computación",1,6,"Laptop",2,"Apple MacBook","Apple",5,1,4,"Estudios;Investigación;Entretenimiento",4781,1.04580631667015,4781
+"Ciencias de la computación",3,7,"Laptop",5,"Laptop HP victus","HP",8,0,3,"Estudios;Investigación;Entretenimiento",4323,0,0
+"Ciencias de la computación",1,6,"Celular",1,"Moto g 60 s","Motorola",4,1,4,"Entretenimiento",5000,0.8,5000
+"Ciencias de la computación",1,6,"Celular",2,"iPhone Xs Max","Apple",9.5,2,5,"Estudios;Investigación;Entretenimiento;Otros",3174,5.98613736609956,6348
+"Ciencias de la computación",1,7,"Celular",3,"Samsung A54","Samsung",3,2,4,"Estudios;Investigación;Entretenimiento",500,12,1000
+"Ciencias de la computación",1,6,"Celular",3,"Galaxy A32","Samsung",5,2,4,"Estudios;Entretenimiento",4860,2.05761316872428,9720
+"Ciencias de la computación",1,6,"Celular",1,"Redmi note 12 pro","Xiaomi",3,1,4,"Estudios",5000,0.6,5000
+"Ciencias de la computación",1,7,"Celular",2,"iPhone 8","Apple",3,2,2,"Estudios;Entretenimiento",1821,3.29489291598023,3642
+"Ciencias de la computación",1,6,"Celular",2,"p smarth 2018","Huawei",7,2,2,"Estudios;Investigación;Entretenimiento",3000,4.66666666666667,6000
+"Ciencias de la computación",1,6,"Laptop",3,"Acet nitro 5, iphone xr","Acer",5,2,3,"Estudios;Investigación;Entretenimiento",3815,2.62123197903014,7630
+"Ciencias de la computación",1,6,"Celular",3,"Samsung Galaxy A54","Samsung",3,1,4,"Estudios;Entretenimiento",5000,0.6,5000
+"Ciencias de la computación",1,6,"Laptop",2,"Laptop Lenovo Legion","Lenovo",4,1,2,"Estudios;Entretenimiento",5210,0.767754318618042,5210
+"Ciencias de la computación",2,6,"Laptop",3,"Loq","Lenovo",8,3,4,"Estudios;Investigación;Entretenimiento;Otros",3886,6.17601646937725,11658
+"Ciencias de la computación",1,6,"Laptop",3,"Victus 15","HP",4,2,5,"Estudios;Investigación;Entretenimiento;Otros",4323,1.85056673606292,8646
+"Ciencias de la computación",1,6,"Celular",3,"Samsung Galaxy S23","Samsung",5,1,4,"Estudios",3785,1.32100396301189,3785
+"Ciencias de la computación",1,6,"Celular",2,"Smasug galaxy A51","Samsung",6,2,2,"Estudios",4500,2.66666666666667,9000
+"Ciencias de la computación",1,6,"Celular",2,"Redmi Note 9","Xiaomi",16,1,5,"Estudios;Investigación;Entretenimiento;Otros",5020,3.18725099601594,5020
+"Ciencias de la computación",1,6,"Celular",2,"Motorola g51 5g","Motorola",12,1,3,"Estudios;Otros",5000,2.4,5000
+"Ciencias de la computación",1,6,"Celular",2,"Redmi Note 12","Xiaomi",6,1,4,"Estudios;Entretenimiento;Otros",5000,1.2,5000
+"Ciencias de la computación",1,6,"Celular",3,"Xiaomi 11 Lite 5G NE","Xiaomi",4,2,3,"Entretenimiento",4250,1.88235294117647,8500
+"Ciencias de la computación",1,6,"Celular",2,"Honor X6","Honor",5,2,2,"Estudios;Otros",5000,2,10000
+"Ciencias de la computación",1,6,"Celular",2,"Motorola G20","Motorola",3,0,4,"Estudios;Entretenimiento",5000,0,0
+"Ciencias de la computación",1,5,"Celular",3,"Xiaomi poco x3",NA,4,2,5,"Otros",5160,1.55038759689922,10320
+"Ciencias de la computación",1,5,"Celular",2,"Samsung Galaxy A72","Samsung",4,2,3,"Investigación;Entretenimiento",5000,1.6,10000
+"Ciencias de la computación",1,6,"Celular",3,"moto g(7) power","Motorola",5,2,4,"Estudios;Entretenimiento",5000,2,10000
+"Ciencias de la computación",1,6,"Laptop",2,"HP Pavilion","HP",5,1,5,"Estudios;Entretenimiento",3635,1.37551581843191,3635
+"Ciencias de la computación",1,6,"Celular",3,"iPhone X","Apple",3,2,3,"Estudios;Investigación;Entretenimiento",2716,2.20913107511046,5432
+"Ciencias de la computación",1,6,"Celular",2,"Redmi s10 y laptop hp core i3","Xiaomi",4,1,3,"Estudios;Investigación;Entretenimiento",5000,0.8,5000
+"Ciencias de la computación",2,5,"Laptop",5,"Asus tuf dash f15","Asus",8,3,4,"Estudios;Investigación;Entretenimiento",4940,4.8582995951417,14820
+"Ciencias de la computación",1,6,"Celular",2,"iphone 11","Apple",3,1,2,"Entretenimiento",3110,0.964630225080386,3110
+"Ciencias de la computación",1,6,"Laptop",2,"Poco M3, HP Victus rtx 3050","HP",4,1,4,"Estudios;Entretenimiento",4545,0.88008800880088,4545
+"Ciencias de la computación",1,6,"Celular",2,"Redmi 9A","Xiaomi",4,1,3,"Estudios;Entretenimiento",5000,0.8,5000
+"Ciencias de la computación",3,6,"Celular",3,"Samsung Galaxy S23 Ultra","Samsung",5,1,5,"Estudios;Entretenimiento",4855,1.02986611740474,4855
+"Bioingenieria",3,2,"Celular",2,"Xiaomi 11 pro","Xiaomi",2,4,3,"Investigación;Entretenimiento",5000,1.6,20000
+"Bioingenieria",3,5,"Laptop",2,"Lenovo legion pro 5i","Lenovo",3,3,4,"Estudios;Investigación;Entretenimiento",5210,1.72744721689059,15630
+"Bioingenieria",7,6,"Celular",2,"iPhone 14","Apple",6,2,2,"Estudios;Entretenimiento",3279,3.65965233302836,6558
+"Bioingenieria",1,7,"Celular",2,"iPhone 12 mini","Apple",5,3,3,"Estudios",2227,6.73551863493489,6681
+"Bioingenieria",2,7,"Celular",2,"Asus tuf dash f15, Samsung a34","Samsung",5,3,2,"Estudios",4905,3.05810397553517,14715
+"Bioingenieria",7,3,"Tablet",4,"iPad Air 5","Apple",4,1,5,"Estudios;Investigación",7729,0.51753137533963,7729
+"Bioingenieria",8,5,"Celular",3,"Iphone 13","Apple",8,1,4,"Estudios;Investigación;Entretenimiento;Otros",3227,2.47908273938643,3227
+"Bioingenieria",3,6,"Celular",4,"Iphone 7 Plus","Apple",6,3,5,"Estudios;Entretenimiento",3850,4.67532467532468,11550
+"Ciencias de la computación",3,5,"Celular",2,"Samsung A33","Samsung",8,2,4,"Estudios;Investigación;Entretenimiento",5000,3.2,10000
+"Ciencias de la computación",3,4,"Celular",2,"iPhone 14 pro","Apple",7,2,5,"Estudios;Investigación;Entretenimiento;Otros",3200,4.375,6400
+"Ciencias de la computación",1,6,"Celular",2,"iPhone X","Apple",8,3,3,"Estudios;Investigación;Entretenimiento;Otros",2716,8.83652430044183,8148
+"Ciencias de la computación",7,7,"Laptop",3,"Dell Inspiron 15 3520","DELL",4,2,5,"Estudios;Entretenimiento",3644,2.1953896816685,7288
+"Ciencias de la computación",1,7,"Laptop",3,"Levono IdeaPad","Lenovo",5,2,4,"Estudios;Investigación",4950,2.02020202020202,9900
+"Ciencia de Datos",3,5,"Laptop",2,"Lenovo T450","Lenovo",5,3,3,"Estudios, Investigación",5200,2.88461538461538,15600
+"Ciencias de la computación",3,4,"Celular",2,"Redmi Note 9","Xiaomi",2.5,2,4,"Entretenimiento",5020,0.99601593625498,10040
+"Ciencias de la computación",3,6,"Celular",2,"S24 ultra","Samsung",6,1,5,"Estudios, Entretenimiento",5000,1.2,5000
+"Ingenieria Ambiental",5,5,"Laptop",2,"HP core i5","HP",8,4,3,"Estudios, Investigación, Entretenimiento",3700,8.64864864864865,14800
+"Ingenieria Mecatrónica",6,5,"Laptop",2,"Asus rog strix","Asus",5,2,4,"Estudios, Investigación, Entretenimiento",4840,2.06611570247934,9680
+"Ingenieria Ambiental",4,6,"Celular",3,"Redmi note 13","Xiaomi",4,2,5,"Estudios, Investigación",5000,1.6,10000
+"Ingenieria Industrial",5,6,"Laptop",3,"Asus Vivobook 15x","Asus",6,3,4,"Estudios",4505,3.99556048834628,13515
+"Ingenieria Civil",4,8,"Celular",3,"Iphone 15","Apple",6,2,2,"Estudios",3877,3.09517668300232,7754
+"Ingenieria Mecánica",3,6,"Laptop",4,"Asus ROG Strix g15","Asus",5,2,3,"Estudios, Investigación, Entretenimiento",3637,2.74951883420401,7274
+"Ciencias de la computación",3,6,"Laptop",2,"HP Laptop 14","HP",7,3,5,"Estudios, Investigación",3600,5.83333333333333,10800
+"Ciencia de Datos",3,5,"Laptop",2,"HP Laptop 15-dy1xxx","HP",10,4,2,"Estudios, Investigación, Entretenimiento",3550,11.2676056338028,14200
+"Ciencias de la computación",6,6,"Laptop",3,"Asus TUF Gaming F15","Asus",4,1,5,"Estudios, Entretenimiento",6000,0.666666666666667,6000
+"Ciencias de la computación",3,6,"Laptop",3,"MateBook D","Huawei",3,6,3,"Estudios",3800,4.73684210526316,22800
+"Ciencias de la computación",3,5,"Celular",8,"Pro 30","Huawei",2,2,5,"Estudios, Entretenimiento",4200,0.952380952380952,8400
+"Ingenieria Ambiental",5,6,"Celular",2,"Galaxy S21","Samsung",5,2,4,"Estudios, Investigación, Entretenimiento",4000,2.5,8000
+"Ciencias de la computación",3,6,"Laptop",3,"ThinkPad","Lenovo",7,1,5,"Estudios",4950,1.41414141414141,4950
+"Ingenieria Civil",2,7,"Laptop",4,"Ideapad Gaming","Lenovo",3,2,4,"Estudios",3910,1.53452685421995,7820
+"Ingenieria Ambiental",4,6,"Laptop",2,"Acer Nitro 5","Acer",10,5,2,"Estudios, Investigación, Entretenimiento",5875,8.51063829787234,29375
+"Ciencias de la computación",3,6,"Laptop",3,"ThinkBook","Lenovo",4,1,5,"Estudios",5700,0.701754385964912,5700
+"Ciencias de la computación",3,6,"Celular",3,"Galaxy A15","Samsung",5,2,4,"Entretenimiento",5000,2,10000
+"Ciencias de la computación",3,6,"Celular",2,"Iphone 15","Apple",3,1,5,"Estudios, Entretenimiento",3877,0.77379417075058,3877
+"Ingenieria Mecatrónica",3,6,"Laptop",3,"HP Laptop 15","HP",2.5,2,5,"Estudios",5000,1,10000
+"Ciencias de la computación",3,6,"Celular",3,"Iphone 15 Pro","Apple",4,2,5,"Estudios, Investigación, Entretenimiento",3650,2.19178082191781,7300
+"Ingenieria Mecatrónica",4,6,"Celular",3,"iphone 15 pro max","Apple",8,5,3,"Estudios, Entretenimiento",4441,9.00698040981761,22205
+"Ingenieria Civil",4,6,"Laptop",3,"Lenovo Flex 5","Lenovo",7.5,2,4,"Estudios, Investigación",5250,2.85714285714286,10500
+"Ingenieria Civil",5,7,"Laptop",2,"Asus vivobook 14","Asus",6,6,3,"Estudios, Investigación, Otros",3000,12,18000
+"Ingenieria Electrónica",4,6,"Laptop",2,"ThinkPad","Lenovo",5,2,3,"Estudios, Investigación, Entretenimiento",4950,2.02020202020202,9900
+"Ingenieria Ambiental",4,6,"Laptop",3,"HP Victus- 16","HP",8,4,3,"Estudios, Investigación",4000,8,16000
+"Ciencias de la computación",3,6,"Laptop",4,"Lenovo ThinkPad T450","Lenovo",4,1,5,"Estudios, Investigación, Entretenimiento",5200,0.769230769230769,5200
+"Ciencias de la computación",3,6,"Celular",2,"Samsung Galaxy 10","Samsung",7,1,4,"Estudios, Entretenimiento",3400,2.05882352941176,3400
+"Ciencias de la computación",3,5,"Laptop",2,"Acer Nitro 5","Acer",3,1,5,"Estudios, Investigación",5875,0.51063829787234,5875
+"Ciencias de la computación",3,6,"Laptop",4,"HP Laptop 15","HP",7.5,2,5,"Estudios, Investigación",5000,3,10000
+"Bioingenieria",3,6,"Laptop",3,"Dell inspirion","DELL",1,4,4,"Investigación",3000,1.33333333333333,12000
+"Bioingenieria",4,5,"Laptop",3,"HP 14","HP",4,2,4,"Estudios",4000,2,8000
+"Ingenieria Civil",5,6,"Laptop",2,"Lenovo V15","Lenovo",3,1,5,"Estudios",3000,1,3000
+"Ingenieria Civil",4,6,"Laptop",3,"MSI","MSI",2,2,3,"Estudios, Investigación",3000,1.33333333333333,6000
+"Ingenieria Ambiental",4,7,"Laptop",2,"HP PAVIlion Gaming","HP",8,3,3,"Estudios, Investigación, Entretenimiento",4000,6,12000
+"Ingenieria Civil",7,5,"Laptop",3,"OMEN HP","HP",10,4,5,"Estudios, Investigación, Entretenimiento",6000,6.66666666666667,24000
+"Ingenieria Industrial",4,6,"Laptop",2,"Acer Nitro 5","HP",5,1,5,"Estudios, Entretenimiento",5875,0.851063829787234,5875
+"Ingenieria Ambiental",5,5,"Celular",3,"A51","Samsung",1,2,4,"Estudios",4500,0.444444444444444,9000
+"Ingenieria Química",6,5,"Celular",3,"Iphone 15 plus","Apple",10,1,5,"Entretenimiento",4383,2.28154232261008,4383
+"Ingenieria Mecatrónica",3,5,"Laptop",2,"A54","Samsung",1.5,2,4,"Estudios",5000,0.6,10000
+"Ciencia de Datos",7,5,"Celular",5,"iphone 13","Apple",14,1,4,"Estudios, Investigación, Entretenimiento, Otros",3240,4.32098765432099,3240
+"Ciencias de la computación",9,3,"Laptop",3,"Victus 16","HP",8,2,3,"Estudios, Investigación",5000,3.2,10000
+"Bioingenieria",3,5,"Laptop",2,"Lenovo ThinkPad","Lenovo",6,1,3,"Estudios, Investigación, Entretenimiento",4950,1.21212121212121,4950
+"Ciencias de la computación",7,3,"Laptop",2,"Tuf F15","Asus",12,8,1,"Estudios, Investigación, Entretenimiento",4000,24,32000
+"Bioingenieria",2,6,"Laptop",3,"HP Victus- 16","HP",9,2,3,"Estudios",4000,4.5,8000
+"Ciencias de la computación",7,6,"Laptop",2,"Dell Inspiron 7786","DELL",6,10,1,"Estudios, Investigación, Entretenimiento",3684,16.2866449511401,36840
+"Ingenieria Industrial",6,5,"Celular",3,"Redmi 12","Xiaomi",8,1,5,"Estudios",5000,1.6,5000
+"Ingenieria Industrial",6,6,"Laptop",2,"A80","Samsung",4,8,3,"Estudios, Investigación, Otros",3700,8.64864864864865,29600
+"Ciencias de la computación",4,4,"Laptop",3,"Asus Rog","Asus",10,5,4,"Estudios, Investigación, Entretenimiento",3700,13.5135135135135,18500
+"Ingenieria Industrial",9,4,"Laptop",3,"Hp EliteBook 830","HP",15,2,4,"Estudios, Investigación, Entretenimiento, Otros",4330,6.9284064665127,8660
+"Ingenieria Industrial",9,5,"Laptop",3,"Dell inspirion","DELL",5,5,2,"Estudios, Investigación",4400,5.68181818181818,22000
+"Ingenieria Industrial",7,6,"Laptop",2,"Lenovo thinkpad T450","Lenovo",8,6,3,"Estudios, Investigación, Entretenimiento",2100,22.8571428571429,12600
+"Ingenieria Ambiental",5,6,"Laptop",2,"Lenovo THINK PAD 7450","Lenovo",6,4,4,"Estudios, Investigación, Entretenimiento",4400,5.45454545454545,17600
+"Ingenieria Industrial",6,5,"Tablet",2,"Ipad Air 5th generación","Apple",5,2,4,"Estudios, Investigación, Entretenimiento",7606,1.31475151196424,15212
+"Ingenieria Industrial",6,6,"Laptop",2,"Acer Nitro 5","Asus",5,4,5,"Estudios, Investigación",3700,5.40540540540541,14800
+"Ingenieria Industrial",6,6,"Tablet",3,"Ipad Air 5th generación","Apple",8,3,5,"Estudios, Entretenimiento",7606,3.15540362871417,22818
+"Ingenieria Industrial",6,5,"Celular",3,"A12","Samsung",2,1,4,"Entretenimiento",5000,0.4,5000
+"Ingenieria Industrial",6,6,"Celular",4,"Xiaomi mi 11 lite","Xiaomi",10,2,5,"Estudios, Investigación, Entretenimiento, Otros",4250,4.70588235294118,8500
+"Ingenieria Industrial",6,6,"Laptop",3,"Dell INSPIRION","DELL",5,3,3,"Investigación",3700,4.05405405405405,11100
+"Ingenieria Industrial",6,6,"Laptop",3,"Rysem 7","HP",2,1,5,"Estudios, Investigación, Entretenimiento",5000,0.4,5000
+"Ingenieria Industrial",6,6,"Celular",3,"iPhone 11","Apple",5,3,5,"Estudios, Entretenimiento",3046,4.92449113591596,9138
+"Ingenieria Química",6,5,"Celular",2,"Moto g9 plus","Motorola",9,2,5,"Estudios, Investigación, Entretenimiento, Otros",5000,3.6,10000
+"Ingenieria Industrial",4,5,"Laptop",2,"S24 ultra","Samsung",2,3,4,"Estudios, Investigación",5000,1.2,15000
+"Ingenieria Industrial",3,5,"Celular",2,"Motorola g(9) plus","Motorola",6,2,5,"Estudios, Entretenimiento",5000,2.4,10000
+"Ingenieria de la Energía",7,4,"Laptop",2,"Laptop HP 250 G7","HP",4,3,5,"Estudios",3630,3.30578512396694,10890
+"Ingenieria Ambiental",9,3,"Laptop",2,"Legion y540","Apple",5,3,4,"Estudios, Investigación",5000,3,15000
+"Ingenieria de la Energía",5,4,"Laptop",4,"iPhone 13","Apple",5,1,4,"Investigación, Entretenimiento, Otros",3240,1.54320987654321,3240
+"Ingenieria de la Energía",6,6,"Celular",2,"Lenovo ThinkPad","Lenovo",4,2,3,"Estudios, Entretenimiento",8250,0.96969696969697,16500
+"Ingenieria Civil",6,6,"Celular",2,"Legion y540","Lenovo",3,2,3,"Estudios, Entretenimiento",5000,1.2,10000
+"Ingenieria Civil",6,6,"Laptop",2,"HP pavilion Gaming","HP",8,10,3,"Estudios, Investigación",4200,19.047619047619,42000
+"Ingenieria Civil",5,5,"Laptop",2,"Aspire 3","Acer",4,3,2,"Estudios",3840,3.125,11520
+"Ingenieria Ambiental",4,7,"Laptop",2,"HP Pavilion Gaming","HP",6,2,5,"Estudios, Investigación",4200,2.85714285714286,8400
+"Ciencias de la computación",3,5,"Celular",2,"Iphone 13","Apple",9,1,4,"Estudios, Entretenimiento",3240,2.77777777777778,3240
+"Ciencias de la computación",3,6,"Laptop",3,"Lenovo ThinkPad T450","Lenovo",8,2,5,"Estudios, Investigación",1920,8.33333333333333,3840
+"Ciencias de la computación",3,6,"Laptop",3,"Acer Nitro 5","Acer",9,2,5,"Investigación",4600,3.91304347826087,9200
+"Ciencias de la computación",3,6,"Laptop",3,"HP PAVILION 14","HP",6,1,5,"Estudios",3440,1.74418604651163,3440
+"Ciencias de la computación",3,6,"Laptop",3,"Lenovo ThinkPad T450","Lenovo",4,1,5,"Estudios",3680,1.08695652173913,3680
+"Ciencias de la computación",3,6,"Laptop",3,"Lenovo Yoga 730","Lenovo",6,1,5,"Estudios",4120,1.45631067961165,4120
+"Bioingenieria",7,6,"Laptop",3,"Acer Aspire 5","Acer",8,2,5,"Estudios, Investigación",3840,4.16666666666667,7680
+"Ciencias de la computación",3,6,"Laptop",2,"HP Omen 15","HP",7,1,5,"Estudios",5672.8,1.23395853899309,5672.8
+"Ciencias de la computación",3,6,"Celular",2,"Samsung Galaxy S21 Ultra","Samsung",14,2,5,"Estudios, Investigación",5000,5.6,10000
+"Ciencias de la computación",3,6,"Celular",2,"Huawei P50 Pro","Huawei",5,1,5,"Estudios",4360,1.14678899082569,4360
+"Ciencias de la computación",3,6,"Laptop",2,"Acer Aspire 5","Acer",6,2,5,"Estudios, Investigación",3840,3.125,7680
+"Ciencias de la computación",3,7,"Laptop",3,"Acer Nitro 5","Acer",8,2,5,"Estudios",4600,3.47826086956522,9200
+"Ciencias de la computación",3,6,"Celular",7,"iPhone 13 Pro","Apple",9,1,5,"Estudios",3095,2.90791599353796,3095
+"Ciencias de la computación",3,6,"Tablet",3,"Lenovo Tab P11 Pro","Lenovo",9,2,5,"Estudios",7500,2.4,15000
+"Ciencias de la computación",3,6,"Laptop",2,"Acer TravelMate P6","Acer",8,1,5,"Estudios, Investigación",5920,1.35135135135135,5920
+"Ciencias de la computación",5,5,"Tablet",3,"Huawei MatePad Pro","Huawei",9,2,5,"Estudios, Investigación",8300,2.16867469879518,16600
+"Ciencias de la computación",4,6,"Laptop",3,"Acer Nitro 5","Acer",9,2,5,"Estudios",4600,3.91304347826087,9200
+"Ciencias de la computación",3,6,"Tablet",2,"Xiaomi Mi Pad 5 Pro","Xiaomi",9,2,5,"Estudios",8600,2.09302325581395,17200
+"Ciencias de la computación",3,4,"Celular",3,"Huawei P50 Pro","Huawei",9,2,5,"Estudios",4360,4.12844036697248,8720
+"Ciencias de la computación",3,6,"Laptop",2,"Lenovo ThinkBook 14","Lenovo",12,2,4,"Estudios, Investigación",3040,7.89473684210526,6080
+"Ingenieria Mecatrónica",3,5,"Celular",2,"Motorola Edge","Motorola",9,1,5,"Estudios",4500,2,4500
+"Ciencias de la computación",3,5,"Laptop",2,"Lenovo Legion Y740","Lenovo",12,2,5,"Estudios, Investigación",4000,6,8000
+"Ciencias de la computación",3,6,"Celular",2,"Xiaomi Mi 11 Ultra","Xiaomi",12,2,5,"Estudios, Entretenimiento",5000,4.8,10000
+"Ciencias de la computación",3,6,"Celular",3,"iPhone 13 Pro","Apple",8,2,4,"Estudios, Investigación",3095,5.16962843295638,6190
+"Ciencias de la computación",3,6,"Celular",2,"iPhone 13 Pro","Apple",15,2,5,"Estudios, Entretenimiento, Otros",3095,9.69305331179321,6190
+"Ciencias de la computación",3,6,"Laptop",2,"HP ProBook 450","HP",10,2,5,"Entretenimiento",3600,5.55555555555556,7200
+"Ciencias de la computación",3,6,"Tablet",3,"Samsung Galaxy Tab A7
+","Samsung",9,1,5,"Estudios",5100,1.76470588235294,5100
+"Ingenieria Química",5,4,"Celular",3,"Iphone 13","Apple",3,1,5,"Estudios, Investigación, Entretenimiento",3240,0.925925925925926,3240
+"Ingenieria Civil",3,6,"Laptop",3,"Acer Chromebook Spin 713","Acer",6,2,5,"Estudios",4472,2.68336314847943,8944
+"Ingenieria Civil",3,6,"Laptop",2,"Lenovo IdeaPad 5","Lenovo",8,2,5,"Estudios, Investigación",3560,4.49438202247191,7120
+"Ingenieria Civil",3,6,"Laptop",2,"HP Elite Dragonfly","HP",4,2,5,"Investigación, Entretenimiento",4496,1.77935943060498,8992
+"Ingenieria Civil",3,6,"Celular",2,"Iphone 15 pro","Apple",9,2,5,"Estudios",4852,3.70981038746908,9704
+"Ingenieria Mecatrónica",3,6,"Laptop",2,"Acer Aspire 5","Acer",8,2,5,"Investigación",4368,3.66300366300366,8736
+"Bioingenieria",5,6,"Tablet",3,"Samsung Galaxy Tab S7","Samsung",6,2,5,"Estudios",8000,1.5,16000
+"Ciencias de la computación",4,6,"Laptop",3,"Lenovo ThinkPad L 42620series","Lenovo",5,2,5,"Estudios",3600,2.77777777777778,7200
+"Ingenieria Ambiental",4,6,"Laptop",2,"Lenovo ThinkPad 20TBS1D900","Lenovo",4,2,5,"Estudios, Entretenimiento",8520,0.938967136150235,17040
+"Ingenieria Mecatrónica",3,6,"Celular",2,"SM-A325M","Samsung",4,3,4,"Estudios, Entretenimiento",5000,2.4,15000
+"Ingenieria Civil",7,7,"Laptop",2,"Galaxy Book4 Pro","Samsung",5,3,3,"Estudios, Investigación",4900,3.06122448979592,14700
+"Ingenieria Civil",8,7,"Laptop",2,"Lenovo Ideapad L340","Lenovo",5,3,3,"Estudios, Investigación",3320,4.51807228915663,9960
+"Bioingenieria",7,6,"Laptop",2,"MacBook Air 15 pulgadas","Apple",7,3,3,"Estudios, Investigación",4230,4.9645390070922,12690
+"Bioingenieria",6,6,"Laptop",2,"Samsung galaxy a34","Samsung",14,1,4,"Estudios, Investigación, Entretenimiento",5000,2.8,5000
+"Ingenieria Civil",8,6,"Celular",2,"Iphone 14 pro Max","Apple",5,2,3,"Estudios, Investigación, Entretenimiento",4323,2.31320842007865,8646
+"Ciencias de la computación",1,7,"Celular",2,"A24S","Samsung",6,2,5,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ciencias de la computación",1,7,"Laptop",4,"Asus ROG Zephyrus","Asus",10,3,2,"Estudios, Entretenimiento",4830,6.2111801242236,14490
+"Ingenieria Civil",6,7,"Laptop",4,"GAMING PAVILLON","HP",6,2,5,"Estudios, Investigación, Entretenimiento",3320,3.6144578313253,6640
+"Ciencia de Datos",5,5,"Laptop",4,"MacBook pro 14 pulgadas","Apple",5,3,3,"Estudios, Investigación, Entretenimiento, Otros",4590,3.26797385620915,13770
+"Sistemas de Información",1,5,"Celular",2,"Samsung A34","Samsung",1,1,5,"Estudios",5000,0.2,5000
+"Ciencia de Datos",1,5,"Celular",2,"Samsung A52","Samsung",3,2,3,"Estudios, Entretenimiento",4500,1.33333333333333,9000
+"Ingenieria Mecánica",5,5,"Celular",2,"G14","Motorola",6,1,5,"Estudios, Entretenimiento",5000,1.2,5000
+"Ciencia de Datos",6,6,"Laptop",3,"Lenovo IdeaPad S340","Lenovo",4,5,2,"Estudios",3174,6.30119722747322,15870
+"Ingenieria Industrial",6,6,"Laptop",2,"VivoBook 15","Asus",1,1,4,"Estudios, Investigación, Entretenimiento",3727,0.268312315535283,3727
+"Ingenieria Industrial",6,5,"Celular",3,"Samsung a32","Samsung",6,2,5,"Estudios, Investigación, Entretenimiento, Otros",5000,2.4,10000
+"Ingenieria Química",7,5,"Laptop",2,"Huawei Matebook Pro","Huawei",7,2,5,"Estudios, Entretenimiento",3727,3.75637241749396,7454
+"Bioingenieria",7,5,"Laptop",2,"Victus 16","HP",8,4,5,"Estudios, Investigación, Entretenimiento",3727,8.58599409712906,14908
+"Ciencias de la computación",4,5,"Laptop",2,"lenovo C340","Lenovo",7,1,2,"Estudios, Entretenimiento",3727,1.87818620874698,3727
+"Ingenieria Civil",6,6,"Celular",3,"P9","Xiaomi",5,2,4,"Estudios, Entretenimiento",6000,1.66666666666667,12000
+"Ingenieria Civil",6,6,"Celular",3,"S23","Samsung",5,4,3,"Estudios, Investigación, Entretenimiento",3900,5.12820512820513,15600
+"Ingenieria Química",6,6,"Laptop",2,"Motorola edge 40","Motorola",15,2,3,"Estudios, Investigación, Entretenimiento",4400,6.81818181818182,8800
+"Ciencias de la computación",7,4,"Celular",3,"Iphone 10","Apple",8,1,5,"Estudios, Entretenimiento",2716,2.94550810014728,2716
+"Ingenieria Industrial",3,5,"Celular",2,"Samsung Note 19","Samsung",5,2,4,"Estudios, Entretenimiento",4000,2.5,8000
+"Ingenieria Industrial",3,5,"Laptop",3,"Lenovo idealpad","Lenovo",7,3,4,"Estudios, Entretenimiento",3000,7,9000
+"Ciencias de la computación",5,8,"Celular",6,"iPhone 15 pro","Apple",6.1,1,5,"Estudios, Entretenimiento",3274,1.86316432498473,3274
+"Ciencias de la computación",5,6,"Laptop",2,"TUF DASH F15","Asus",4,3,4,"Estudios, Entretenimiento",4935,2.43161094224924,14805
+"Ingenieria Electrónica",7,6,"Laptop",2,"S510U","Asus",6,2,3,"Estudios, Investigación, Entretenimiento",3600,3.33333333333333,7200
+"Ciencias de la computación",1,6,"Laptop",3,"Dell Inspiron I15","DELL",6,1,2,"Estudios",3600,1.66666666666667,3600
+"Sistemas de Información",1,6,"Tablet",3,"Ipad Air 5th generación","Apple",5,2,5,"Estudios",8827,1.13288773082588,17654
+"Ingenieria Mecatrónica",1,7,"Laptop",3,"DELL Inspiron 15","DELL",8,2,4,"Estudios, Investigación",4400,3.63636363636364,8800
+"Ingenieria Civil",5,6,"Laptop",4,"Tuffgamer","Asus",12,10,4,"Estudios, Investigación, Entretenimiento",4935,24.3161094224924,49350
+"Ingenieria Ambiental",7,6,"Celular",3,"Motorola ZenBook","Asus",10,2,4,"Estudios, Investigación",3636,5.5005500550055,7272
+"Bioingenieria",1,7,"Celular",2,"Iphone 10","Apple",6,2,5,"Estudios",2716,4.41826215022091,5432
+"Bioingenieria",1,6,"Celular",4,"Motorola Edge","Motorola",9,2,4,"Estudios, Investigación, Entretenimiento",5000,3.6,10000
+"Ciencia de Datos",1,6,"Laptop",3,"Lenovo ThinkPad L42620","Lenovo",8,2,5,"Estudios",5200,3.07692307692308,10400
+"Ciencias de la computación",5,6,"Laptop",3,"Lenovo ThinkPad T450","Lenovo",4,1,4,"Estudios, Investigación",5200,0.769230769230769,5200
+"Ingenieria Mecatrónica",7,5,"Celular",2,"Iphone 15 Pro","Apple",10,2,5,"Estudios, Investigación, Entretenimiento",3274,6.10873549175321,6548
+"Bioingenieria",1,6,"Celular",2,"Huawei 9 Lite","Huawei",10,2,4,"Estudios, Investigación",3000,6.66666666666667,6000
+"Ingenieria Mecatrónica",1,6,"Laptop",2,"Acer Nitro 5","Acer",5,1,5,"Estudios",5185,0.964320154291225,5185
+"Ingenieria Mecánica",3,6,"Laptop",2,"lenovo ideapad","Lenovo",7,2,4,"Estudios, Entretenimiento",5000,2.8,10000
+"Ingenieria Mecatrónica",3,6,"Celular",2,"Samsung","Samsung",4,1,5,"Estudios, Entretenimiento",5000,0.8,5000
+"Ingenieria Civil",4,6,"Laptop",3,"MSI","MSI",1,6,2,"Entretenimiento",3500,1.71428571428571,21000
+"Ingenieria Civil",4,6,"Celular",3,"Samsung","Samsung",9,4,4,"Estudios, Investigación, Entretenimiento",4500,8,18000
+"Ingenieria Mecánica",3,5,"Laptop",2,"lenovo ideapad","Lenovo",5,2,4,"Estudios",5000,2,10000
+"Ingenieria Ambiental",3,5,"Laptop",2,"Acer Nitro 5","Acer",3,1,4,"Estudios",5000,0.6,5000
+"Bioingenieria",3,6,"Laptop",2,"lenovo ideapad","Xiaomi",4,2,5,"Estudios",4500,1.77777777777778,9000
+"Ingenieria Civil",4,6,"Laptop",2,"asus tuf gaming","Asus",6,3,5,"Estudios",4500,4,13500
+"Ingenieria Industrial",2,4,"Celular",2,"Samsung","Samsung",5,4,5,"Estudios, Investigación, Entretenimiento, Otros",7000,2.85714285714286,28000
+"Ingenieria Mecatrónica",3,6,"Laptop",3,"lenovo ideapad","Lenovo",6,3,5,"Estudios, Investigación, Entretenimiento, Otros",5000,3.6,15000
+"Ingenieria Civil",4,4,"Laptop",2,"lenovo ideapad","Lenovo",2.5,2,5,"Estudios, Investigación",4500,1.11111111111111,9000
+"Ingenieria Ambiental",3,6,"Laptop",2,"Acer Nitro 5","Acer",6,1,3,"Estudios, Entretenimiento",4000,1.5,4000
+"Ingenieria Civil",4,6,"Celular",2,"Xiaomi","Xiaomi",2,2,5,"Estudios, Investigación, Entretenimiento",5000,0.8,10000
+"Ingenieria Civil",4,7,"Laptop",2,"HP Victus","Samsung",6,2,4,"Estudios",4000,3,8000
+"Ingenieria Civil",4,6,"Laptop",3,"asus tuf gaming","Asus",11,3,4,"Estudios",4500,7.33333333333333,13500
+"Ingenieria Civil",5,5,"Laptop",3,"asus tuf gaming","Asus",4.3,3,3,"Estudios, Investigación, Entretenimiento",5000,2.58,15000
+"Ingenieria Mecatrónica",3,6,"Laptop",2,"lenovo ideapad","Lenovo",4,1,1,"Estudios, Investigación",4500,0.888888888888889,4500
+"Ingenieria Ambiental",3,6,"Celular",5,"Iphone","Apple",6,1,5,"Entretenimiento",4000,1.5,4000
+"Ingenieria Ambiental",3,5,"Celular",4,"Iphone","Apple",3,3,3,"Estudios",4500,2,13500
+"Ingenieria Civil",4,6,"Laptop",3,"HP Victus","HP",10,8,4,"Estudios, Entretenimiento",4000,20,32000
+"Ingenieria Ambiental",4,6,"Laptop",3,"HP Victus","HP",10,3,5,"Estudios, Investigación, Entretenimiento",4000,7.5,12000
+"Ingenieria Civil",4,7,"Laptop",5,"asus tuf gaming","Asus",1.3,1,4,"Estudios",4000,0.325,4000
+"Ingenieria Electrónica",4,6,"Laptop",3,"HP Victus","HP",8,3,3,"Estudios, Investigación, Entretenimiento",4000,6,12000
+"Ingenieria Mecatrónica",3,6,"Celular",3,"Samsung","Samsung",6,2,3,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ingenieria Mecatrónica",4,7,"Laptop",5,"Acer Nitro 5","Acer",4.5,3,3,"Estudios",3500,3.85714285714286,10500
+"Ingenieria Civil",4,7,"Laptop",2,"MSI","MSI",5,2,3,"Estudios, Investigación, Entretenimiento",4000,2.5,8000
+"Ingenieria Electrónica",4,6,"Laptop",3,"HP Victus","HP",4,3,4,"Estudios, Entretenimiento",4500,2.66666666666667,13500
+"Ingenieria Civil",5,7,"Laptop",2,"Acer Nitro 5","Acer",1,2,1,"Estudios",4500,0.444444444444444,9000
+"Ingenieria Civil",4,5,"Laptop",2,"lenovo ideapad","Lenovo",4,2,4,"Estudios, Entretenimiento",4000,2,8000
+"Ingenieria Ambiental",3,6,"Laptop",2,"HP Victus","HP",6,4,3,"Estudios",4000,6,16000
+"Ingenieria Civil",4,6,"Laptop",4,"Acer Nitro 5","Acer",6,2,4,"Otros",5000,2.4,10000
+"Ingenieria de la Energía",3,5,"Tablet",3,"Samsung","Samsung",5,1,3,"Estudios, Entretenimiento",7000,0.714285714285714,7000
+"Ingenieria Mecatrónica",3,5,"Tablet",3,"Samsung","Samsung",7,2,3,"Estudios, Investigación, Entretenimiento",4500,3.11111111111111,9000
+"Bioingenieria",3,5,"Laptop",2,"HP Victus","HP",5,3,2,"Estudios",5000,3,15000
+"Bioingenieria",4,5,"Celular",3,"Iphone","Apple",5,3,4,"Estudios, Investigación, Entretenimiento",2500,6,7500
+"Ingenieria Civil",4,7,"Laptop",3,"HP Victus","HP",6,3,3,"Estudios, Investigación",5000,3.6,15000
+"Ingenieria Mecatrónica",2,6,"Celular",3,"Xiaomi","Xiaomi",4,2,4,"Estudios, Entretenimiento",4000,2,8000
+"Ingenieria Civil",2,6,"Tablet",4,"Samsung","Samsung",7,5,2,"Estudios, Investigación, Entretenimiento, Otros",3000,11.6666666666667,15000
+"Ingenieria Industrial",4,7,"Laptop",2,"HP Victus","HP",5,2,4,"Estudios, Investigación",4000,2.5,8000
+"Ingenieria Mecatrónica",4,6,"Laptop",2,"HP Victus","HP",6,1,4,"Estudios, Investigación",4500,1.33333333333333,4500
+"Ingenieria Mecánica",5,6,"Laptop",3,"lenovo ideapad","Lenovo",5,2,5,"Estudios, Investigación",5000,2,10000
+"Ingenieria Ambiental",1,7,"Celular",3,"Samsung","Samsung",4,2,4,"Estudios, Investigación, Entretenimiento",3000,2.66666666666667,6000
+"Ingenieria Ambiental",3,5,"Celular",3,"Iphone","Apple",5,2,3,"Estudios, Entretenimiento",5000,2,10000
+"Bioingenieria",3,6,"Celular",4,"Iphone","Apple",9,1,5,"Estudios",5000,1.8,5000
+"Ingenieria Ambiental",1,7,"Celular",3,"Iphone","Apple",7,2,3,"Estudios, Investigación, Entretenimiento",4500,3.11111111111111,9000
+"Bioingenieria",3,6,"Celular",3,"Iphone","Apple",5,3,4,"Estudios, Investigación, Entretenimiento",4000,3.75,12000
+"Ciencias de la computación",3,7,"Laptop",2,"lenovo ideapad","Lenovo",8,3,5,"Estudios",4500,5.33333333333333,13500
+"Ingenieria Química",3,6,"Laptop",2,"HP Victus","HP",5,3,5,"Estudios, Investigación, Entretenimiento",7000,2.14285714285714,21000
+"Ingenieria Industrial",1,7,"Celular",2,"Xiaomi","Xiaomi",5,1,4,"Estudios, Entretenimiento",3000,1.66666666666667,3000
+"Ingenieria Industrial",1,7,"Celular",3,"Samsung","Samsung",8,1,4,"Estudios, Entretenimiento",4000,2,4000
+"Ingenieria Ambiental",4,6,"Laptop",3,"HP Victus","HP",8,3,3,"Estudios, Investigación",5000,4.8,15000
+"Ingenieria Civil",2,6,"Laptop",2,"HP Victus","HP",6,2,5,"Estudios, Entretenimiento",4000,3,8000
+"Ingenieria Civil",2,6,"Laptop",2,"HP Victus","HP",6,2,4,"Estudios, Entretenimiento",3000,4,6000
+"Ingenieria Mecánica",1,7,"Celular",3,"Iphone","Apple",5,3,4,"Estudios, Investigación",3000,5,9000
+"Ingenieria Mecatrónica",1,7,"Laptop",3,"HP Victus","HP",2,1,5,"Estudios, Investigación, Entretenimiento",5000,0.4,5000
+"Ingenieria Mecánica",1,6,"Celular",2,"Xiaomi","Xiaomi",3,2,3,"Estudios, Otros",4500,1.33333333333333,9000
+"Ingenieria Mecánica",1,7,"Celular",4,"Xiaomi","POCO",5,2,5,"Estudios, Entretenimiento",5000,2,10000
+"Ingenieria Mecatrónica",1,7,"Celular",2,"Iphone","Apple",5,2,3,"Estudios, Investigación, Entretenimiento",2500,4,5000
+"Ingenieria Mecatrónica",3,5,"Laptop",2,"lenovo ideapad","Lenovo",6,2,5,"Estudios, Investigación",5000,2.4,10000
+"Ingenieria Ambiental",4,6,"Laptop",3,"HP Victus","HP",5,3,3,"Estudios",5000,3,15000
+"Ciencias de la computación",3,6,"Laptop",2,"HP Victus","HP",5,2,5,"Estudios, Entretenimiento",4000,2.5,8000
+"Ingenieria Civil",4,5,"Celular",2,"Iphone","Apple",8,2,4,"Estudios, Entretenimiento, Otros",5000,3.2,10000
+"Ingenieria Civil",8,7,"Celular",2,"Xiaomi","Xiaomi",5,2,3,"Estudios, Entretenimiento",5000,2,10000
+"Ingenieria Mecatrónica",9,4,"Laptop",3,"lenovo ideapad","Lenovo",6,4,3,"Estudios, Investigación, Entretenimiento, Otros",4000,6,16000
+"Ingenieria Mecánica",1,7,"Tablet",4,"Xiaomi","Xiaomi",5,3,5,"Estudios",5000,3,15000
+"Ingenieria Mecatrónica",7,5,"Laptop",2,"HP Victus","HP",4,2,3,"Estudios, Investigación, Entretenimiento, Otros",4000,2,8000
+"Ingenieria Mecánica",7,4,"Tablet",3,"Samsung","Samsung",4,1,5,"Estudios, Entretenimiento",5000,0.8,5000
+"Ciencias de la computación",3,5,"Celular",2,"Samsung","Samsung",5,1,4,"Estudios, Investigación, Entretenimiento",4000,1.25,4000
+"Ciencias de la computación",7,5,"Laptop",3,"asus tuf gaming","Asus",6,2,4,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ciencias de la computación",6,4,"Laptop",2,"Macbook","Apple",5,2,5,"Estudios, Investigación",5000,2,10000
+"Ingenieria Mecatrónica",3,5,"Laptop",2,"lenovo ideapad","Lenovo",5,4,5,"Estudios",4000,5,16000
+"Ingenieria Química",3,4,"Laptop",2,"Samsung","Samsung",5,2,5,"Estudios, Investigación, Entretenimiento, Otros",4500,2.22222222222222,9000
+"Ingenieria de la Energía",4,7,"Laptop",2,"lenovo ideapad","Lenovo",8,3,4,"Estudios",3500,6.85714285714286,10500
+"Ingenieria Química",5,5,"Tablet",3,"Iphone","Apple",5,2,5,"Estudios",5000,2,10000
+"Bioingenieria",1,6,"Laptop",3,"Acer Nitro 5","Acer",6,2,5,"Estudios, Investigación, Entretenimiento",3500,3.42857142857143,7000
+"Ingenieria Mecánica",2,7,"Laptop",2,"HP Victus","HP",6,3,3,"Estudios, Investigación, Entretenimiento",4000,4.5,12000
+"Ingenieria Ambiental",3,6,"Tablet",6,"Samsung","Samsung",4,3,4,"Estudios, Entretenimiento",4500,2.66666666666667,13500
+"Ciencias de la computación",4,5,"Laptop",3,"lenovo ideapad","Lenovo",2,3,4,"Estudios",4000,1.5,12000
+"Ingenieria Mecatrónica",1,5,"Celular",3,"Samsung","Samsung",2.5,2,4,"Estudios, Entretenimiento",5000,1,10000
+"Ciencias de la computación",6,5,"Celular",3,"Samsung","Samsung",4,2,4,"Estudios, Investigación, Entretenimiento",5000,1.6,10000
+"Ingenieria Industrial",2,5,"Celular",2,"Samsung","Samsung",6,2,4,"Estudios, Entretenimiento",3500,3.42857142857143,7000
+"Ingenieria Química",2,6,"Celular",3,"Samsung","Samsung",5,3,4,"Estudios, Investigación, Entretenimiento",4000,3.75,12000
+"Ingenieria Química",2,6,"Celular",3,"Samsung","Samsung",3,2,4,"Estudios, Entretenimiento",4500,1.33333333333333,9000
+"Ingenieria Química",4,4,"Celular",3,"Iphone","Apple",5,2,4,"Estudios, Investigación, Entretenimiento",3000,3.33333333333333,6000
+"Ingenieria Civil",3,6,"Celular",4,"Samsung","Xiaomi",7,2,5,"Estudios, Entretenimiento",5000,2.8,10000
+"Ingenieria de la Energía",3,4,"Laptop",2,"asus tuf gaming","Asus",5,3,4,"Estudios, Investigación",6000,2.5,18000
+"Ingenieria Civil",4,6,"Laptop",2,"lenovo ideapad","Lenovo",2,1,4,"Estudios",4000,0.5,4000
+"Ingenieria Química",3,4,"Laptop",2,"HP Victus","HP",8,2,2,"Estudios, Entretenimiento",4000,4,8000
+"Ingenieria Industrial",6,6,"Celular",2,"lenovo ideapad","Lenovo",6,5,3,"Estudios, Investigación, Entretenimiento",4000,7.5,20000
+"Ingenieria Industrial",5,5,"Celular",2,"Honor","Honor",1.5,1,4,"Estudios, Entretenimiento",4000,0.375,4000
+"Ciencias de la computación",3,6,"Celular",1,"Honor","Honor",4,2,3,"Estudios, Investigación, Entretenimiento",5000,1.6,10000
+"Ciencias de la computación",3,6,"Celular",3,"Samsung","Samsung",8,5,2,"Entretenimiento",4500,8.88888888888889,22500
+"Ingenieria Mecánica",1,4,"Celular",2,"Samsung","Samsung",2.5,2,4,"Estudios, Investigación, Entretenimiento",4500,1.11111111111111,9000
+"Ciencias de la computación",2,5,"Celular",3,"Samsung","Samsung",4,3,4,"Estudios, Investigación",5000,2.4,15000
+"Ciencias de la computación",3,6,"Celular",3,"Huawei","Huawei",4,1,4,"Estudios, Investigación, Entretenimiento",4000,1,4000
+"Ingenieria Civil",6,6,"Tablet",3,"Samsung","Samsung",5,2,5,"Estudios, Investigación",4500,2.22222222222222,9000
+"Ingenieria Civil",6,7,"Laptop",1,"HP Victus","HP",1,1,5,"Estudios",4000,0.25,4000
+"Ingenieria Civil",6,7,"Tablet",3,"Samsung","Samsung",3,1,5,"Estudios, Investigación, Entretenimiento",10090,0.297324083250743,10090
+"Ingenieria Civil",6,7,"Tablet",3,"Samsung","Samsung",5,2,4,"Estudios",5000,2,10000
+"Ingenieria Civil",6,6,"Laptop",3,"HP Victus","HP",3,2,4,"Estudios",4000,1.5,8000
+"Ciencias de la computación",3,5,"Tablet",5,"Iphone","Apple",8,5,4,"Estudios, Investigación, Entretenimiento",7000,5.71428571428571,35000
+"Ingenieria Civil",2,6,"Laptop",2,"lenovo ideapad","Lenovo",4,3,4,"Estudios, Investigación, Entretenimiento",5000,2.4,15000
+"Ingenieria Mecánica",7,6,"Celular",2,"Samsung","Samsung",3,4,4,"Estudios, Investigación, Entretenimiento",5000,2.4,20000
+"Bioingenieria",6,5,"Celular",2,"Xiaomi","Xiaomi",4,1,5,"Estudios, Investigación, Entretenimiento, Otros",5000,0.8,5000
+"Ingenieria Civil",7,6,"Celular",2,"Iphone","Apple",4.5,2,4,"Estudios, Investigación, Entretenimiento, Otros",4000,2.25,8000
+"Ingenieria Civil",7,6,"Celular",3,"Iphone","Apple",4,3,4,"Estudios, Investigación, Entretenimiento",3000,4,9000
+"Ingenieria Civil",4,6,"Celular",2,"Xiaomi","Xiaomi",8,2,5,"Estudios, Investigación, Entretenimiento",5000,3.2,10000
+"Ingenieria Civil",4,6,"Laptop",3,"asus tuf gaming","Asus",3,3,4,"Estudios",4500,2,13500
+"Ingenieria Civil",4,6,"Laptop",3,"Huawei","Huawei",7,2,3,"Estudios",7000,2,14000
+"Ingenieria Civil",4,7,"Laptop",3,"Acer Nitro 5","Acer",8,5,3,"Estudios, Investigación, Entretenimiento",3500,11.4285714285714,17500
+"Ingenieria Civil",4,5,"Laptop",2,"Acer Nitro 5","Acer",9,2,5,"Estudios, Investigación, Entretenimiento",3500,5.14285714285714,7000
+"Ingenieria Civil",4,6,"Laptop",3,"HP Victus","HP",5,5,4,"Estudios",4000,6.25,20000
+"Ingenieria Civil",4,6,"Laptop",3,"lenovo ideapad","Lenovo",5,1,3,"Estudios, Investigación, Entretenimiento",5000,1,5000
+"Ingenieria Mecánica",3,4,"Laptop",3,"lenovo ideapad","Lenovo",7,2,4,"Estudios, Investigación, Entretenimiento, Otros",5000,2.8,10000
+"Ingenieria Industrial",4,6,"Laptop",3,"HP Victus","HP",5,2,4,"Estudios, Investigación",4000,2.5,8000
+"Ingenieria Civil",5,6,"Celular",3,"Samsung","Samsung",5,3,5,"Estudios, Investigación, Entretenimiento",4500,3.33333333333333,13500
+"Ingenieria Industrial",4,6,"Celular",2,"motorola","Motorola",5,2,4,"Estudios, Investigación, Entretenimiento",5000,2,10000
+"Bioingenieria",4,8,"Celular",2,"Honor","Honor",4.5,1,5,"Estudios, Investigación, Entretenimiento",4500,1,4500
+"Ingenieria Civil",3,6,"Celular",3,"Xiaomi","POCO",5,3,5,"Estudios, Investigación, Entretenimiento",5000,3,15000
+"Ingenieria Civil",3,6,"Celular",3,"Samsung","Samsung",7,2,5,"Estudios, Entretenimiento",4500,3.11111111111111,9000
+"Ingenieria Civil",6,6,"Laptop",3,"lenovo ideapad","Lenovo",3,1,4,"Estudios",5000,0.6,5000
+"Ingenieria Civil",4,6,"Celular",3,"Samsung","Samsung",1,2,3,"Estudios, Investigación, Entretenimiento",4000,0.5,8000
+"Ciencia de Datos",3,6,"Laptop",3,"lenovo ideapad","Lenovo",4,2,4,"Estudios",5000,1.6,10000
+"Ciencia de Datos",3,6,"Laptop",2,"Macbook","Apple",6,1,5,"Estudios, Investigación, Entretenimiento",6000,1,6000
+"Ciencias de la computación",3,5,"Celular",3,"Iphone","Apple",3,2,3,"Estudios, Entretenimiento",3000,2,6000
+"Ciencia de Datos",3,6,"Laptop",4,"HP Victus","HP",6,3,3,"Estudios, Investigación",4000,4.5,12000
+"Ingenieria Mecatrónica",7,8,"Tablet",3,"Samsung","Samsung",7,1,3,"Estudios, Investigación, Entretenimiento, Otros",4500,1.55555555555556,4500
+"Ingenieria Mecatrónica",6,5,"Celular",2,"Honor","Honor",6,3,5,"Estudios",5000,3.6,15000
+"Bioingenieria",10,5,"Laptop",2,"lenovo ideapad","Lenovo",4,1,5,"Estudios, Investigación, Entretenimiento, Otros",5000,0.8,5000
+"Bioingenieria",8,7,"Laptop",2,"asus tuf gaming","Asus",8,1,5,"Estudios, Investigación, Otros",4500,1.77777777777778,4500
+"Ciencia de Datos",3,5,"Laptop",3,"lenovo ideapad","Lenovo",8,2,3,"Estudios, Entretenimiento",4500,3.55555555555556,9000
+"Ingenieria Civil",5,7,"Laptop",3,"HP Victus","HP",6,2,5,"Estudios, Investigación, Entretenimiento, Otros",4000,3,8000
+"Ingenieria Civil",4,7,"Celular",2,"Samsung","Samsung",6,2,4,"Estudios, Entretenimiento",5000,2.4,10000
+"Ingenieria Mecatrónica",5,6,"Laptop",2,"HP Victus","HP",3.6,3,3,"Estudios, Entretenimiento",4000,2.7,12000
+"Ingenieria Mecánica",4,6,"Celular",3,"Iphone","Apple",4,3,2,"Estudios, Investigación",4500,2.66666666666667,13500
+"Ingenieria Industrial",8,4,"Celular",2,"Iphone","Apple",6,2,5,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ingenieria Electrónica",7,5,"Laptop",3,"Acer Nitro 5","Acer",5,1,3,"Estudios, Entretenimiento",5000,1,5000
+"Ciencia de Datos",4,4,"Laptop",3,"Macbook","Apple",8,2,4,"Estudios",4500,3.55555555555556,9000
+"Ingenieria Industrial",4,5,"Laptop",2,"HP Victus","HP",6.5,3,4,"Estudios, Entretenimiento",7000,2.78571428571429,21000
+"Ingenieria Civil",4,7,"Laptop",2,"Huawei","Huawei",2,2,4,"Estudios, Entretenimiento",7000,0.571428571428571,14000
+"Ingenieria Civil",4,7,"Tablet",3,"lenovo ideapad","Lenovo",10,2,4,"Estudios, Investigación, Entretenimiento",3500,5.71428571428571,7000
+"Ingenieria Civil",4,7,"Tablet",3,"Samsung","Samsung",3.5,1,4,"Estudios",5000,0.7,5000
+"Ingenieria Mecatrónica",7,6,"Celular",4,"Xiaomi","Xiaomi",2,1,4,"Estudios, Entretenimiento",5000,0.4,5000
+"Ingenieria Mecatrónica",3,4,"Laptop",2,"lenovo ideapad","Lenovo",3,1,5,"Estudios, Entretenimiento",5000,0.6,5000
+"Ingenieria Civil",4,7,"Laptop",3,"lenovo ideapad","Lenovo",5,3,4,"Estudios",3500,4.28571428571429,10500
+"Ingenieria Civil",4,4,"Laptop",2,"Samsung","Samsung",3,3,4,"Estudios, Investigación, Entretenimiento",4000,2.25,12000
+"Ingenieria Civil",7,6,"Laptop",2,"HP Victus","HP",5,3,1,"Estudios, Investigación",4000,3.75,12000
+"Ingenieria Civil",6,7,"Celular",3,"Iphone","Apple",3,4,4,"Estudios, Investigación",5000,2.4,20000
+"Ingenieria Civil",4,6,"Laptop",2,"MSI","MSI",4,2,3,"Estudios, Entretenimiento",4500,1.77777777777778,9000
+"Ingenieria Ambiental",4,7,"Laptop",2,"HP Victus","HP",10,3,3,"Estudios, Investigación, Entretenimiento",4000,7.5,12000
+"Ingenieria Civil",4,6,"Laptop",3,"lenovo ideapad","Lenovo",3,2,4,"Estudios",3500,1.71428571428571,7000
+"Ingenieria Civil",4,8,"Tablet",3,"Samsung","Samsung",6.5,3,4,"Estudios",4000,4.875,12000
+"Ingenieria Electrónica",4,5,"Laptop",3,"HP Victus","HP",4.5,2,4,"Estudios, Entretenimiento",4000,2.25,8000
+"Ingenieria Química",7,4,"Celular",2,"Samsung","Samsung",5,2,4,"Estudios, Entretenimiento",5000,2,10000
+"Ingenieria Industrial",2,5,"Laptop",2,"Macbook","Apple",4,2,3,"Estudios, Investigación",5000,1.6,10000
+"Ciencias de la computación",4,5,"Laptop",2,"lenovo ideapad","Lenovo",4,2,4,"Estudios, Entretenimiento, Otros",5000,1.6,10000
+"Ingenieria Mecatrónica",4,6,"Laptop",3,"lenovo ideapad","Lenovo",8,3,3,"Estudios, Investigación, Entretenimiento",3500,6.85714285714286,10500
+"Ingenieria Mecatrónica",4,6,"Laptop",2,"lenovo ideapad","Lenovo",4,4,4,"Estudios, Investigación",3500,4.57142857142857,14000
+"Ingenieria Ambiental",6,5,"Laptop",2,"HP Victus","HP",3,3,3,"Estudios, Entretenimiento",4000,2.25,12000
+"Bioingenieria",4,5,"Laptop",2,"HP Victus","HP",5,3,3,"Estudios, Investigación, Entretenimiento",4000,3.75,12000
+"Ingenieria Civil",3,6,"Celular",2,"Iphone","Apple",5,3,4,"Estudios, Entretenimiento",3000,5,9000
+"Ingenieria Ambiental",4,6,"Laptop",2,"Acer Nitro 5","Acer",7,6,2,"Estudios, Investigación, Entretenimiento",3500,12,21000
+"Ingenieria Civil",4,6,"Laptop",3,"Acer Nitro 5","Acer",4,4,3,"Estudios, Investigación",3500,4.57142857142857,14000
+"Ciencias de la computación",3,5,"Laptop",4,"Lenovo Ideapad 5","Lenovo",1.3,4,3,"Investigación",4650,1.11827956989247,18600
+"Ingenieria Mecatrónica",3,6,"Celular",2,"Iphone 11","Apple",8,2,4,"Estudios, Investigación, Entretenimiento",3310,4.83383685800604,6620
+"Ingenieria Industrial",3,7,"Celular",3,"iPhone 13","Apple",4,1,4,"Estudios, Entretenimiento",3327,1.20228434024647,3327
+"Ingenieria Electrónica",3,7,"Tablet",3,"Iphone 11 pro max","Apple",7,1,3,"Estudios, Entretenimiento",3500,2,3500
+"Ingenieria Mecatrónica",3,7,"Laptop",3,"HP laptop 114","HP",5,2,3,"Estudios, Entretenimiento",2600,3.84615384615385,5200
+"Ingenieria Civil",3,5,"Laptop",3,"Lenovo thinkpad t14","Lenovo",4,1,5,"Estudios, Investigación, Entretenimiento",5400,0.740740740740741,5400
+"Ingenieria Ambiental",4,7,"Tablet",3,"Lenovo Tab p12","Lenovo",9,1,5,"Estudios, Investigación",10200,0.882352941176471,10200
+"Ingenieria Civil",3,6,"Laptop",2,"Vivobook_ASUSLaptop M6500QC","Asus",8,2,4,"Estudios, Investigación, Entretenimiento",6030,2.65339966832504,12060
+"Ingenieria Ambiental",4,6,"Laptop",3,"Victus by HP laptop 16- d0xxx","HP",8,4,3,"Estudios, Investigación",5200,6.15384615384615,20800
+"Ingenieria Mecánica",3,6,"Laptop",2,"Victus by HP Gaming Laptop 16","HP",5,2,3,"Estudios, Investigación, Entretenimiento",4323,2.31320842007865,8646
+"Ingenieria Ambiental",4,6,"Tablet",3,"Samsung s6 lite","Samsung",7,1,3,"Estudios, Investigación, Entretenimiento",7040,0.994318181818182,7040
+"Ingenieria Civil",3,6,"Laptop",2,"Asus TUF Gaming","Asus",5,2,3,"Estudios, Entretenimiento",5600,1.78571428571429,11200
+"Ciencias de la computación",3,6,"Laptop",3,"Lenovo Ideapad 5 82FG","Lenovo",12,2,4,"Estudios, Investigación",4140,5.79710144927536,8280
+"Ingenieria Civil",3,7,"Celular",3,"iPhone 14","Apple",6.4,2,4,"Estudios, Entretenimiento",3279,3.90362915523025,6558
+"Ciencias de la computación",3,6,"Laptop",2,"Vibobook_ASUSLaptop M1605YA_M1605YA","Asus",6,6,5,"Estudios, Investigación, Entretenimiento, Otros",3640,9.89010989010989,21840
+"Ingenieria Mecatrónica",3,6,"Laptop",4,"Victus by HP Gaming Laptop 15","Lenovo",5,2,4,"Estudios, Entretenimiento",4323,2.31320842007865,8646
+"Ingenieria Mecatrónica",3,5,"Laptop",3,"Nitro AN515-57","Acer",5,2,4,"Estudios, Entretenimiento",3733,2.67881060809001,7466
+"Ciencia de Datos",3,6,"Laptop",3,"Lenovo Thinkpad","Lenovo",4,2,4,"Estudios",4100,1.95121951219512,8200
+"Ciencias de la computación",3,6,"Laptop",2,"HP Laptop 15-ef1xxx","HP",10,2,4,"Estudios, Otros",3732,5.35905680600214,7464
+"Ciencias de la computación",3,6,"Laptop",2,"Lenovo YOGA 510-14ISK","Lenovo",3,8,5,"Estudios, Investigación, Entretenimiento",4605,5.21172638436482,36840
+"Ciencias de la computación",5,5,"Tablet",2,"Samsung Galaxy Tab S8","Samsung",5,2,5,"Estudios, Entretenimiento",8000,1.25,16000
+"Ingenieria Ambiental",4,6,"Laptop",4,"Nitro AN515-57","Acer",10,3,4,"Estudios, Investigación, Entretenimiento",3733,8.03643182427002,11199
+"Ingenieria Industrial",4,6,"Celular",2,"Iphone 13","Apple",7.5,2,4,"Entretenimiento",3327,4.50856627592426,6654
+"Ciencia de Datos",3,6,"Laptop",2,"Macbook Pro M2 Pro","Apple",7,1,5,"Estudios, Entretenimiento",5103,1.37174211248285,5103
+"Ingenieria Industrial",8,3,"Tablet",3,"iPad pro 12","Apple",3,1,4,"Estudios, Entretenimiento",7600,0.394736842105263,7600
+"Ingenieria Química",7,4,"Laptop",2,"Lenovo thinkpad t480","Lenovo",5,2,3,"Estudios, Investigación, Entretenimiento",2100,4.76190476190476,4200
+"Ingenieria Civil",2,7,"Celular",2,"Motorola moto g34 5G","Motorola",10,2,5,"Estudios, Investigación, Entretenimiento",5000,4,10000
+"Ingenieria Ambiental",4,6,"Laptop",3,"Hp core i5","HP",7,3,5,"Estudios, Investigación, Entretenimiento",2200,9.54545454545454,6600
+"Ingenieria Industrial",5,6,"Celular",3,"Iphone 12 pro","Apple",4,2,5,"Estudios, Investigación, Entretenimiento",2815,2.84191829484902,5630
+"Ingenieria Civil",2,6,"Laptop",2,"Hp Envy 13-ba1012la","HP",4,2,4,"Estudios, Investigación, Entretenimiento",3454,2.31615518239722,6908
+"Ingenieria Ambiental",4,6,"Laptop",3,"Hp victus 16","HP",5,3,3,"Estudios",4550,3.2967032967033,13650
+"Ingenieria Civil",5,2,"Celular",2,"iPhone 13","Apple",6,2,4,"Estudios, Investigación, Entretenimiento",3227,3.71862410907964,6454
+"Ciencias de la computación",3,6,"Laptop",2,"HP Zbook 15 G4","HP",6,3,5,"Estudios, Entretenimiento",4600,3.91304347826087,13800
+"Ciencias de la computación",3,5,"Laptop",2,"Macbook air M2 ventura 14.0","Apple",8,1,3,"Estudios",4730,1.69133192389006,4730
+"Ingenieria Industrial",3,5,"Laptop",2,"HP core i3","HP",6,3,4,"Estudios, Entretenimiento",3700,4.86486486486486,11100
+"Ciencias de la computación",3,6,"Laptop",3,"Lenovo Thinkpad T480","Lenovo",6,2,3,"Estudios, Investigación",2060,5.8252427184466,4120
+"Ingenieria de la Energía",5,4,"Laptop",3,"THINKPADT490","Lenovo",5,10,3,"Estudios, Investigación, Entretenimiento",4385,11.4025085518814,43850
+"Ingenieria Industrial",4,6,"Laptop",3,"Lenovo Ideapad Gaming 3 82K2","Lenovo",12,1,4,"Estudios, Investigación",3910,3.0690537084399,3910
+"Ingenieria Civil",3,6,"Celular",3,"iPhone 13","Apple",5,2,4,"Estudios, Entretenimiento",3227,3.09885342423303,6454
+"Ciencias de la computación",3,7,"Laptop",2,"HP Pavilion Laptop 15-eg0xxx","HP",6,3,4,"Estudios, Investigación",3440,5.23255813953488,10320
+"Ciencias de la computación",3,6,"Celular",3,"Iphone 14 pro max","Apple",1,1,4,"Estudios, Investigación, Entretenimiento",4323,0.231320842007865,4323
+"Bioingenieria",2,5,"Laptop",2,"Lenovo 82FE","Lenovo",6,3,3,"Estudios",4955,3.63269424823411,14865
+"Ingenieria Ambiental",2,6,"Celular",2,"Samsung A12","Samsung",5,2,4,"Estudios, Investigación",5000,2,10000
+"Ingenieria Industrial",4,7,"Laptop",3,"HP Laptop 15-ef2xxx","HP",5,3,5,"Estudios, Investigación",3470,4.32276657060519,10410
+"Ingenieria Electrónica",3,5,"Laptop",2,"Dell G7","DELL",4,2,4,"Estudios, Investigación, Entretenimiento",4649,1.72080017208002,9298
+"Ciencia de Datos",3,6,"Laptop",2,"Thin GF63 12VE","MSI",8,3,4,"Estudios, Investigación, Entretenimiento",4500,5.33333333333333,13500
+"Bioingenieria",3,5,"Laptop",2,"Lenovo Legion pro 5i","Lenovo",4,2,4,"Estudios, Investigación",5210,1.53550863723608,10420
+"Ciencias de la computación",3,4,"Laptop",3,"System ModASUS TUF Gaming F15 FX507ZM_FX507ZM","Asus",12,2,3,"Estudios, Entretenimiento",5500,4.36363636363636,11000
+"Ciencias de la computación",3,5,"Laptop",4,"Acer Aspire A514","Acer",7,2,3,"Estudios, Investigación, Entretenimiento",4471,3.1312905390293,8942
+"Ingenieria Industrial",4,6,"Laptop",2,"Hp Victus","HP",8,4,3,"Estudios, Investigación, Entretenimiento",4323,7.40226694425168,17292
+"Ciencia de Datos",3,6,"Laptop",3,"HP 15","HP",5,3,2,"Estudios, Investigación",5200,2.88461538461538,15600
+"Ingenieria Industrial",3,5,"Laptop",3,"lenovo tinkpad l470","Lenovo",5,10,5,"Estudios, Investigación, Entretenimiento, Otros",4400,11.3636363636364,44000
+"Ingenieria Industrial",4,4,"Laptop",2,"Asus VivoBook 15","Asus",4,3,5,"Estudios, Investigación, Entretenimiento",4850,2.47422680412371,14550
+"Ingenieria Mecatrónica",6,5,"Celular",4,"iPhone 7 Plus","Apple",5,3,3,"Estudios, Investigación, Entretenimiento",3850,3.8961038961039,11550
+"Ingenieria Mecatrónica",6,4,"Celular",2,"Galaxy A32","Samsung",6,2,4,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ingenieria Mecatrónica",6,5,"Celular",2,"Galaxy s24","Samsung",10,2,5,"Estudios, Investigación, Entretenimiento",3800,5.26315789473684,7600
+"Ciencias de la computación",1,7,"Laptop",3,"Macbook pro","Apple",5,2,5,"Estudios, Investigación",5300,1.88679245283019,10600
+"Ingenieria Industrial",4,6,"Celular",3,"Iphone 14","Apple",4,2,5,"Estudios, Entretenimiento",3279,2.43976822201891,6558
+"Ingenieria Industrial",4,6,"Celular",2,"Redmi note 12 pro","Xiaomi",4.5,2,3,"Estudios, Investigación",5000,1.8,10000
+"Ingenieria Mecatrónica",6,5,"Laptop",3,"HP 14","HP",3,5,4,"Estudios, Investigación",2200,6.81818181818182,11000
+"Ingenieria Mecatrónica",6,5,"Laptop",2,"Laptop loq lenovo","Lenovo",7,2,2,"Estudios, Entretenimiento",3886,3.6026762738034,7772
+"Ciencias de la computación",6,5,"Celular",3,"Motorola One Macro","Motorola",6,10,4,"Estudios, Entretenimiento",4000,15,40000
+"Ingenieria Industrial",6,7,"Laptop",2,"Hp Pavilion","HP",8,3,4,"Estudios, Investigación, Entretenimiento",3470,6.9164265129683,10410
+"Ciencias de la computación",3,5,"Celular",2,"Samsung S20","Samsung",3,4,4,"Investigación, Entretenimiento",3880,3.09278350515464,15520
+"Ingenieria Electrónica",3,6,"Laptop",3,"Hp Omen","HP",5,2,2,"Entretenimiento",5973,1.67420056922819,11946
+"Ingenieria Industrial",8,5,"Celular",3,"iPhone 12","Apple",12,1,4,"Estudios, Entretenimiento, Otros",2815,4.26287744227353,2815
+"Ciencias de la computación",4,6,"Laptop",2,"Pavilion Hp Gamer","HP",6.5,2,3,"Estudios, Investigación, Entretenimiento, Otros",5150,2.52427184466019,10300
+"Ciencias de la computación",4,7,"Celular",2,"HUAWEI Y9","Huawei",3,3,3,"Estudios, Investigación, Entretenimiento",4000,2.25,12000
+"Ingenieria Mecatrónica",3,5,"Laptop",2,"LENOVO 81VW","Lenovo",8,2,4,"Estudios, Entretenimiento",3220,4.96894409937888,6440
+"Ingenieria de la Energía",7,5,"Laptop",3,"HP Laptop 15-ef1xxx","HP",3,3,5,"Estudios, Investigación, Entretenimiento",3550,2.53521126760563,10650
+"Ingenieria Civil",7,5,"Laptop",3,"OMEN by HP Laptop 15-dc0xxx","HP",12,4,5,"Estudios, Investigación, Entretenimiento",4320,11.1111111111111,17280
+"Ingenieria Civil",4,8,"Tablet",3,"Samsung Lite 6s","Samsung",6,2,4,"Estudios",6840,1.75438596491228,13680
+"Ciencia de Datos",5,5,"Laptop",2,"Macbook pro 14","Apple",13,5,3,"Estudios, Investigación, Entretenimiento",6100,10.655737704918,30500
+"Ingenieria Mecatrónica",4,4,"Tablet",3,"Tab S9 Fe+","Samsung",4,1,5,"Estudios, Entretenimiento",10090,0.396432111000991,10090
+"Ciencias de la computación",1,7,"Laptop",3,"Laptop lenovo T14","Apple",5,3,5,"Estudios, Entretenimiento",4385,3.42075256556442,13155
+"Ingenieria de la Energía",2,6,"Celular",2,"Honor X8a","Honor",3,1,4,"Estudios, Entretenimiento",4500,0.666666666666667,4500
+"Ingenieria Ambiental",6,4,"Laptop",2,"vivobook asus","Asus",6,2,4,"Estudios, Investigación, Entretenimiento",3640,3.2967032967033,7280
+"Ingenieria Electrónica",4,6,"Laptop",3,"HP core i5","HP",8,4,3,"Estudios, Investigación",4100,7.80487804878049,16400
+"Ingenieria Civil",3,6,"Celular",3,"Samsung A23","Samsung",3.5,2,4,"Estudios, Investigación",5000,1.4,10000
+"Ingenieria Civil",3,6,"Celular",4,"Pixel 7","Google",6,1,4,"Entretenimiento",4355,1.37772675086108,4355
+"Ingenieria Civil",3,6,"Celular",3,"Xiaomi 12 t pro","Xiaomi",7,1,5,"Estudios, Investigación, Entretenimiento",5000,1.4,5000
+"Ingenieria Civil",3,6,"Celular",2,"Honor 8a","Honor",6,2,4,"Estudios, Investigación, Entretenimiento",3020,3.97350993377483,6040
+"Ingenieria Civil",3,6,"Celular",2,"Redmi 9","Xiaomi",6,1,2,"Entretenimiento",5020,1.19521912350598,5020
+"Ingenieria Mecánica",2,7,"Laptop",2,"Lenovo Thinkpad","Lenovo",2,3,3,"Estudios",3900,1.53846153846154,11700
+"Ingenieria Mecánica",4,7,"Celular",3,"Samsung a51","Samsung",4,3,3,"Estudios, Entretenimiento",4000,3,12000
+"Ingenieria Mecánica",4,6,"Celular",2,"iPhone 12","Apple",3,3,5,"Estudios, Otros",2815,3.19715808170515,8445
+"Ingenieria Industrial",4,7,"Celular",3,"Honor X8","Honor",6,3,3,"Estudios, Investigación",4000,4.5,12000
+"Ingenieria Ambiental",5,6,"Tablet",3,"iPad Air","Apple",5,1,5,"Estudios, Entretenimiento",5000,1,5000
+"Ciencia de Datos",7,5,"Laptop",2,"Notebook Lenovo ThinkPad E15 Gen2 20TES49Y00","Lenovo",6,2,2,"Estudios, Otros",3900,3.07692307692308,7800
+"Ingenieria Mecatrónica",5,5,"Celular",2,"Samsung A512023","Samsung",3,2,4,"Estudios, Investigación",4000,1.5,8000
+"Ingenieria Mecatrónica",5,5,"Laptop",2,"ASUS TUF","Asus",7,2,4,"Estudios, Investigación, Entretenimiento",5600,2.5,11200
+"Ingenieria Civil",5,7,"Laptop",3,"Lenovo LOQ 15IRH8 82XV","Lenovo",8,3,5,"Estudios, Investigación, Entretenimiento, Otros",6140,3.90879478827362,18420
+"Ciencias de la computación",5,7,"Laptop",3,"MacBook Pro","Apple",4,1,5,"Estudios, Investigación, Entretenimiento",7336,0.54525627044711,7336
+"Ciencias de la computación",5,6,"Celular",2,"Samsung S23 Ultra","Samsung",5,1,5,"Estudios, Entretenimiento",4855,1.02986611740474,4855
+"Ciencias de la computación",5,6,"Celular",3,"Iphone 15","Apple",7,2,5,"Estudios, Entretenimiento",3367,4.15800415800416,6734
+"Ciencias de la computación",5,4,"Celular",2,"Iphone14","Apple",5,1,4,"Entretenimiento",3279,1.52485513876182,3279
+"Ciencias de la computación",5,5,"Laptop",3,"HP 245 G8 Notebook PC","HP",5,2,3,"Estudios, Entretenimiento",3596,2.78086763070078,7192
+"Ingenieria Industrial",7,5,"Laptop",2,"Mac book air 2019","Apple",4.5,3,4,"Estudios, Entretenimiento",4379,3.08289563827358,13137
+"Ciencia de Datos",5,5,"Laptop",2,"ROG Flow X13 GV301QE_GV301QE","Asus",12,2,4,"Estudios, Investigación, Entretenimiento",4007,5.98951834289992,8014
+"Sistemas de Información",1,6,"Celular",2,"Galaxy A32","Samsung",5,1,2,"Estudios, Entretenimiento",5000,1,5000
+"Ingenieria Mecánica",1,7,"Celular",4,"Xiaomi poco x4 pro","Xiaomi",10,3,5,"Estudios, Investigación, Entretenimiento",5000,6,15000
+"Ingenieria Mecánica",1,7,"Celular",4,"Xiaomi redmi note 13","Xiaomi",5,5,5,"Estudios",5000,5,25000
+"Ingenieria Industrial",1,7,"Laptop",2,"Macbook air","Apple",2,1,1,"Entretenimiento",4379,0.456725279744234,4379
+"Ingenieria Mecatrónica",1,5,"Celular",2,"Xiaomi Redmi Note 13","Xiaomi",12,1,4,"Estudios, Investigación, Entretenimiento",5000,2.4,5000
+"Ciencias de la computación",1,6,"Celular",3,"Xiaomi redmi note 8","Xiaomi",4,2,4,"Estudios, Entretenimiento",4000,2,8000
+"Ingenieria Industrial",3,6,"Celular",4,"iPhone 14","Apple",7,2,2,"Estudios, Investigación, Entretenimiento",3279,4.26959438853309,6558
+"Ingenieria Mecatrónica",3,6,"Celular",2,"Samsung S23","Samsung",12,1,5,"Estudios, Investigación, Entretenimiento",4855,2.47167868177137,4855
+"Ciencias de la computación",8,8,"Laptop",2,"MacBook Air M1 2020","Apple",10,2,5,"Estudios, Entretenimiento",4379,4.56725279744234,8758
+"Ingenieria Ambiental",4,7,"Laptop",2,"VivoBook_ASUSLaptop x515EA_x515EA","Asus",5,3,3,"Estudios, Investigación, Entretenimiento",4850,3.09278350515464,14550
+"Ingenieria Industrial",6,5,"Laptop",1,"Aspire A515-56","Acer",8,3,4,"Estudios, Investigación, Entretenimiento",4210,5.70071258907363,12630
+"Ingenieria Civil",3,6,"Celular",3,"Samsung Galaxy A31","Samsung",10,2,5,"Estudios, Entretenimiento",5000,4,10000
+"Bioingenieria",3,6,"Tablet",3,"Samsung TAB s9","Samsung",5,2,5,"Estudios",8400,1.19047619047619,16800
+"Ingenieria Mecatrónica",3,7,"Tablet",7,"Samsung S6 Lite","Samsung",8,2,5,"Estudios, Entretenimiento",7040,2.27272727272727,14080
+"Ingenieria Civil",4,6,"Laptop",2,"ASUS TUF Dash F15 FX517ZE_FX517ZE","Asus",8,3,4,"Estudios, Investigación",5600,4.28571428571429,16800
+"Ingenieria Civil",5,4,"Celular",2,"IPhone 13 Pro Max","Apple",4,1,4,"Estudios, Investigación, Entretenimiento",4352,0.919117647058823,4352
+"Ciencias de la computación",6,4,"Laptop",3,"Lenovo Ideapad 15ARE05","Samsung",6,2,5,"Estudios, Investigación, Entretenimiento",2800,4.28571428571429,5600
+"Ingenieria Química",8,7,"Laptop",2,"Lenovo Ideapad 5 82XG003SLM","Huawei",8,5,4,"Estudios, Investigación, Entretenimiento",4955,8.07265388496468,24775
+"Ingenieria Civil",4,7,"Laptop",4,"gaming ideapad3","Lenovo",5,3,4,"Estudios",4610,3.25379609544469,13830
+"Ingenieria Química",5,4,"Celular",3,"X8B","Honor",9.5,2,5,"Estudios, Investigación, Entretenimiento",4500,4.22222222222222,9000
+"Ingenieria Industrial",6,5,"Laptop",2,"HP 82LN00ALLM","HP",3,2,4,"Estudios, Investigación, Entretenimiento",7000,0.857142857142857,14000
+"Ingenieria Química",7,4,"Smart TV",2,"Laptop HP Pavilion 15-eg2520la","HP",7,2,3,"Estudios, Investigación",6500,2.15384615384615,13000
+"Bioingenieria",3,5,"Laptop",2,"Samsung A54","Samsung",5,1,3,"Estudios, Entretenimiento",5000,1,5000
+"Ingenieria Ambiental",4,7,"Laptop",2,"Laptop HP 250 G9 15.6","HP",8,3,3,"Estudios, Entretenimiento",5500,4.36363636363636,16500
+"Ingenieria Mecatrónica",4,7,"Laptop",4,"ThinkPad E16","Lenovo",6,2,4,"Estudios",6000,2,12000
+"Ingenieria Civil",4,6,"Laptop",2,"Acer-A515-57-55MS","Acer",6,3,3,"Estudios",6500,2.76923076923077,19500
+"Ingenieria Civil",4,6,"Laptop",3,"Victus by HP Laptop 16-d0xxx","HP",10,3,4,"Estudios",7000,4.28571428571429,21000
+"Ciencias de la computación",7,5,"Laptop",3,"Macbook Pro 2020","Apple",6,2,4,"Estudios, Investigación, Entretenimiento, Otros",4781,2.50993516000837,9562
+"Ingenieria Civil",4,6,"Laptop",3,"Lenovo Ideapad Gaming 3","Samsung",8,2,5,"Estudios",6500,2.46153846153846,13000
+"Ingenieria Química",5,5,"Celular",2,"motorola XT2083-1","Motorola",8,2,5,"Estudios, Investigación, Entretenimiento",5000,3.2,10000
+"Ingenieria Civil",4,7,"Laptop",3,"ThinkPad E16","Samsung",5,2,3,"Estudios, Investigación, Entretenimiento, Otros",7500,1.33333333333333,15000
+"Bioingenieria",5,5,"Celular",2,"iPhone 11","Apple",5,2,5,"Estudios, Investigación, Entretenimiento",3046,3.28299409061064,6092
+"Ingenieria Civil",4,4,"Celular",2,"ASUS Vivobook 15 - E1504FA-L1112W","Asus",6,1,3,"Estudios, Investigación, Entretenimiento",5000,1.2,5000
+"Ingenieria Mecatrónica",3,6,"Laptop",2,"Asus TUF gaming F15","Samsung",10,1,5,"Estudios, Entretenimiento",5500,1.81818181818182,5500
+"Ingenieria Industrial",2,6,"Laptop",2,"Laptop HP Pavilion 15-eg2520la","Apple",6,3,3,"Estudios, Entretenimiento",5500,3.27272727272727,16500
+"Ingenieria de la Energía",2,5,"Laptop",3,"Lenovo thinkpad L14 4ta generación","Samsung",4,1,4,"Estudios, Investigación, Entretenimiento",6000,0.666666666666667,6000
+"Ingenieria Civil",4,5,"Celular",2,"Acer Swift Go 14","Motorola",10,2,5,"Estudios, Investigación, Entretenimiento",7500,2.66666666666667,15000
+"Ingenieria Química",6,5,"Laptop",2,"Lenovo IdeaPad Slim 3","Lenovo",7,5,2,"Estudios",5500,6.36363636363636,27500
+"Ingenieria Química",5,4,"Laptop",3,"IdeaPad Slim 5i 14"" 8va Gen - Cloud Grey","Samsung",4,2,4,"Estudios, Entretenimiento",5500,1.45454545454545,11000
+"Ingenieria Mecatrónica",2,6,"Celular",3,"Xiaomi redmi note 10 s","Xiaomi",3,1,5,"Estudios, Entretenimiento",5000,0.6,5000
+"Bioingenieria",3,6,"Laptop",3,"Acer A315-24PT","Acer",10,3,4,"Estudios, Investigación, Entretenimiento, Otros",6500,4.61538461538461,19500
+"Ingenieria Mecatrónica",1,7,"Otros",3,"Desktop HP Victus Gaming TG02-1001la","Apple",5,1,4,"Estudios, Investigación, Entretenimiento",7500,0.666666666666667,7500
+"Ingenieria Mecatrónica",1,6,"Laptop",3,"Lenovo IDEAPAD GAMING 3","Lenovo",3,1,5,"Estudios, Investigación, Entretenimiento, Otros",6500,0.461538461538462,6500
+"Ciencias de la computación",6,6,"Laptop",2,"LENOVO GAMER DESKTOP-AH3NI91","Xiaomi",10,2,3,"Estudios, Investigación, Entretenimiento",8500,2.35294117647059,17000
+"Ingenieria Mecatrónica",1,7,"Celular",2,"Galaxy A13","Samsung",6,2,4,"Estudios, Investigación, Entretenimiento, Otros",5000,2.4,10000
+"Ingenieria Química",5,5,"Laptop",2,"HP Laptop Pavilion x360 15-DQ0001LA","HP",10,5,3,"Estudios, Investigación, Entretenimiento",7500,6.66666666666667,37500
+"Ciencias de la computación",10,3,"Laptop",3,"Legión Legión 5i 9gen corei5","Lenovo",10,2,5,"Otros",9500,2.10526315789474,19000
+"Ingenieria Civil",10,2,"Laptop",3,"Dell Inspiron 3520 core i5","DELL",7,2,4,"Estudios, Investigación, Entretenimiento",8500,1.64705882352941,17000
+"Ingenieria Química",10,7,"Laptop",2,"MSI Modern 14 B11SBL","Xiaomi",8,3,3,"Estudios, Investigación, Entretenimiento",7500,3.2,22500
+"Ciencias de la computación",8,4,"Laptop",4,"Samsung A12","Samsung",6,1,4,"Estudios, Investigación, Entretenimiento",5000,1.2,5000
+"Ingenieria Civil",6,6,"Laptop",3,"HP pavilion gaming 15-ec2501la","Samsung",10,5,5,"Estudios, Investigación, Entretenimiento",5500,9.09090909090909,27500
+"Bioingenieria",5,6,"Celular",3,"Iphone xr","Apple",5,1,3,"Estudios, Entretenimiento",2942,1.69952413324269,2942
+"Ingenieria Mecatrónica",3,6,"Celular",2,"SM-A325M","Samsung",4,1,5,"Estudios, Entretenimiento",5000,0.8,5000
+"Ciencias de la computación",10,4,"Laptop",2,"HP 15-dw1xxx","HP",8,2,4,"Estudios, Entretenimiento",8000,2,16000
+"Ingenieria Ambiental",3,7,"Tablet",3,"Samsung s7 tab","Samsung",10,7,2,"Estudios, Investigación, Entretenimiento, Otros",8000,8.75,56000
+"Ingenieria Ambiental",3,6,"Laptop",3,"HP Pavilion 18-eg2520la","Realme",5,1,5,"Estudios, Investigación, Entretenimiento",7500,0.666666666666667,7500
+"Ingenieria Mecánica",3,5,"Laptop",2,"DELL core i7 1255U","DELL",8,5,3,"Estudios, Investigación, Entretenimiento, Otros",8500,4.70588235294118,42500
+"Ingenieria Ambiental",3,6,"Laptop",4,"Dell P172G","DELL",5,1,5,"Estudios",7500,0.666666666666667,7500
+"Ingenieria Civil",4,6,"Tablet",3,"S21 FE","Samsung",5,1,4,"Estudios",4500,1.11111111111111,4500
+"Ingenieria Civil",4,5,"Tablet",3,"iPad Air 5a generación","Apple",8,3,4,"Estudios, Investigación",8827,2.7189305539821,26481
+"Ingenieria Civil",4,6,"Laptop",2,"Laptop HP Pavilion 15-eg2504la","HP",2,2,3,"Estudios",8500,0.470588235294118,17000
+"Ingenieria Civil",4,6,"Laptop",3,"Asus Tuf gaming","Asus",4,5,3,"Estudios, Investigación, Entretenimiento",7500,2.66666666666667,37500
+"Ingenieria Civil",3,6,"Celular",2,"iPhone 12","Apple",6,1,4,"Estudios, Investigación, Entretenimiento",2815,2.13143872113677,2815
+"Ingenieria Ambiental",3,6,"Celular",2,"Samsung Galaxy A14","Samsung",6,2,4,"Estudios, Entretenimiento",5000,2.4,10000
+"Ingenieria Mecatrónica",3,6,"Laptop",2,"Asus F-15","Asus",8,1,3,"Estudios, Investigación, Entretenimiento",6500,1.23076923076923,6500
+"Ingenieria Electrónica",3,5,"Laptop",2,"Laptop Gamer Lenovo Legion 5i de 15.6""","DELL",6,3,4,"Estudios, Investigación, Entretenimiento",7500,2.4,22500
+"Bioingenieria",3,6,"Tablet",3,"Samsung tab s9","Samsung",5,1,3,"Estudios",8400,0.595238095238095,8400
+"Ingenieria Mecánica",2,4,"Tablet",3,"Iphone 13 pro","Apple",6,2,4,"Estudios, Investigación, Entretenimiento, Otros",3095,3.87722132471729,6190
+"Bioingenieria",3,4,"Laptop",2,"Hp victus 11","HP",12,3,4,"Estudios, Entretenimiento",9000,4,27000
+"Ingenieria Mecatrónica",3,6,"Laptop",2,"HP Pavilion 15-eg2520la","HP",5,2,1,"Estudios, Investigación, Entretenimiento",8500,1.17647058823529,17000
+"Bioingenieria",3,5,"Tablet",3,"ipad 9 generación","Apple",4,1,5,"Estudios, Entretenimiento",8557,0.467453546803786,8557
+"Ingenieria Mecánica",1,7,"Celular",2,"iPhone 14","Apple",5,2,3,"Estudios, Entretenimiento",3279,3.04971027752364,6558
+"Ingenieria Industrial",1,7,"Laptop",3,"Samsung a23","Samsung",4,2,4,"Estudios, Investigación, Entretenimiento",5000,1.6,10000
+"Ciencias de la computación",4,5,"Laptop",3,"Lenovo IdeaPad 3 Gaming","Lenovo",10,5,4,"Estudios, Investigación, Entretenimiento",5000,10,25000
+"Ingenieria Industrial",3,7,"Laptop",2,"HP Pavilion 15-EC2501la","HP",4,2,3,"Estudios",4375,1.82857142857143,8750
+"Ingenieria Química",7,5,"Laptop",3,"Chuwi HEROBOOK PRO","Chuwi",4,1,2,"Estudios, Entretenimiento",3167,1.26302494474266,3167
+"Ingenieria Civil",1,7,"Celular",2,"Galaxy S10","Samsung",12,2,3,"Estudios, Entretenimiento",4000,6,8000
+"Ingenieria Civil",1,7,"Celular",2,"HP Pavilion 15-eg2520la","HP",3,2,4,"Estudios",4200,1.42857142857143,8400
+"Ingenieria Civil",1,7,"Laptop",2,"Ideapad 3 gaming","Lenovo",4,1,4,"Estudios, Investigación",5000,0.8,5000
+"Ingenieria Civil",1,7,"Laptop",2,"iPhone 8","Apple",4,3,4,"Estudios, Investigación, Entretenimiento",1821,6.58978583196046,5463
+"Ingenieria Civil",1,7,"Celular",2,"Redmi 7","Xiaomi",5,2,2,"Estudios, Investigación, Entretenimiento",4000,2.5,8000
+"Ingenieria Mecatrónica",6,4,"Tablet",3,"Moto edge 40","Motorola",3,1,5,"Estudios",4400,0.681818181818182,4400
+"Bioingenieria",5,6,"Tablet",3,"Samsung Galaxy TAB S8+","Samsung",8,1,5,"Estudios, Entretenimiento",10090,0.792864222001982,10090
+"Ciencias de la computación",1,6,"Celular",3,"Y21s","Vivo",6,1,5,"Estudios, Entretenimiento",5000,1.2,5000
+"Bioingenieria",4,6,"Celular",2,"Motorola G22","Motorola",6,1,5,"Estudios, Investigación, Entretenimiento",5000,1.2,5000
+"Ingenieria Industrial",4,5,"Tablet",3,"SAMSUNG TAB S9 FE","Samsung",5,1,5,"Estudios, Investigación, Entretenimiento",8000,0.625,8000
+"Ingenieria Química",2,6,"Laptop",3,"tab s6 lite 2021","Samsung",5,2,4,"Estudios, Investigación, Entretenimiento",7040,1.42045454545455,14080
+"Ingenieria Química",2,6,"Celular",3,"A24","Samsung",7,2,4,"Estudios, Entretenimiento",5000,2.8,10000
+"Ingenieria Química",6,6,"Celular",2,"iPhone XR","Apple",3,2,3,"Estudios, Entretenimiento",2942,2.03942895989123,5884
+"Ingenieria Química",7,4,"Laptop",3,"iPhone 8","Apple",5,2,1,"Entretenimiento",1821,5.49148819330038,3642
+"Bioingenieria",2,7,"Laptop",2,"Laptop Acer Aspire 5 corei7","Acer",8,3,4,"Estudios",7500,3.2,22500
+"Bioingenieria",10,5,"Laptop",2,"Ideapad Gaming Lenovo 3","Lenovo",4,1,5,"Estudios, Investigación, Entretenimiento, Otros",7500,0.533333333333333,7500
+"Ingenieria Ambiental",5,4,"Celular",4,"Pixel 7 Pro","Google",8,1,5,"Estudios, Entretenimiento",5000,1.6,5000
+"Ciencia de Datos",3,6,"Laptop",4,"Laptop HP 15-fc0000la","HP",4,3,3,"Estudios, Investigación",8500,1.41176470588235,25500
+"Ingenieria Mecánica",3,5,"Celular",2,"Samsung A34","Samsung",5,2,4,"Estudios",5000,2,10000
+"Bioingenieria",3,5,"Laptop",3,"90NB12U1-M002X0-","Asus",8,3,4,"Estudios, Investigación, Entretenimiento",9000,2.66666666666667,27000
+"Ingenieria Civil",4,7,"Laptop",2,"Asus-90NR08A5-M004J0","Asus",6,3,4,"Estudios",8500,2.11764705882353,25500
+"Ingenieria Civil",4,7,"Laptop",3,"HP victus 15","HP",5,4,3,"Estudios, Investigación, Entretenimiento",8500,2.35294117647059,34000
+"Ciencia de Datos",3,6,"Laptop",2,"Macbook 14 Pro M2 Pro","Apple",6,1,5,"Estudios, Investigación, Entretenimiento",6000,1,6000
+"Ingenieria Mecánica",4,7,"Laptop",3,"Lenovo Ideapad Gaming 3","Xiaomi",3,2,5,"Estudios, Investigación, Entretenimiento",7500,0.8,15000
+"Ingenieria Industrial",2,6,"Celular",3,"A20","Samsung",4,1,5,"Estudios, Entretenimiento",4000,1,4000
+"Ingenieria de la Energía",3,5,"Laptop",2,"Asus tuf dash F15","Asus",8,3,3,"Estudios",8500,2.82352941176471,25500
+"Ingenieria Industrial",2,5,"Celular",3,"Poco X4","Xiaomi",3,1,5,"Investigación, Entretenimiento",5000,0.6,5000
+"Ciencia de Datos",3,6,"Laptop",3,"Lenovo Thinkpad E14 ryzen3","Lenovo",4,2,4,"Estudios",8000,1,16000
+"Ingenieria de la Energía",3,5,"Celular",3,"Samsung A53","Samsung",6,2,4,"Estudios, Entretenimiento",5000,2.4,10000
+"Ingenieria Electrónica",7,5,"Tablet",2,"iPad generación 9","Apple",12,3,3,"Estudios",8557,4.20708192123408,25671
+"Bioingenieria",2,7,"Laptop",4,"Vivobook 15x Intel Core I5","Asus",5,2,4,"Estudios",9000,1.11111111111111,18000
+"Ingenieria Química",9,5,"Laptop",2,"Lenovo Loq 15.6 modelo 82XV00T8LM","Lenovo",10,2,5,"Estudios",10500,1.9047619047619,21000
+"Ingenieria Mecánica",4,7,"Tablet",2,"Sam s7fe","Samsung",7,2,5,"Estudios, Entretenimiento",10090,1.38751238850347,20180
+"Ingenieria Mecatrónica",3,5,"Laptop",3,"Laptop Gamer MSI Sword 15","MSI",3,1,3,"Estudios, Investigación",5500,0.545454545454545,5500
+"Ingenieria Mecatrónica",7,4,"Laptop",3,"Victus 16","HP",5,2,4,"Estudios, Investigación",6500,1.53846153846154,13000
+"Ingenieria Civil",6,6,"Smart TV",3,"HP Pavilion 15-eg2520la","DELL",12,6,3,"Estudios, Investigación, Entretenimiento",6500,11.0769230769231,39000
+"Ingenieria Mecatrónica",5,6,"Laptop",3,"Hp gamer 15-FB0128LA","HP",6,3,4,"Estudios, Investigación",5000,3.6,15000
+"Ingenieria Electrónica",8,4,"Laptop",3,"rog strix G15 G513RC-HN097W","Asus",7,3,4,"Estudios, Entretenimiento",7500,2.8,22500
+"Ingenieria Mecánica",4,6,"Laptop",2,"ASUS tuf","Apple",5,3,2,"Estudios, Investigación",8500,1.76470588235294,25500
+"Ingenieria Química",7,6,"Laptop",2,"Xiaomi 11T Pro","Xiaomi",6,2,4,"Entretenimiento",5000,2.4,10000
+"Ciencias de la computación",5,5,"Tablet",2,"Galaxy Tab s8","Samsung",4,2,5,"Estudios, Entretenimiento",8000,1,16000
+"Ingenieria Mecatrónica",6,4,"Laptop",2,"asus tuf gaming f15","Asus",4,1,3,"Estudios, Investigación, Entretenimiento",6500,0.615384615384615,6500
+"Ingenieria Civil",6,8,"Celular",3,"Tab S9 FE+","Samsung",4,1,4,"Estudios, Investigación, Entretenimiento",10090,0.396432111000991,10090
+"Ingenieria Industrial",7,6,"Laptop",5,"HP victus 15","HP",8,5,5,"Estudios, Investigación, Entretenimiento",8500,4.70588235294118,42500
+"Ingenieria Mecatrónica",3,3,"Celular",2,"iPhone 12","Apple",5,2,5,"Estudios, Investigación, Entretenimiento",2815,3.55239786856128,5630
+"Ingenieria Civil",4,5,"Laptop",3,"Lenovo Yoga Slim 7 Pro","Lenovo",6,2,4,"Estudios, Investigación",9150,1.31147540983607,18300
+"Ingenieria Civil",4,5,"Laptop",3,"iPhone 13","Apple",6,3,4,"Estudios, Entretenimiento",3240,5.55555555555556,9720
+"Bioingenieria",4,7,"Laptop",2,"Motorola g22","Motorola",7,3,3,"Estudios, Otros",5000,4.2,15000
+"Bioingenieria",2,7,"Laptop",2,"LAPTOP-HS15GL22","HP",5,3,4,"Estudios, Investigación, Entretenimiento",5780,2.59515570934256,17340
+"Ingenieria Mecatrónica",4,7,"Tablet",3,"Matepad 11","Huawei",4.5,2,5,"Estudios",7150,1.25874125874126,14300
+"Ingenieria Mecánica",2,5,"Celular",2,"Moto g9","Motorola",6,2,4,"Estudios",5000,2.4,10000
+"Ingenieria Civil",4,7,"Tablet",4,"s6 lite","Samsung",9,3,4,"Estudios, Investigación, Entretenimiento",7040,3.83522727272727,21120
+"Ciencias de la computación",6,6,"Laptop",2,"ASUS VivoBook go 15","Asus",5,2,5,"Estudios, Entretenimiento",7500,1.33333333333333,15000
+"Bioingenieria",2,5,"Laptop",4,"Vivobook 15x","Asus",7,4,3,"Estudios, Investigación, Entretenimiento",3500,8,14000
+"Ingenieria Industrial",6,6,"Celular",2,"Oppo A58","OPPO",5,3,4,"Estudios, Investigación",5000,3,15000
+"Ingenieria Civil",4,6,"Laptop",2,"Samsung s23","Samsung",5,1,5,"Estudios, Entretenimiento",3900,1.28205128205128,3900
+"Ingenieria Civil",4,5,"Celular",2,"Iphone Xs Max","Apple",8,3,4,"Estudios, Entretenimiento",3174,7.56143667296786,9522
+"Ingenieria Civil",4,7,"Laptop",2,"Laptop HP Pavilion 15-eh1509la","Samsung",9,2,4,"Estudios",6150,2.92682926829268,12300
+"Ingenieria Civil",4,6,"Laptop",2,"Hp Pavilion 14","Samsung",2.5,3,3,"Estudios, Investigación, Otros",6450,1.16279069767442,19350
+"Ingenieria Química",1,7,"Celular",2,"Samsung galaxy A30","Samsung",3,2,4,"Estudios, Entretenimiento",4000,1.5,8000
+"Ciencias de la computación",4,6,"Laptop",2,"Laptop HP 15-fc0000la","HP",8,6,3,"Estudios",14000,3.42857142857143,84000
+"Ciencia de Datos",5,5,"Laptop",3,"Lenovo IdeaPad, 3","Apple",7,2,4,"Estudios, Entretenimiento",7050,1.98581560283688,14100
+"Ingenieria Civil",6,7,"Laptop",3,"Laptop HP 15-fd0008la","HP",2.5,4,5,"Estudios",14000,0.714285714285714,56000
+"Ingenieria Electrónica",7,6,"Laptop",2,"Asus S510U","Asus",7,3,2,"Estudios, Investigación, Entretenimiento",6300,3.33333333333333,18900
+"Ciencias de la computación",4,5,"Laptop",3,"Samsung A32","Samsung",3,2,3,"Estudios, Entretenimiento",5000,1.2,10000
+"Ingenieria Mecánica",4,8,"Celular",1,"Laptop HP 15-fc0006la","Apple",2.9,2,4,"Investigación",14000,0.414285714285714,28000
+"Sistemas de Información",1,6,"Tablet",3,"Mac air 5","Apple",4,2,5,"Estudios, Investigación, Entretenimiento",2500,3.2,5000
+"Ingenieria Mecatrónica",8,4,"Laptop",2,"Lenovo Ideapad 3","Lenovo",5,5,2,"Estudios, Entretenimiento",6750,3.7037037037037,33750
+"Ingenieria Mecánica",8,7,"Laptop",3,"Dell G16-7620","DELL",5,3,3,"Estudios, Investigación, Entretenimiento",7100,2.11267605633803,21300
+"Ingenieria Civil",4,6,"Celular",2,"Asus tuf FA507NV-LP053W","Xiaomi",10,3,5,"Estudios",7000,4.28571428571429,21000
+"Ingenieria Industrial",6,6,"Tablet",4,"Tab S7","Samsung",6,2,4,"Estudios, Investigación",8000,1.5,16000
+"Ingenieria Mecatrónica",3,6,"Celular",2,"iPhone 15 pro Max","Apple",9,1,4,"Estudios, Investigación, Entretenimiento, Otros",4441,2.02657059220896,4441
+"Ingenieria Mecatrónica",4,8,"Celular",3,"HP victus 15 - fb0128la","HP",8,3,5,"Estudios",14000,1.71428571428571,42000
+"Ingenieria Civil",6,8,"Laptop",2,"HP 15-da0143ns","Xiaomi",3,2,5,"Estudios, Investigación",6150,0.975609756097561,12300
+"Ciencias de la computación",7,5,"Laptop",5,"MacBook Pro 2021","Apple",7,1,5,"Estudios, Entretenimiento",5000,1.4,5000
+"Ciencias de la computación",7,4,"Celular",4,"iPhone 14 Pro Max","Apple",9,2,4,"Estudios, Entretenimiento",4323,4.16377515614157,8646
+"Ingenieria Mecánica",3,7,"Celular",2,"Samsung a52s","Samsung",7,3,3,"Estudios, Investigación, Entretenimiento",4500,4.66666666666667,13500
+"Ingenieria Mecatrónica",1,7,"Celular",2,"Samsung A35","Samsung",3,1,4,"Entretenimiento",5000,0.6,5000
+"Ingenieria Mecatrónica",1,7,"Laptop",3,"HP laptop Victus15-fb0128la","Samsung",10,2,4,"Estudios, Entretenimiento",14000,1.42857142857143,28000
+"Ingenieria Mecatrónica",1,7,"Celular",2,"HP laptop Victus15-fb0128la","Xiaomi",13.5,3,4,"Estudios, Investigación, Entretenimiento, Otros",14000,2.89285714285714,42000
+"Ciencias de la computación",1,7,"Celular",3,"Samsung A54","Samsung",3,2,4,"Estudios, Investigación, Entretenimiento",5000,1.2,10000
+"Ingenieria Química",1,6,"Tablet",3,"Galaxy Tab S9 FE","Samsung",6,1,3,"Estudios, Entretenimiento",8000,0.75,8000
+"Ingenieria Química",8,5,"Tablet",4,"Samsung galaxy tab s8","Google",6,1,3,"Estudios, Investigación, Entretenimiento",8000,0.75,8000
+"Ingenieria Civil",5,5,"Tablet",3,"Samsung tab s7 FE","Samsung",8,3,3,"Estudios, Investigación",10090,2.37859266600595,30270
+"Ingenieria Civil",7,6,"Laptop",2,"HP model15-dw2033la","Motorola",5,3,1,"Estudios, Investigación",6150,2.4390243902439,18450
+"Ingenieria Civil",5,4,"Laptop",3,"HP model rtl8723DE","Apple",6,2,1,"Estudios, Investigación, Entretenimiento",6150,1.95121951219512,12300
+"Ingenieria Ambiental",5,5,"Laptop",2,"Acer Nitro 5 AN515-58-59L1","Acer",5,5,4,"Estudios",11400,2.19298245614035,57000
+"Ciencias de la computación",5,5,"Laptop",3,"Lenovo 21HL000YLM","Lenovo",8,3,5,"Estudios",7166,3.349148758024,21498
+"Ingenieria Química",6,4,"Laptop",3,"HP Pavilion 15-eg2520la","HP",4.5,2,4,"Estudios, Investigación, Entretenimiento",3416,2.63466042154567,6832
+"Ingenieria Civil",5,3,"Celular",3,"Lenovo Legión 5i","Apple",3,2,4,"Estudios, Investigación, Otros",5405,1.11008325624422,10810
+"Ingenieria Ambiental",4,6,"Celular",3,"Redmi Note 12","Xiaomi",10,2,5,"Estudios, Investigación, Entretenimiento",5000,4,10000
+"Ingenieria Mecatrónica",3,7,"Audifonos",9,"JBL-TUNE510BT","JBL",7,1,5,"Estudios, Entretenimiento",450,15.5555555555556,450
+"Ingenieria Mecatrónica",4,6,"Audifonos",2,"ZVX","KZ",9.4,1,5,"Estudios, Investigación",200,47,200
+"Ingenieria Electrónica",3,5,"Audifonos",4,"WF-C700N","SONY",3,1,5,"Estudios, Entretenimiento",250,12,250
+"Ingenieria de la Energía",3,6,"Celular",4,"IPHONE 14 PLUS","Apple",3,1,5,"Estudios, Entretenimiento, Otros",4325,0.69364161849711,4325
+"Bioingenieria",10,8,"Celular",7,"S24 ULTRA","Samsung",7,2,5,"Entretenimiento",4855,2.88362512873326,9710
+"Ingenieria Mecánica",2,7,"Celular",4,"IPHONE 14 PRO","Apple",3,1,4,"Estudios, Entretenimiento",3200,0.9375,3200
+"Ingenieria Civil",3,6,"Celular",2,"IPHONE 11","Apple",6,2,4,"Estudios, Entretenimiento",3110,3.85852090032154,6220
+"Ingenieria Mecánica",7,6,"Celular",3,"IPHONE XR","Apple",8,7,3,"Estudios, Entretenimiento",2942,19.0346702923182,20594
+"Ingenieria Mecánica",7,5,"Celular",3,"IPHONE 13","Apple",3.3,2,4,"Estudios, Entretenimiento",3227,2.0452432599938,6454
+"Ingenieria Mecánica",7,3,"Celular",3,"IPHONE 14 PRO","Apple",5,2,4,"Estudios, Otros",3200,3.125,6400
+"Ingenieria Mecánica",7,7,"Celular",4,"IPHONE 14 PRO MAX","Apple",8,4,4,"Estudios, Entretenimiento",4323,7.40226694425168,17292
+"Ingenieria Ambiental",7,7,"Celular",3,"IPHONE 12 MINI","Apple",7,2,3,"Estudios, Investigación, Entretenimiento",2227,6.28648405927256,4454
+"Ingenieria Mecatrónica",8,3,"Celular",3,"IPHONE 15","Apple",5,1,4,"Estudios, Entretenimiento",3349,1.49298297999403,3349
+"Ingenieria Industrial",6,6,"Celular",3,"IPHONE 14 PLUS","Apple",5.5,1,5,"Estudios, Entretenimiento",4325,1.27167630057803,4325
+"Bioingenieria",3,6,"Celular",4,"IPHONE 7 PLUS","Apple",5,2,4,"Estudios, Entretenimiento",3850,2.5974025974026,7700
+"Ingenieria Electrónica",3,7,"Celular",3,"IPHONE 11 PRO MAX","Apple",5,1,5,"Estudios, Entretenimiento",3969,1.25976316452507,3969
+"Ingenieria Química",3,7,"Celular",2,"IPHONE 11","Apple",8,2,3,"Estudios, Investigación, Entretenimiento",3046,5.25279054497702,6092
+"Ingenieria Electrónica",3,6,"Celular",2,"IPHONE X","Apple",3,2,3,"Estudios",2716,2.20913107511046,5432
+"Ciencias de la computación",3,5,"Celular",4,"IPHONE 8","Apple",4,3,3,"Estudios, Entretenimiento",1821,6.58978583196046,5463
+"Ingenieria Mecánica",4,7,"Celular",1,"IPHONE 14","Apple",4,2,5,"Investigación",3279,2.43976822201891,6558
+"Ingenieria Química",1,8,"Celular",2,"IPHONEXR","Apple",3.5,1,5,"Estudios, Entretenimiento",2716,1.28865979381443,2716
+"Ciencia de Datos",4,5,"Celular",2,"IPHONE 14","Apple",5,3,5,"Entretenimiento",3279,4.57456541628545,9837
+"Ciencias de la computación",5,5,"Celular",2,"IPHONE 14 PLUS","Apple",3,1,5,"Estudios",4325,0.69364161849711,4325
+"Ciencias de la computación",7,3,"Celular",2,"IPHONE X PLUS","Apple",3,3,3,"Estudios, Entretenimiento",3174,2.83553875236295,9522
+"Ingenieria Industrial",3,6,"Celular",4,"IPHONE 14","Apple",7,2,3,"Estudios, Investigación, Entretenimiento",3279,4.26959438853309,6558
+"Bioingenieria",9,5,"Celular",3,"IPHONE 15 PRO","Apple",6,1,5,"Estudios, Entretenimiento",3274,1.83262064752596,3274
+"Bioingenieria",7,5,"Celular",2,"IPHONE 13","Apple",8,2,2,"Estudios, Entretenimiento",3227,4.95816547877285,6454
+"Ciencias de la computación",3,6,"Celular",3,"PIXEL 6 PRO","Google",4.5,1,4,"Estudios, Investigación, Entretenimiento",4000,1.125,4000
+"Ingenieria Ambiental",5,4,"Celular",2,"X8A","Honor",5,2,4,"Estudios, Investigación",4500,2.22222222222222,9000
+"Ingenieria Civil",3,5,"Celular",3,"MAGIC 5 LITE","Honor",8,1,5,"Estudios, Entretenimiento",5100,1.56862745098039,5100
+"Ingenieria Electrónica",3,6,"Celular",2,"70","Honor",5,1,5,"Entretenimiento",4800,1.04166666666667,4800
+"Ingenieria de la Energía",10,4,"Celular",2,"P 40 LITE","Huawei",5,1,4,"Estudios, Entretenimiento",1650,3.03030303030303,1650
+"Ciencias de la computación",5,5,"Celular",3,"P30","Huawei",5,1,4,"Estudios, Entretenimiento",3550,1.40845070422535,3550
+"Bioingenieria",3,5,"Celular",2,"P30 PRO","Huawei",4,2,4,"Estudios, Entretenimiento",4200,1.9047619047619,8400
+"Bioingenieria",3,5,"Celular",2,"P20 LITE","Huawei",5,3,2,"Estudios, Entretenimiento",3000,5,9000
+"Ingenieria Mecatrónica",1,6,"Celular",2,"MOTO G POWER 2022","MOTOROLA",6,2,4,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ciencias de la computación",3,4,"Celular",3,"ONE FUSION","MOTOROLA",2,1,3,"Estudios, Investigación, Entretenimiento",5000,0.4,5000
+"Ciencias de la computación",3,6,"Celular",2,"MOTO EDGE 40","MOTOROLA",2,1,4,"Estudios, Entretenimiento",4400,0.454545454545455,4400
+"Ingenieria Química",6,5,"Celular",2,"G9 PLAY","MOTOROLA",7,2,5,"Estudios, Investigación, Entretenimiento",5000,2.8,10000
+"Ingenieria Industrial",3,5,"Celular",2,"MOTO G(9) PLUS","MOTOROLA",6,1,5,"Estudios, Entretenimiento",5000,1.2,5000
+"Ingenieria Química",7,4,"Celular",3,"MOTO S1","MOTOROLA",6,2,5,"Investigación, Entretenimiento",3000,4,6000
+"Bioingenieria",3,4,"Celular",3,"MOTOG9","MOTOROLA",5,2,3,"Otros",6000,1.66666666666667,12000
+"Ingenieria Civil",4,6,"Celular",2,"OPPO A57","OPPO",5,2,5,"Estudios",5000,2,10000
+"Ingenieria Electrónica",3,5,"Celular",3,"A78","OPPO",8,2,5,"Estudios, Entretenimiento",5000,3.2,10000
+"Ingenieria Mecatrónica",3,7,"Celular",2,"N/A","POCO",12,3,5,"Estudios, Entretenimiento",5100,7.05882352941176,15300
+"Ingenieria Industrial",6,5,"Celular",3,"REDMI NOTE 12","Xiaomi",5,1,5,"Estudios, Otros",5000,1,5000
+"Ingenieria Mecatrónica",6,5,"Celular",2,"REDMI 7","Xiaomi",5,3,3,"Estudios, Entretenimiento",4000,3.75,12000
+"Ingenieria Civil",3,6,"Celular",2,"REDMI 10","Xiaomi",4,3,4,"Estudios, Investigación, Entretenimiento",5000,2.4,15000
+"Ingenieria Mecatrónica",3,7,"Celular",4,"A34","Samsung",8,1,5,"Estudios, Investigación, Entretenimiento",4905,1.63098878695209,4905
+"Ciencia de Datos",3,6,"Celular",2,"A34","Samsung",6,2,4,"Estudios, Investigación, Entretenimiento",4905,2.44648318042813,9810
+"Ingenieria Mecatrónica",2,6,"Celular",2,"S24","Samsung",8,2,4,"Estudios, Entretenimiento",4000,4,8000
+"Ingenieria Civil",6,6,"Celular",2,"A50","Samsung",4,2,3,"Estudios, Investigación, Entretenimiento",6000,1.33333333333333,12000
+"Ingenieria de la Energía",3,5,"Celular",3,"A53","Samsung",6,1,4,"Estudios, Entretenimiento, Otros",5000,1.2,5000
+"Ingenieria Electrónica",3,6,"Celular",2,"A23","Samsung",3,2,3,"Estudios, Entretenimiento",5000,1.2,10000
+"Ingenieria Mecatrónica",3,6,"Celular",2,"S23","Samsung",10,1,5,"Estudios, Investigación, Entretenimiento",3785,2.64200792602378,3785
+"Ingenieria Electrónica",7,6,"Celular",2,"A54","Samsung",4,2,4,"Estudios, Investigación, Entretenimiento",4905,1.63098878695209,9810
+"Bioingenieria",3,5,"Celular",2,"NOTE 9","Samsung",5,1,4,"Estudios, Entretenimiento, Otros",4000,1.25,4000
+"Ingenieria Electrónica",3,5,"Celular",3,"GALAXY S24 ULTRA","Samsung",5,1,4,"Entretenimiento",5000,1,5000
+"Ingenieria Mecánica",8,3,"Celular",2,"GALAXY S23","Samsung",2,3,4,"Investigación",3785,1.58520475561427,11355
+"Ciencias de la computación",3,5,"Celular",4,"S23 FE","Samsung",5,2,4,"Estudios, Entretenimiento",4500,2.22222222222222,9000
+"Ingenieria Industrial",3,4,"Celular",1,"A21","Samsung",3,1,3,"Estudios, Entretenimiento",4000,0.75,4000
+"Ingenieria Mecatrónica",3,5,"Celular",3,"S22 ULTRA","Samsung",6,2,3,"Estudios, Investigación, Entretenimiento, Otros",4855,2.47167868177137,9710
+"Ciencias de la computación",4,6,"Celular",2,"A50","Samsung",6,2,4,"Estudios",3900,3.07692307692308,7800
+"Ingenieria Mecatrónica",10,4,"Celular",4,"SAMSUNG A54","Samsung",3,1,5,"Estudios, Entretenimiento",5000,0.6,5000
+"Ingenieria Electrónica",3,7,"Celular",2,"A23","Samsung",3,1,5,"Estudios, Investigación, Entretenimiento",5000,0.6,5000
+"Ingenieria Civil",4,6,"Celular",2,"A31","Samsung",4,1,4,"Estudios, Entretenimiento",5000,0.8,5000
+"Bioingenieria",3,3,"Celular",2,"S20 FE","Samsung",5,2,5,"Estudios, Investigación, Entretenimiento",4500,2.22222222222222,9000
+"Bioingenieria",3,4,"Celular",2,"A13","Samsung",3,4,3,"Entretenimiento",5000,2.4,20000
+"Ingenieria Industrial",4,4,"Celular",2,"Y22S","Vivo",5,1,5,"Estudios",5000,1,5000
+"Ingenieria Electrónica",6,5,"Celular",3,"Y35","Vivo",6,2,5,"Estudios, Entretenimiento",5000,2.4,10000
+"Ciencias de la computación",3,6,"Celular",3,"12T PRO","Xiaomi",7,1,5,"Estudios, Investigación, Entretenimiento",5000,1.4,5000
+"Ingenieria Civil",3,5,"Celular",3,"REDMI NOTE 11","Xiaomi",7,3,4,"Estudios, Investigación, Entretenimiento",5000,4.2,15000
+"Ingenieria de la Energía",10,3,"Celular",4,"REDMI 9","Xiaomi",5,1,4,"Estudios, Investigación, Entretenimiento",5020,0.99601593625498,5020
+"Ingenieria de la Energía",3,7,"Celular",2,"REDMI 9C","Xiaomi",4,1,4,"Estudios, Entretenimiento",5000,0.8,5000
+"Bioingenieria",3,5,"Celular",2,"REDMI NOTE 10S","Xiaomi",3.5,1,3,"Investigación, Entretenimiento",5000,0.7,5000
+"Ingenieria Mecánica",6,5,"Celular",3,"REDMI 9C","Xiaomi",5,1,3,"Estudios, Investigación, Entretenimiento",5000,1,5000
+"Ingenieria Industrial",3,5,"Celular",3,"REDMI 12C","Xiaomi",10,10,5,"Estudios, Investigación, Entretenimiento, Otros",5000,20,50000
+"Bioingenieria",3,2,"Celular",2,"11 PRO","Xiaomi",2,4,3,"Estudios, Investigación",5000,1.6,20000
+"Ingenieria Mecatrónica",6,5,"Celular",2,"REDMI 11","Xiaomi",5,2,5,"Entretenimiento, Otros",5000,2,10000
+"Ingenieria Civil",4,6,"Celular",2,"REDMI 12","Xiaomi",4,1,4,"Estudios",5000,0.8,5000
+"Ingenieria Civil",2,6,"Celular",2,"12C","Xiaomi",1.5,2,5,"Estudios, Investigación, Entretenimiento",5000,0.6,10000
+"Ingenieria Mecánica",1,7,"Celular",4,"POCO X4 PRO","Xiaomi",10,4,5,"Estudios, Investigación, Entretenimiento",5000,8,20000
+"Bioingenieria",1,7,"Celular",4,"REDMI NOTE 11","Xiaomi",4,5,3,"Estudios, Investigación, Entretenimiento",5000,4,25000
+"Ingenieria Electrónica",10,2,"Celular",4,"POCO M5S","Xiaomi",6,1,4,"Estudios, Entretenimiento",5000,1.2,5000
+"Ingenieria Industrial",6,6,"Celular",3,"POCO X5 PRO","Xiaomi",15,1,3,"Estudios, Investigación, Entretenimiento",5000,3,5000
+"Ingenieria Industrial",6,5,"Celular",4,"REDMI NOTE 10S","Xiaomi",6,3,3,"Estudios, Investigación, Entretenimiento",5000,3.6,15000
+"Ingenieria Electrónica",3,6,"Celular",2,"A33","Samsung",7,2,3,"Estudios, Investigación, Entretenimiento",4860,2.88065843621399,9720
+"Ciencias de la computación",3,5,"Laptop",2,"NITRO 5","Acer",12,3,3,"Estudios, Entretenimiento",3560,10.1123595505618,10680
+"Ingenieria Mecánica",7,6,"Tablet",3,"IPAD 9NA GENERACIÓN","Apple",5,1,5,"Estudios, Entretenimiento",8557,0.584316933504733,8557
+"Ingenieria Ambiental",5,6,"Tablet",3,"IPAD AIR","Apple",5,2,5,"Estudios, Entretenimiento",7606,1.31475151196424,15212
+"Ingenieria Química",7,7,"Tablet",4,"IPAD PRO","Apple",8,3,3,"Estudios, Investigación, Entretenimiento",7538,3.18386840010613,22614
+"Bioingenieria",3,7,"Tablet",3,"TAB M9","Lenovo",5,3,3,"Estudios, Investigación, Entretenimiento",5100,2.94117647058824,15300
+"Ingenieria Química",5,4,"Tablet",3,"TAB P11 (2DA GEN)","Lenovo",7,2,5,"Estudios, Entretenimiento",7500,1.86666666666667,15000
+"Ingenieria Civil",4,7,"Tablet",3,"TAB S6 LITE","Samsung",5,2,4,"Estudios, Investigación, Entretenimiento",7040,1.42045454545455,14080
+"Ingenieria Civil",7,6,"Tablet",3,"TAB S7","Samsung",3,1,4,"Estudios, Entretenimiento",10090,0.297324083250743,10090
+"Ciencias de la computación",5,5,"Tablet",2,"TAB S8","Samsung",4,1,5,"Estudios, Investigación, Entretenimiento",8000,0.5,8000
+"Ingenieria Civil",6,7,"Tablet",4,"TAB S8+","Samsung",8,2,4,"Estudios, Investigación, Entretenimiento",10090,1.58572844400396,20180
+"Ingenieria Civil",6,6,"Tablet",3,"TAB S6 LITE","Samsung",6,1,5,"Estudios",7040,0.852272727272727,7040
+"Ingenieria Civil",2,6,"Tablet",4,"TAN S9 FE+","Samsung",8,2,5,"Estudios",10090,1.58572844400396,20180
+"Ingenieria Mecatrónica",2,6,"Tablet",2,"XIAOMI PAD 6","Xiaomi",4,2,4,"Estudios, Entretenimiento",8640,0.925925925925926,17280
+"Ingenieria Mecánica",1,7,"Tablet",5,"XIAOMI PAD 6","Xiaomi",5,4,5,"Entretenimiento",8640,2.31481481481481,34560
+"Ingenieria Electrónica",8,6,"Laptop",3,"ASPIRE 3","Acer",5,3,3,"Estudios, Investigación, Entretenimiento",3220,4.6583850931677,9660
+"Ingenieria Electrónica",3,6,"Laptop",2,"NITRO 5","Acer",6,3,4,"Entretenimiento",3560,5.0561797752809,10680
+"Bioingenieria",9,4,"Laptop",2,"NITRO 5","Acer",12,8,4,"Estudios, Entretenimiento",3560,26.9662921348315,28480
+"Bioingenieria",3,5,"Laptop",3,"NITRO 5","Acer",8,3,5,"Estudios, Investigación",3560,6.74157303370786,10680
+"Ingenieria Civil",2,7,"Laptop",3,"NITRO 5","Acer",6,3,4,"Estudios, Investigación, Entretenimiento",3560,5.0561797752809,10680
+"Ciencias de la computación",6,4,"Laptop",2,"NITRO 5","Acer",7,3,5,"Estudios, Investigación, Entretenimiento",3560,5.89887640449438,10680
+"Ingenieria Mecatrónica",7,6,"Laptop",2,"ASPIRE 3","Acer",6,3,5,"Estudios, Investigación, Entretenimiento",3220,5.59006211180124,9660
+"Ciencias de la computación",5,7,"Laptop",4,"MACBOOK AIR M1","Apple",5,1,5,"Estudios, Investigación, Entretenimiento",4380,1.14155251141553,4380
+"Ciencias de la computación",3,5,"Laptop",4,"MACBOOK AIR M1","Apple",7,3,3,"Estudios, Investigación, Entretenimiento",4380,4.79452054794521,13140
+"Ciencias de la computación",5,7,"Laptop",2,"MACBOOK AIR M1","Apple",7,2,5,"Estudios, Investigación, Entretenimiento",4380,3.19634703196347,8760
+"Ciencias de la computación",5,5,"Laptop",2,"MACBOOK AIR M1","Apple",5,1,5,"Estudios, Entretenimiento",4380,1.14155251141553,4380
+"Ciencias de la computación",3,5,"Laptop",4,"MACBOOK AIR M2","Apple",5,1,5,"Estudios, Entretenimiento",4730,1.05708245243129,4730
+"Ciencia de Datos",3,5,"Laptop",3,"MACBOOK AIR M2","Apple",7,1,5,"Estudios, Investigación, Entretenimiento",4730,1.47991543340381,4730
+"Ciencia de Datos",6,5,"Laptop",5,"MACBOOK AIR M2","Apple",6,1,5,"Estudios, Investigación",4730,1.26849894291755,4730
+"Ciencias de la computación",5,6,"Laptop",2,"MACBOOK PRO M1","Apple",7,2,5,"Estudios, Investigación, Entretenimiento",5152,2.71739130434783,10304
+"Ciencia de Datos",3,6,"Laptop",2,"MACBOOK PRO M2","Apple",6,1,5,"Estudios, Entretenimiento",6100,0.983606557377049,6100
+"Ingenieria Mecatrónica",9,5,"Laptop",6,"MACBOOK PRO M2","Apple",8,2,5,"Estudios, Investigación",6100,2.62295081967213,12200
+"Ingenieria Mecatrónica",1,6,"Laptop",3,"MACBOOK PRO M2","Apple",8,1,4,"Estudios, Investigación, Entretenimiento",6100,1.31147540983607,6100
+"Ciencia de Datos",4,4,"Laptop",3,"MACBOOK AIR M2","Apple",6,1,4,"Estudios",4730,1.26849894291755,4730
+"Ciencias de la computación",3,6,"Laptop",2,"ASUS GL553VE","Asus",6,3,2,"Estudios, Investigación, Entretenimiento",4400,4.09090909090909,13200
+"Ingenieria Civil",4,7,"Laptop",2,"ASUS TUF GAMING F15","Asus",6,3,4,"Estudios, Entretenimiento",5600,3.21428571428571,16800
+"Ciencias de la computación",3,6,"Laptop",2,"ASUS VIVOBOOK","Asus",8,6,5,"Estudios, Investigación, Entretenimiento, Otros",4335,11.0726643598616,26010
+"Ciencias de la computación",4,4,"Laptop",3,"ASUS ZENBOOK 14","Asus",6,3,5,"Estudios, Investigación, Entretenimiento",6000,3,18000
+"Ciencias de la computación",5,4,"Laptop",2,"TUF A15 AMD","Asus",4,1,5,"Estudios, Investigación",8800,0.454545454545455,8800
+"Ciencias de la computación",5,5,"Laptop",2,"TUF A15 AMD","Asus",7,2,5,"Estudios, Entretenimiento",8800,1.59090909090909,17600
+"Ciencias de la computación",5,6,"Laptop",2,"TUF F15","Asus",6,2,5,"Estudios, Investigación",8800,1.36363636363636,17600
+"Ingenieria de la Energía",3,6,"Laptop",3,"VIVOBOOK 16","Asus",12,1,5,"Estudios, Entretenimiento",4165,2.88115246098439,4165
+"Ciencias de la computación",5,5,"Laptop",2,"VIVOBOOK GO 15","Asus",6,2,5,"Estudios, Investigación, Entretenimiento, Otros",4850,2.47422680412371,9700
+"Ingenieria de la Energía",3,4,"Laptop",2,"ASUS TUF DASH F15","Asus",8,2,3,"Estudios, Investigación",4940,3.23886639676113,9880
+"Ciencias de la computación",5,5,"Laptop",5,"ZENBOOK 14","Asus",3,1,4,"Estudios, Investigación",5670,0.529100529100529,5670
+"Ciencias de la computación",3,3,"Laptop",2,"LATITUDE 5300","DELL",6,2,3,"Estudios, Investigación, Entretenimiento, Otros",6600,1.81818181818182,13200
+"Ciencias de la computación",3,5,"Laptop",2,"G5 5500","DELL",5,4,3,"Estudios",4150,4.81927710843374,16600
+"Ingenieria Mecánica",7,3,"Laptop",2,"INSPIRON 3511","DELL",15,3,4,"Estudios, Investigación",3289,13.6819702037093,9867
+"Ciencia de Datos",6,4,"Laptop",2,"PAVILION X360","HP",7,4,3,"Estudios, Investigación, Entretenimiento",3560,7.86516853932584,14240
+"Ingenieria Mecatrónica",6,5,"Laptop",3,"14-DQ2030LA","HP",6,4,4,"Estudios, Investigación",4166,5.7609217474796,16664
+"Bioingenieria",2,7,"Laptop",2,"14-DQ5005LA","HP",5,3,4,"Estudios, Investigación, Entretenimiento",4166,3.60057609217475,12498
+"Ingenieria Electrónica",3,4,"Laptop",2,"14-DQ5005LA","HP",5,1,5,"Estudios, Investigación",4166,1.20019203072492,4166
+"Ingenieria Mecatrónica",2,6,"Laptop",2,"15-DY2XXX","HP",6,2,4,"Estudios, Investigación",3470,3.45821325648415,6940
+"Ingenieria Mecánica",3,6,"Laptop",2,"15-DY2XXX","HP",5,2,4,"Estudios, Investigación, Entretenimiento",3470,2.88184438040346,6940
+"Ingenieria de la Energía",4,7,"Laptop",3,"250 G8 NOTEBOOK","HP",4,2,4,"Estudios, Entretenimiento",3470,2.30547550432277,6940
+"Bioingenieria",3,6,"Laptop",3,"ELITEBOOK 840 G3","HP",5,2,4,"Estudios",3400,2.94117647058824,6800
+"Ciencias de la computación",5,7,"Laptop",2,"ENVY X360","HP",6,2,5,"Estudios, Investigación, Entretenimiento",5250,2.28571428571429,10500
+"Bioingenieria",6,5,"Laptop",2,"PAVILION X360","HP",5,3,4,"Estudios, Investigación",4000,3.75,12000
+"Ciencias de la computación",3,8,"Laptop",4,"OMEN 16","HP",10,3,4,"Estudios, Investigación, Entretenimiento, Otros",5833,5.14315103720213,17499
+"Bioingenieria",3,6,"Laptop",2,"PAVILION 15-EG2520LA","HP",4,3,5,"Estudios, Entretenimiento",3417,3.51185250219491,10251
+"Ingenieria Civil",2,6,"Laptop",2,"PAVILION 15-EG2520LA","HP",4,4,2,"Estudios, Investigación",3417,4.68247000292654,13668
+"Ciencias de la computación",3,5,"Laptop",2,"PAVILION X360","HP",5,4,3,"Estudios, Investigación, Entretenimiento",4000,5,16000
+"Ingenieria de la Energía",4,6,"Laptop",2,"VICTUS 15","HP",10,5,4,"Estudios, Entretenimiento",3417,14.6327187591454,17085
+"Ingenieria Industrial",3,6,"Laptop",2,"VICTUS 15","HP",6,3,4,"Estudios, Investigación",3417,5.26777875329236,10251
+"Bioingenieria",3,6,"Laptop",2,"IDEAPAD 5","Lenovo",5,5,4,"Estudios, Investigación, Entretenimiento",4250,5.88235294117647,21250
+"Ciencias de la computación",3,5,"Laptop",3,"IDEAPAD 5","Lenovo",3,2,4,"Estudios, Investigación",4250,1.41176470588235,8500
+"Ciencias de la computación",4,5,"Laptop",3,"IDEAPAD 5","Lenovo",6,3,5,"Estudios, Investigación, Entretenimiento",4250,4.23529411764706,12750
+"Ingenieria Industrial",3,6,"Laptop",3,"IDEAPAD GAMING 3","Lenovo",4,1,4,"Estudios, Investigación, Entretenimiento",3750,1.06666666666667,3750
+"Ingenieria Industrial",2,4,"Laptop",2,"IDEAPAD GAMING 3","Lenovo",8,3,4,"Estudios, Investigación",3750,6.4,11250
+"Ciencias de la computación",3,5,"Laptop",3,"IDEAPAD L340","Lenovo",4,2,2,"Estudios, Investigación, Entretenimiento",4083,1.95934361988734,8166
+"Bioingenieria",3,5,"Laptop",2,"IDEAPAD S540","Lenovo",8,3,3,"Estudios, Investigación, Entretenimiento",4500,5.33333333333333,13500
+"Ingenieria Química",3,6,"Laptop",4,"IDEAPAD S540","Lenovo",10,2,4,"Estudios, Investigación, Entretenimiento",4500,4.44444444444444,9000
+"Ciencias de la computación",6,6,"Laptop",2,"IDEAPAD SLIM 5I 14","Lenovo",4,1,4,"Estudios, Investigación",4630,0.863930885529158,4630
+"Bioingenieria",6,7,"Laptop",2,"IDEAPAD SLIM 5I 14","Lenovo",8,8,3,"Estudios, Investigación",4630,13.8228941684665,37040
+"Ingenieria Electrónica",7,4,"Laptop",3,"THINKBOOK 14 G2","Lenovo",6,3,3,"Estudios",3907,4.6071154338367,11721
+"Ingenieria Mecatrónica",9,5,"Laptop",3,"THINKBOOK 14 G2","Lenovo",12,3,3,"Estudios, Entretenimiento",3907,9.21423086767341,11721
+"Bioingenieria",3,6,"Laptop",3,"THINKPAD E14 GEN 5","Lenovo",8,4,4,"Estudios, Entretenimiento",4000,8,16000
+"Ingenieria de la Energía",10,4,"Laptop",2,"THINKPAD E14 GEN 5","Lenovo",8,5,5,"Estudios, Investigación, Entretenimiento",4000,10,20000
+"Ingenieria Electrónica",3,6,"Laptop",2,"V15 G2 ITL 82KB","Lenovo",6,2,4,"Estudios, Entretenimiento",4950,2.42424242424242,9900
+"Ciencia de Datos",5,5,"Laptop",2,"YOGA SLIM 7 PRO 14","Lenovo",6,3,4,"Estudios, Investigación, Entretenimiento",3950,4.55696202531646,11850
+"Ingenieria Mecatrónica",8,4,"Laptop",2,"IDEAPAD S540","Lenovo",5,3,2,"Estudios, Entretenimiento",4500,3.33333333333333,13500
+"Ciencias de la computación",1,7,"Laptop",4,"SURFACE GO 2","MICROSOFT",2,2,3,"Estudios, Investigación, Otros",5547,0.721110510185686,11094
+"Ciencias de la computación",3,5,"Laptop",2,"THIN GF63 12VE","MSI",8,3,3,"Estudios, Entretenimiento, Otros",4600,5.21739130434783,13800
+"Bioingenieria",3,5,"Laptop",2,"THIN GF63 12VE","MSI",5,3,4,"Estudios, Investigación, Entretenimiento",4600,3.26086956521739,13800
+"Ingenieria Electrónica",3,6,"Laptop",2,"GALAXY BOOK4 PRO","Samsung",3,2,5,"Estudios",4900,1.22448979591837,9800
+"Ciencia de Datos",3,4,"Laptop",2,"GALAXY BOOK4 PRO","Samsung",6,1,5,"Estudios, Investigación, Entretenimiento",4900,1.22448979591837,4900
+"Ingenieria Civil",7,6,"Celular",3,"REDMI 9","Xiaomi",4,2,4,"Estudios, Investigación, Entretenimiento",5020,1.59362549800797,10040
+"Ingenieria Civil",4,4,"Laptop",2,"Hp Laptop 14","Samsung",2.5,3,1,"Estudios, Investigación, Entretenimiento",3693,2.03086921202275,11079
+"Ingenieria Civil",4,7,"Laptop",3,"Ideapad Gaming","Lenovo",5,4,4,"Estudios",3910,5.1150895140665,15640
+"Ingenieria Ambiental",6,5,"Laptop",3,"Iphone 13","Apple",4,1,5,"Estudios, Investigación, Entretenimiento",3240,1.23456790123457,3240
+"Ingenieria Civil",4,6,"Celular",3,"Samsung Galaxy A23","Samsung",10,4,4,"Estudios, Investigación, Entretenimiento",5000,8,20000
+"Ingenieria Electrónica",3,6,"Laptop",2,"Asus ROG strix","Asus",5,3,5,"Estudios, Investigación, Entretenimiento",3783,3.96510705789056,11349
+"Bioingenieria",3,5,"Celular",3,"IPhone 15 pro","Apple",5,3,4,"Estudios, Investigación, Entretenimiento, Otros",4852,3.09150865622424,14556
+"Bioingenieria",3,5,"Celular",3,"Iphone 12","Apple",3,2,3,"Estudios, Investigación, Entretenimiento, Otros",2775,2.16216216216216,5550
+"Bioingenieria",2,7,"Laptop",2,"Lenovo Thinkpad E16","Lenovo",5,2,5,"Estudios",5135,1.94741966893866,10270
+"Bioingenieria",3,5,"Laptop",2,"Laptop Hp Envy 360","HP",5,2,4,"Estudios, Entretenimiento",3550,2.8169014084507,7100
+"Ingenieria Electrónica",3,6,"Laptop",2,"Lenovo ThiinkPad T450","Lenovo",4.5,2,4,"Estudios, Investigación, Entretenimiento",4950,1.81818181818182,9900
+"Ingenieria Civil",4,7,"Laptop",2,"Rog Strix G513RC","Asus",6,3,3,"Estudios",3620,4.97237569060773,10860
+"Ingenieria Mecatrónica",3,5,"Laptop",3,"HP Spectre x360 13","HP",3,1,5,"Estudios, Entretenimiento",4030,0.744416873449132,4030
+"Bioingenieria",3,6,"Tablet",3,"samsung Tab S9","Samsung",4,1,4,"Estudios, Entretenimiento",4500,0.888888888888889,4500
+"Ciencias de la computación",3,4,"Laptop",3,"IDEAPAD SLIM 3I INTEL CORE I5","Lenovo",8,2,3,"Estudios, Investigación",4950,3.23232323232323,9900
+"Ciencias de la computación",3,5,"Celular",3,"iphone 11","Apple",4,2,3,"Estudios, Entretenimiento",3046,2.62639527248851,6092
+"Ciencias de la computación",3,5,"Laptop",5,"Tuf Gaming F15","Asus",8,3,4,"Estudios, Entretenimiento",5135,4.67380720545277,15405
+"Ciencia de Datos",3,5,"Laptop",2,"IPhone 15 pro","Apple",6,1,3,"Estudios, Entretenimiento",3650,1.64383561643836,3650
+"Ingenieria Mecánica",5,4,"Laptop",3,"Acer nitro 5","Acer",6,3,1,"Estudios, Investigación, Entretenimiento",3560,5.0561797752809,10680
+"Ciencia de Datos",3,5,"Laptop",2,"HP Laptop 15-dy1xxx","HP",7,2,3,"Estudios, Investigación, Entretenimiento",3470,4.03458213256484,6940
+"Ciencia de Datos",3,6,"Celular",2,"A54","Samsung",6,2,4,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ingenieria Ambiental",5,4,"Celular",2,"Honor x8a","Honor",10,2,4,"Estudios, Entretenimiento",4500,4.44444444444444,9000
+"Ingenieria Civil",6,8,"Laptop",2,"HP EliteBook 840 G7","Xiaomi",3,1,5,"Estudios, Investigación",4300,0.697674418604651,4300
+"Bioingenieria",3,5,"Laptop",2,"L14M3P21","Lenovo",5,1,3,"Estudios, Entretenimiento",4050,1.23456790123457,4050
+"Ingenieria Industrial",3,6,"Laptop",4,"Labtop OMEN gaming 16","HP",6,2,2,"Estudios, Entretenimiento",4729.7,2.5371588049982,9459.4
+"Ciencia de Datos",3,6,"Laptop",2,"ThinkBook 14","Lenovo",8,3,4,"Estudios, Investigación, Entretenimiento",3950,6.07594936708861,11850
+"Ingenieria Mecatrónica",4,5,"Laptop",2,"Samsung Galaxy S21","Samsung",7,2,4,"Estudios, Investigación, Entretenimiento",4800,2.91666666666667,9600
+"Ciencias de la computación",5,4,"Laptop",2,"S20 samsung","Samsung",5,3,4,"Estudios, Investigación, Entretenimiento",3880,3.8659793814433,11640
+"Bioingenieria",3,6,"Laptop",2,"inspiron 3520 coreI7","DELL",8,3,3,"Estudios, Investigación",3600,6.66666666666667,10800
+"Ingenieria Civil",4,6,"Laptop",2,"15-dy5011la Intel Core i7","HP",6,3,3,"Estudios",3693.7,4.87316241167393,11081.1
+"Ingenieria Industrial",3,6,"Celular",3,"Lenovo ThinkPad T14s","Lenovo",4,1,3,"Estudios, Entretenimiento",3800,1.05263157894737,3800
+"Ingenieria Civil",4,5,"Celular",2,"Motorola Edge 40 neo","Motorola",6,3,5,"Estudios, Investigación, Entretenimiento",5000,3.6,15000
+"Ingenieria Ambiental",4,7,"Celular",3,"Redmi Note 9","Xiaomi",6,2,5,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ingenieria Civil",3,6,"Celular",3,"Asus ROG strix g15","Asus",10,2,1,"Estudios",3783.8,5.28569163275015,7567.6
+"Ingenieria Civil",6,6,"Laptop",2,"HP Stream 14","HP",10,4,4,"Estudios",3400,11.7647058823529,13600
+"Ingenieria Ambiental",5,5,"Laptop",2,"A12","Samsung",12,2,5,"Estudios, Investigación, Entretenimiento",5000,4.8,10000
+"Ingenieria Ambiental",4,6,"Laptop",2,"HP Laptop 15 - dy2xxx","HP",9,4,3,"Investigación, Entretenimiento",3100,11.6129032258065,12400
+"Bioingenieria",4,7,"Laptop",4,"A54","Samsung",3,4,3,"Estudios, Entretenimiento",5000,2.4,20000
+"Ingenieria Mecatrónica",5,5,"Celular",2,"HP Laptop 15","HP",4,1,3,"Estudios, Entretenimiento, Otros",3693.7,1.08292498037198,3693.7
+"Ingenieria Civil",8,7,"Tablet",3,"Galaxi s24 Ultra","Samsung",5,2,3,"Estudios, Investigación",4855,2.05973223480947,9710
+"Ingenieria Civil",4,7,"Laptop",2,"Acer Nitro 5","Acer",4,2,4,"Estudios",3560,2.24719101123596,7120
+"Ciencias de la computación",3,6,"Otros",3,"Apire 5 corei 15","Acer",6,1,5,"Estudios, Investigación, Entretenimiento",3220,1.86335403726708,3220
+"Bioingenieria",6,6,"Laptop",2,"Intel Core i5","Asus",4,4,3,"Estudios, Entretenimiento",5000,3.2,20000
+"Ingenieria Civil",4,6,"Tablet",3,"S24 Ultra","Samsung",6,2,3,"Estudios",4855,2.47167868177137,9710
+"Ingenieria Mecánica",5,6,"Laptop",3,"LEGION PRo 5i 16","Lenovo",5,3,3,"Estudios, Investigación, Otros",5210,2.87907869481766,15630
+"Ciencias de la computación",5,8,"Laptop",5,"iPhone 15 pro","Apple",7,2,5,"Estudios, Investigación, Entretenimiento",4441,3.15244314343616,8882
+"Ciencias de la computación",5,6,"Celular",2,"Redmi note 13","Xiaomi",4,2,1,"Estudios, Entretenimiento",5000,1.6,10000
+"Ciencias de la computación",4,5,"Laptop",3,"Asus ROG Strix g15","Asus",6,1,5,"Estudios, Entretenimiento, Otros",3783.8,1.58570748982504,3783.8
+"Bioingenieria",3,7,"Tablet",3,"Lenovo ThinkPad X1 Nano","Lenovo",2.5,2,4,"Estudios, Investigación, Entretenimiento",3250,1.53846153846154,6500
+"Ciencias de la computación",3,4,"Celular",3,"Asus TUF F15 (2022)","Asus",12,3,2,"Estudios, Entretenimiento",5135,7.01071080817916,15405
+"Bioingenieria",3,5,"Celular",3,"Redmi note 13","Xiaomi",5,2,5,"Estudios, Investigación, Entretenimiento",5000,2,10000
+"Ciencias de la computación",3,6,"Laptop",2,"Galaxy A15","Samsung",6,3,5,"Estudios, Entretenimiento",4900,3.6734693877551,14700
+"Ingenieria Mecánica",6,5,"Celular",2,"Galaxy S21","Samsung",3,3,1,"Entretenimiento",3880.2,2.31946806865625,11640.6
+"Ingenieria Industrial",3,6,"Laptop",3,"Lenovo Ideapad Gaming 3","Lenovo",4,2,3,"Estudios, Investigación, Entretenimiento",4950,1.61616161616162,9900
+"Ingenieria Industrial",4,6,"Laptop",2,"Iphone 11","Apple",4.5,1,4,"Estudios, Entretenimiento",3110,1.44694533762058,3110
+"Ingenieria Electrónica",5,6,"Laptop",3,"MacBook Pro 14"" (M1 Pro/M1 Max, 2021)","Apple",6,4,2,"Estudios, Investigación, Entretenimiento",5007,4.79328939484721,20028
+"Ingenieria Industrial",4,6,"Laptop",2,"Laptop asus ryzen 5 vivobook 16x","Asus",5,3,3,"Estudios, Entretenimiento",4504.5,3.33000333000333,13513.5
+"Ingenieria Industrial",5,5,"Laptop",2,"Lenovo thinkpad T450","Lenovo",7,2,1,"Estudios, Investigación, Entretenimiento",6081,2.30225291892781,12162
+"Ingenieria Mecatrónica",1,7,"Tablet",3,"Iphone 13","Apple",4,1,5,"Estudios, Entretenimiento",4352,0.919117647058823,4352
+"Ingenieria Industrial",4,8,"Laptop",2,"HP Envy x360 15","HP",12,3,4,"Estudios, Investigación, Entretenimiento",3685,9.76933514246947,11055
+"Bioingenieria",7,5,"Laptop",10,"A17","Asus",6,2,5,"Estudios, Entretenimiento, Otros",4240,2.83018867924528,8480
+"Ingenieria Mecatrónica",9,4,"Laptop",2,"IdeaPad 5","Lenovo",6,2,4,"Estudios, Investigación, Entretenimiento",4990,2.40480961923848,9980
+"Ingenieria Electrónica",5,6,"Laptop",2,"Laptop Hp Envy 360","HP",4,2,3,"Estudios, Entretenimiento",3685,2.17096336499322,7370
+"Ingenieria Mecatrónica",3,4,"Laptop",2,"Nitro 5 intel corei 15","Acer",6,2,3,"Estudios, Investigación, Entretenimiento",3851,3.11607374707868,7702
+"Ingenieria Civil",4,7,"Laptop",3,"Samsung GalaxyTab A7","Samsung",8,3,4,"Estudios, Investigación, Entretenimiento",5100,4.70588235294118,15300
+"Ciencia de Datos",5,4,"Laptop",3,"MacBook Pro 13"" (M1, 2020)","Apple",5,1,5,"Estudios, Investigación, Entretenimiento",3981,1.25596583772921,3981
+"Ciencia de Datos",5,5,"Laptop",2,"Iphone xr","Apple",6,4,1,"Estudios, Investigación, Entretenimiento",2942,8.15771583956492,11768
+"Ciencias de la computación",6,4,"Celular",2,"MacBook Pro 13"" (Intel, 2019)","Apple",6,3,3,"Estudios",3859,4.66442083441306,11577
+"Ciencias de la computación",3,5,"Celular",4,"Reno 7 CPH2363","OPPO",3,2,3,"Estudios, Investigación",4500,1.33333333333333,9000
+"Ingenieria Ambiental",5,5,"Laptop",2,"HP core i5","HP",8,4,3,"Estudios, Investigación, Entretenimiento",3800,8.42105263157895,15200
+"Ingenieria de la Energía",8,6,"Laptop",2,"MacBook Pro 13","Apple",10,3,3,"Estudios, Investigación, Entretenimiento",3981,7.53579502637528,11943
+"Ingenieria Industrial",3,6,"Celular",3,"iPhone 12","Apple",8,3,3,"Investigación, Entretenimiento",2815,8.52575488454707,8445
+"Ingenieria Civil",4,6,"Laptop",2,"HP Stream 14","HP",5,1,3,"Estudios, Investigación, Entretenimiento",2800,1.78571428571429,2800
+"Ingenieria Civil",4,6,"Laptop",3,"HP Stream 14","HP",4,2,3,"Estudios",2800,2.85714285714286,5600
+"Ingenieria Civil",4,5,"Laptop",2,"HP EliteBook 840 G7","HP",8,2,3,"Estudios, Entretenimiento",4300,3.72093023255814,8600
+"Ingenieria Civil",3,6,"Celular",3,"Redmi note 11","Xiaomi",8,3,5,"Estudios, Investigación, Entretenimiento",5000,4.8,15000
+"Ingenieria Civil",4,6,"Celular",2,"Iphone 13 Pro","Apple",2.5,3,4,"Estudios, Entretenimiento",3095,2.4232633279483,9285
+"Ingenieria Ambiental",4,7,"Laptop",2,"HP Pavilion 15","HP",6,3,4,"Estudios, Investigación",4730,3.80549682875264,14190
+"Ingenieria Ambiental",6,5,"Laptop",2,"HP Laptop 15-dw1xxx","HP",4,2,3,"Estudios, Investigación, Entretenimiento",4100,1.95121951219512,8200
+"Ingenieria Ambiental",5,5,"Laptop",3,"HP Laptop 14-cf2xxx","HP",5,3,3,"Estudios, Entretenimiento",5614,2.67189169932312,16842
+"Ingenieria Civil",4,6,"Tablet",4,"ThinkPad E16","Lenovo",5,3,3,"Estudios, Entretenimiento",5135.1,2.92107261786528,15405.3
+"Ingenieria Civil",4,6,"Celular",3,"Samsung Galaxy s10","Samsung",6,2,4,"Estudios, Investigación, Entretenimiento",4200,2.85714285714286,8400
+"Ingenieria Civil",8,7,"Laptop",3,"ASPIRE 5 CORE I5","Acer",8,4,5,"Estudios, Investigación, Entretenimiento, Otros",4000,8,16000
+"Ciencias de la computación",9,3,"Laptop",3,"MacBook Pro 15"" (2017)","Apple",5,2,5,"Estudios, Investigación, Entretenimiento",4781,2.09161263334031,9562
+"Bioingenieria",3,5,"Laptop",2,"INTEL CORE I5 12VA GEN","Asus",3.5,1,5,"Estudios, Investigación, Entretenimiento",3783.8,0.924996035731275,3783.8
+"Bioingenieria",3,5,"Laptop",2,"Lenovo Yoga 9i","Lenovo",4,2,3,"Estudios, Investigación",4450,1.79775280898876,8900
+"Ciencias de la computación",3,6,"Laptop",3,"IdeaPad3 14ITL6","Lenovo",2,1,4,"Estudios, Entretenimiento",4050,0.493827160493827,4050
+"Ingenieria Electrónica",4,6,"Laptop",3,"HP Omen 15","HP",8,4,3,"Estudios, Investigación, Entretenimiento",4800,6.66666666666667,19200
+"Ingenieria Ambiental",4,6,"Laptop",2,"Lenovo ThinkPad T450","Lenovo",4,2,5,"Estudios, Entretenimiento",5200,1.53846153846154,10400
+"Ingenieria Mecánica",8,5,"Laptop",3,"iPhone 11","Apple",5,3,4,"Estudios",3110,4.82315112540193,9330
+"Ingenieria Mecánica",7,4,"Laptop",2,"Galaxy A15","Samsung",3,1,4,"Estudios, Investigación, Entretenimiento",4900,0.612244897959184,4900
+"Ingenieria Civil",8,6,"Laptop",2,"Asus vivobook 14","Asus",5,2,5,"Estudios, Entretenimiento",6306.3,1.58571587143016,12612.6
+"Ingenieria Civil",8,7,"Laptop",2,"Omen Laptop 15-enn0x","HP",12,4,4,"Estudios, Investigación, Entretenimiento",3193.7,15.0295895043367,12774.8
+"Ingenieria Civil",4,7,"Laptop",2,"Lenovo Legion 5 Pro","Lenovo",6,3,3,"Estudios",5800,3.10344827586207,17400
+"Ingenieria Mecatrónica",4,6,"Celular",3,"Lenovo IdeaPad Gaming 3","Lenovo",8,2,3,"Estudios, Investigación, Entretenimiento",3100,5.16129032258065,6200
+"Ingenieria Civil",4,4,"Laptop",2,"Tuf F15","Asus",3,3,3,"Estudios, Investigación, Entretenimiento",5135,1.75267770204479,15405
+"Ingenieria Ambiental",4,6,"Celular",2,"A12","Samsung",6,1,5,"Estudios, Investigación, Entretenimiento",5000,1.2,5000
+"Ingenieria Civil",4,5,"Laptop",2,"A22 5G","Samsung",5,2,4,"Estudios, Entretenimiento",4860.02,2.05760470121522,9720.04
+"Ingenieria Civil",5,5,"Laptop",2,"HONOR 50","Honor",6,1,4,"Estudios, Investigación, Entretenimiento",4300,1.3953488372093,4300
+"Ingenieria Civil",6,7,"Celular",3,"iPhone 13 pro","Apple",3,4,4,"Estudios, Investigación",4352,2.75735294117647,17408
+"Ingenieria Civil",5,4,"Tablet",2,"iPhone 12 mini","Apple",6,2,1,"Estudios, Entretenimiento",2227,5.38841490794791,4454
+"Ingenieria Civil",2,6,"Celular",3,"Iphone 11","Apple",4,1,4,"Estudios, Entretenimiento, Otros",3110,1.28617363344051,3110
+"Ingenieria Civil",7,6,"Laptop",2,"Hp model 15-dw2033la","Motorola",5,3,1,"Estudios, Investigación",3416.67,4.39023961927842,10250.01
+"Ingenieria Civil",4,7,"Celular",2,"HP EliteBook 840 G7","HP",5,2,4,"Estudios",4300,2.32558139534884,8600
+"Bioingenieria",2,7,"Laptop",2,"HP ProBook 450 G7","HP",5,3,4,"Estudios, Investigación, Entretenimiento",3780,3.96825396825397,11340
+"Ingenieria Industrial",4,7,"Laptop",2,"HP Pavilion x360 14","HP",5,3,4,"Estudios, Investigación",3710,4.04312668463612,11130
+"Ingenieria Mecánica",3,6,"Laptop",2,"LILY-L33C C","Honor",4,2,4,"Estudios, Investigación, Entretenimiento",4500,1.77777777777778,9000
+"Ingenieria Ambiental",4,6,"Laptop",2,"82VG00GWLM","Lenovo",8,4,4,"Estudios, Investigación, Entretenimiento",3500.3,9.14207353655401,14001.2
+"Ingenieria Ambiental",4,7,"Laptop",2,"Hp Pavilion","HP",1.5,3,3,"Estudios, Investigación, Entretenimiento",4000,1.125,12000
+"Ingenieria Electrónica",4,7,"Celular",3,"GALAXY A34 5G","Samsung",5,1,4,"Estudios, Entretenimiento",4905,1.01936799184506,4905
+"Ingenieria Civil",5,4,"Laptop",3,"ASUS TUF GAMING F15","Samsung",4.5,1,4,"Estudios, Investigación, Entretenimiento",5135,0.876338851022395,5135
+"Ingenieria Civil",4,5,"Laptop",3,"Lenovo Yoga Slim 7 Pro","Lenovo",7,2,5,"Estudios, Investigación",5800,2.41379310344828,11600
+"Ingenieria Química",7,5,"Laptop",3,"HP Pavilion Gaming Laptop","HP",4.5,2,3,"Estudios",3010,2.99003322259136,6020
+"Ingenieria Electrónica",6,6,"Laptop",3,"HP ProBook 450 G7","HP",10,3,4,"Estudios, Investigación, Entretenimiento",3780,7.93650793650794,11340
+"Ingenieria Civil",4,7,"Laptop",3,"HP Pavilion 15","HP",7,2,5,"Estudios, Investigación, Entretenimiento",2800,5,5600
+"Ingenieria Civil",4,7,"Laptop",3,"Victus 16-D0503LA","HP",6,3,3,"Estudios, Investigación, Entretenimiento",4850,3.71134020618557,14550
+"Ingenieria Civil",4,5,"Laptop",2,"Lenovo IdeaPad 5","Lenovo",8,1,5,"Estudios, Investigación, Entretenimiento",4050,1.97530864197531,4050
+"Ingenieria Industrial",6,6,"Celular",3,"Redmi note 13","Xiaomi",6,1,5,"Estudios",5000,1.2,5000
+"Ingenieria Mecatrónica",4,6,"Laptop",5,"Lenovo ThinkPad X13 Yoga","Lenovo",5.3,1,4,"Estudios",3300,1.60606060606061,3300
+"Ingenieria Civil",4,6,"Celular",2,"90 Lite","Honor",1,2,4,"Estudios, Investigación, Entretenimiento",4730,0.422832980972516,9460
+"Ingenieria Civil",9,4,"Celular",4,"Redmi 9T","Xiaomi",6,4,5,"Estudios, Investigación, Entretenimiento",6000,4,24000
+"Ingenieria Mecánica",8,5,"Laptop",2,"iPhone 11","Apple",6,1,4,"Estudios, Entretenimiento, Otros",3110,1.92926045016077,3110
+"Ciencias de la computación",5,5,"Tablet",3,"Galaxy Tab8","Samsung",6,2,5,"Estudios, Investigación, Entretenimiento",3110,3.85852090032154,6220
+"Ciencias de la computación",6,5,"Laptop",3,"Latitude 5410","DELL",5,3,3,"Estudios, Investigación, Entretenimiento",5000,3,15000
+"Ingenieria Mecatrónica",8,4,"Celular",2,"Lenovo Ideapad 5","Lenovo",3.3,3,1,"Estudios, Entretenimiento",4050,2.44444444444444,12150
+"Ingenieria Mecatrónica",6,5,"Laptop",2,"ASUS ROG Strix g 15","Xiaomi",4,2,2,"Entretenimiento",3783.8,2.11427665310006,7567.6
+"Ingenieria Civil",5,6,"Laptop",2,"MacBook M1","Apple",5,2,5,"Estudios, Investigación",5152,1.94099378881988,10304
+"Ingenieria Civil",1,7,"Celular",2,"iPhone 13","Apple",7,2,3,"Estudios, Investigación, Entretenimiento",4352,3.21691176470588,8704
+"Ingenieria Civil",1,7,"Celular",3,"Redmi 9T","Xiaomi",4,2,4,"Estudios",6000,1.33333333333333,12000
+"Ingenieria Civil",1,7,"Celular",3,"HP-RTX","Asus",4,2,4,"Estudios, Investigación, Entretenimiento",4000,2,8000
+"Bioingenieria",1,7,"Laptop",2,"Motorola G20","Motorola",3,1,2,"Estudios, Investigación, Entretenimiento",5000,0.6,5000
+"Ciencia de Datos",1,6,"Celular",3,"Samsumg Note10+","Samsung",4,2,3,"Estudios, Investigación, Entretenimiento",4300,1.86046511627907,8600
+"Ingenieria Civil",1,8,"Smart TV",8,"Xs","Xiaomi",9,2,5,"Estudios, Investigación, Entretenimiento",5000,3.6,10000
+"Ingenieria Civil",1,6,"Laptop",2,"iphone 11","Apple",5,2,2,"Estudios, Entretenimiento",3110,3.21543408360129,6220
+"Ingenieria Civil",1,6,"Celular",1,"A12","Samsung",5,2,5,"Estudios, Investigación, Entretenimiento",5000,2,10000
+"Ciencias de la computación",3,6,"Laptop",3,"Hp Victus 16","HP",5,3,3,"Estudios, Entretenimiento",4323,3.46981263011797,12969
+"Ciencia de Datos",3,6,"Laptop",3,"Lenovo IdeaPad 5","Lenovo",4,2,4,"Estudios",4050,1.97530864197531,8100
+"Ingenieria Industrial",3,7,"Celular",2,"iPhone 13 pro","Apple",4,2,4,"Estudios, Entretenimiento",4352,1.83823529411765,8704
+"Ciencia de Datos",3,6,"Celular",4,"Iphone 11","Apple",8,3,3,"Estudios, Investigación, Entretenimiento",3110,7.71704180064309,9330
+"Ingenieria Mecatrónica",1,6,"Laptop",3,"ASUS TUF GAMING F15","Asus",5,1,4,"Estudios, Investigación, Entretenimiento",5675,0.881057268722467,5675
+"Ingenieria Mecánica",6,5,"Celular",2,"iPhone 11","Apple",4,2,5,"Estudios, Investigación",3110,2.57234726688103,6220
+"Ciencias de la computación",1,6,"Laptop",2,"Lenovo Ideapad 4","Lenovo",2.5,2,3,"Estudios",2600,1.92307692307692,5200
+"Ingenieria Civil",9,5,"Laptop",2,"Acer Aspire 3 A315-41","Acer",3.5,3,2,"Estudios, Investigación, Entretenimiento",4810,2.18295218295218,14430
+"Ingenieria de la Energía",1,7,"Celular",3,"Iphone 13","Apple",8,3,5,"Estudios, Investigación, Entretenimiento",4352,5.51470588235294,13056
+"Ingenieria Mecánica",1,5,"Celular",2,"iPhone 13","Apple",8,2,5,"Estudios, Otros",4352,3.67647058823529,8704
+"Ingenieria Mecatrónica",1,7,"Celular",3,"Redmi note 11","Xiaomi",8,2,5,"Estudios, Investigación, Entretenimiento",5000,3.2,10000
+"Ingenieria de la Energía",8,5,"Laptop",3,"Laptop HP PAVILLION 14","HP",7,3,3,"Estudios, Investigación, Entretenimiento",3630,5.78512396694215,10890
+"Ingenieria de la Energía",6,5,"Laptop",3,"Hp Victus 16","Xiaomi",5,3,4,"Estudios, Investigación, Entretenimiento, Otros",4323,3.46981263011797,12969
+"Ingenieria Mecánica",7,5,"Laptop",2,"Asus Tuf Gaming A15","Asus",5,2,3,"Estudios, Investigación, Entretenimiento",5675,1.76211453744493,11350
+"Ingenieria Mecánica",6,5,"Laptop",3,"Hp Victus 15","HP",5,3,4,"Estudios",4323,3.46981263011797,12969
+"Ingenieria Mecatrónica",8,8,"Laptop",3,"Hp Victus 15","HP",5,3,5,"Estudios, Investigación, Entretenimiento",4323,3.46981263011797,12969
+"Ingenieria Civil",4,5,"Laptop",2,"82AU","Samsung",8,3,4,"Estudios, Investigación",7201,3.33287043466185,21603
+"Ingenieria Civil",4,6,"Laptop",3,"Victus by HP Laptop 16-d0xxx","HP",10,3,4,"Estudios",3240,9.25925925925926,9720
+"Ingenieria de la Energía",2,6,"Celular",2,"X8a","Honor",2,1,4,"Estudios, Entretenimiento",4500,0.444444444444444,4500
+"Ciencia de Datos",4,6,"Laptop",2,"Aspire A315-55G","Acer",10,3,3,"Estudios, Investigación, Entretenimiento",3240,9.25925925925926,9720
+"Ciencia de Datos",3,5,"Celular",2,"iPhone 15 pro","Apple",5,1,3,"Estudios, Entretenimiento",3274,1.5271838729383,3274
+"Ciencias de la computación",3,4,"Celular",2,"Galaxy A30s","Samsung",4,5,3,"Estudios, Entretenimiento",4000,5,20000
+"Ciencias de la computación",3,5,"Laptop",4,"ROG Zephyrus G14 GA402RJ_GA402RJ","Asus",8,3,4,"Estudios, Entretenimiento",6841,3.50825902645812,20523
+"Ciencias de la computación",5,4,"Laptop",2,"ZenBook UX325UA_UM325UA","Asus",10,2,3,"Estudios, Investigación",6031,3.31619963521804,12062
+"Ciencias de la computación",3,6,"Laptop",3,"ASUS TUF Dash F15 FX517ZC_FX517ZC","Asus",12,2,3,"Estudios, Investigación, Entretenimiento",6841,3.50825902645812,13682
+"Bioingenieria",2,8,"Laptop",3,"Lenovo gamin","Lenovo",7,4,4,"Estudios",4050,6.91358024691358,16200
+"Ciencias de la computación",2,5,"Laptop",2,"Asus Ux360","Asus",7,7,1,"Estudios",6841,7.162695512352,47887
+"Ingenieria Civil",4,7,"Laptop",2,"ASUS TUF Gaming F15 FX506LHB_FX506LHB","Asus",6,3,4,"Estudios",4320,4.16666666666667,12960
+"Ciencias de la computación",3,5,"Laptop",3,"HP Laptop 15-dy5xxx","HP",2,2,1,"Estudios, Entretenimiento",3690,1.0840108401084,7380
+"Bioingenieria",3,6,"Celular",2,"Galaxy S20 FE 5G","Samsung",8,2,3,"Estudios, Investigación, Entretenimiento, Otros",4500,3.55555555555556,9000
+"Ingenieria Civil",4,6,"Laptop",4,"Acer aspire A315","Acer",8,2,4,"Estudios, Entretenimiento, Otros",5851,2.73457528627585,11702
+"Bioingenieria",5,6,"Celular",3,"Iphone 8 Plus","Apple",2,2,3,"Estudios, Investigación, Entretenimiento",2691,1.48643626904496,5382
+"Ciencias de la computación",3,3,"Laptop",2,"Dell Latitude 5300 2-in-1","DELL",6,2,4,"Estudios, Investigación, Entretenimiento, Otros",3780,3.17460317460317,7560
+"Ciencias de la computación",3,5,"Celular",3,"iPhone 11","Apple",4,2,3,"Estudios, Entretenimiento",3110,2.57234726688103,6220
+"Ciencia de Datos",3,5,"Laptop",2,"Vivobook_ASUSLaptop N7600ZE","Asus",10,3,5,"Estudios, Investigación, Entretenimiento",3780,7.93650793650794,11340
+"Ingenieria Civil",4,7,"Tablet",2,"Galaxy Tab s7 FE","Samsung",5,1,4,"Estudios, Entretenimiento",10090,0.495540138751239,10090
+"Ciencia de Datos",3,6,"Laptop",3,"Lenovo ThinkPad","Lenovo",4,2,4,"Estudios",8520,0.938967136150235,17040
+"Ciencia de Datos",3,6,"Laptop",2,"Macbook Pro M2 Pro","Apple",6,1,5,"Estudios, Entretenimiento",5239,1.14525672838328,5239
+"Ciencias de la computación",3,4,"Celular",2,"POCO X3 Pro","POCO",8,2,4,"Estudios, Investigación, Entretenimiento",5160,3.10077519379845,10320
+"Ingenieria Civil",4,6,"Laptop",3,"HP Laptop 15-dw2xxx","HP",8,3,3,"Estudios",3690,6.50406504065041,11070
+"Ingenieria Civil",4,7,"Laptop",3,"Nitro AN515-57","Acer",3,2,4,"Estudios, Entretenimiento, Otros",5176,1.15919629057187,10352
+"Ingenieria Civil",4,6,"Laptop",3,"ASUS TUF Gaming A15","Asus",5,5,2,"Estudios, Investigación, Entretenimiento",4320,5.78703703703704,21600
+"Ciencias de la computación",4,4,"Laptop",3,"MacBook Pro 13” chip M2 Pro 16GB de RAM","Apple",5,2,5,"Estudios, Investigación, Entretenimiento",5239,1.90876121397213,10478
+"Ingenieria Civil",4,7,"Laptop",3,"82k2","Lenovo",6,3,4,"Estudios",3870,4.65116279069767,11610
+"Ciencias de la computación",3,4,"Laptop",3,"HP Pavilion x360 Convertible 14-cd0xxx","HP",10,4,4,"Estudios, Investigación, Entretenimiento",3690,10.840108401084,14760
+"Ingenieria Mecánica",6,5,"Celular",2,"81WE","Samsung",3,3,1,"Entretenimiento",4000,2.25,12000
+"Ingenieria Civil",4,7,"Laptop",4,"Aspire A315-57G","Acer",6,3,4,"Estudios, Investigación, Entretenimiento",3240,5.55555555555556,9720
+"Ciencia de Datos",3,5,"Laptop",2,"Galaxy S21 5G","Samsung",6,2,3,"Estudios, Entretenimiento",4000,3,8000
+"Ingenieria Mecánica",4,5,"Laptop",3,"Acer nitro 5","Acer",4,3,2,"Estudios, Investigación, Entretenimiento",6301,1.90445960958578,18903
+"Ciencias de la computación",4,6,"Laptop",2,"HP Laptop 15-ef2xxx","HP",7,4,4,"Estudios",3690,7.58807588075881,14760
+"Ciencias de la computación",4,6,"Laptop",3,"HP Laptop 15-dy2xxx","HP",4,3,2,"Estudios, Investigación",3690,3.2520325203252,11070
+"Ciencias de la computación",4,6,"Laptop",2,"HP Laptop 15-dy2xxx","HP",5,2,4,"Estudios, Entretenimiento",3690,2.710027100271,7380
+"Ingenieria Industrial",6,7,"Laptop",2,"HP EliteBook","HP",7,3,3,"Estudios, Investigación, Entretenimiento",3690,5.69105691056911,11070
+"Ciencias de la computación",4,6,"Laptop",2,"HP Pavilion Gaming Laptop 15-dk1xxx","HP",6.5,2,3,"Estudios, Investigación, Entretenimiento, Otros",3690,3.5230352303523,7380
+"Ingenieria Civil",6,7,"Laptop",2,"HP 258 G8 Notebook PC","HP",12,3,4,"Estudios, Investigación",7471,4.81863204390309,22413
+"Ciencias de la computación",3,5,"Laptop",3,"Laptop - 81LW","Lenovo",5,2,2,"Estudios, Investigación, Entretenimiento",3240,3.08641975308642,6480
+"Ingenieria Civil",4,7,"Tablet",3,"SM-P613","Samsung",15,1,4,"Estudios, Investigación",7040,2.13068181818182,7040
+"Ingenieria Civil",4,6,"Celular",3,"ideapad gaming 3 - LENOVO","Lenovo",6,2,4,"Estudios",4050,2.96296296296296,8100
+"Ingenieria Civil",4,7,"Celular",2,"SM-A546E","Samsung",7,2,4,"Estudios, Entretenimiento",5000,2.8,10000
+"Ingenieria Ambiental",3,5,"Tablet",5,"IPhone 13","Apple",4,2,4,"Estudios",3240,2.46913580246914,6480
+"Ciencia de Datos",3,2,"Laptop",2,"KLVL-WXXW","Huawei",5,2,3,"Estudios, Entretenimiento",5041,1.98373338623289,10082
+"Ciencia de Datos",3,6,"Laptop",4,"20RW","Lenovo",6,3,2,"Estudios, Investigación, Entretenimiento",4000,4.5,12000
+"Ciencias de la computación",4,5,"Laptop",2,"82FG","Lenovo",4,2,4,"Estudios, Entretenimiento",5000,1.6,10000
+"Ingenieria Ambiental",2,6,"Celular",3,"Honor 90","Honor",8,3,5,"Estudios, Investigación, Entretenimiento, Otros",5000,4.8,15000
+"Ciencias de la computación",3,7,"Laptop",2,"HP Pavilion Laptop 15-eg0xxx","HP",6,3,4,"Estudios, Investigación",3690,4.8780487804878,11070
+"Ingenieria Ambiental",4,5,"Laptop",3,"HP Laptop 15-dw1xxx","HP",6,3,3,"Estudios, Investigación",3690,4.8780487804878,11070
+"Ciencia de Datos",3,6,"Laptop",2,"Thin GF63 12VE","MSI",8,3,4,"Estudios, Investigación, Entretenimiento",4716,5.08905852417303,14148
+"Ingenieria Civil",4,6,"Laptop",3,"82LM","Lenovo",3,2,4,"Estudios",4005,1.49812734082397,8010
+"Ciencias de la computación",3,6,"Celular",3,"Galaxy S23 Ultra","Samsung",6,1,5,"Estudios, Entretenimiento",5000,1.2,5000
+"Ingenieria de la Energía",10,3,"Laptop",2,"Lenovo ThinkPad","Lenovo",2,2,4,"Estudios, Investigación, Entretenimiento",3780,1.05820105820106,7560
+"Ingenieria Mecatrónica",3,5,"Celular",2,"Redmi 11","Xiaomi",5,1,3,"Estudios, Entretenimiento",4500,1.11111111111111,4500
+"Ingenieria Industrial",4,6,"Laptop",3,"Vivobook_ASUSLaptop M3401QC_M3401QC","Asus",6,3,3,"Estudios, Investigación, Entretenimiento",3780,4.76190476190476,11340
+"Ciencia de Datos",3,5,"Laptop",2,"HP Laptop 15-dy1xxx","HP",10,4,2,"Estudios, Investigación, Entretenimiento",3690,10.840108401084,14760
+"Ingenieria Industrial",3,5,"Celular",2,"Motorola g(9) plus","MOTOROLA",6,2,5,"Estudios, Entretenimiento",8400,1.42857142857143,16800
+"Ingenieria Civil",4,7,"Laptop",3,"Victus By Laptop HP 16","HP",6,5,4,"Estudios",4050,7.40740740740741,20250
+"Ingenieria Civil",4,6,"Laptop",2,"Victus By Laptop HP 16","HP",5,2,4,"Estudios, Investigación, Entretenimiento",4140,2.41545893719807,8280
+"Bioingenieria",6,7,"Tablet",3,"iPad Pro 10.5 inch","Apple",3,4,2,"Estudios, Investigación, Entretenimiento",8134,1.47528891074502,32536
+"Ingenieria Civil",4,6,"Tablet",2,"GF63 Thin 10SC","HP",2,2,3,"Estudios",4716,0.848176420695505,9432
+"Ingenieria Civil",4,6,"Tablet",3,"Samsung galaxy Tab S7 FE","Samsung",5,2,3,"Estudios",10090,0.991080277502478,20180
+"Ingenieria Civil",4,6,"Tablet",3,"S7FE","Samsung",5,1,3,"Estudios, Investigación, Entretenimiento",10090,0.495540138751239,10090
+"Ingenieria Civil",5,5,"Tablet",3,"ROG Atrix G16","Asus",4,3,4,"Estudios, Investigación, Entretenimiento",5761,2.08297170630099,17283
+"Ciencias de la computación",2,7,"Laptop",2,"ASUS TUF DASH F15","Asus",8,4,3,"Estudios",6841,4.67767870194416,27364
+"Ciencias de la computación",2,7,"Laptop",3,"Lenovo IdeaPad3","Lenovo",4,5,4,"Estudios",4050,4.93827160493827,20250
+"Ingenieria Civil",4,6,"Laptop",3,"Acer63637","Acer",12,2,4,"Estudios, Investigación, Entretenimiento",6301,3.80891921917156,12602
+"Ingenieria Civil",4,7,"Celular",3,"Xiaomi note 10","Xiaomi",1,3,1,"Estudios",5260,0.570342205323194,15780
+"Ingenieria Civil",4,6,"Tablet",3,"Galaxy S7 plus","Samsung",5,3,4,"Estudios",10090,1.48662041625372,30270
+"Ciencias de la computación",5,6,"Laptop",3,"HP Pavilion gaming laptop 15","HP",6,5,3,"Estudios",3690,8.13008130081301,18450
+"Ingenieria Civil",4,5,"Laptop",3,"Laptop HP 15-ef2xxx","HP",5,1,4,"Estudios, Entretenimiento",3690,1.3550135501355,3690
+"Ingenieria Mecatrónica",5,6,"Laptop",2,"Laptop HP 14","HP",6,2,3,"Estudios, Entretenimiento",3690,3.2520325203252,7380
+"Ingenieria Mecánica",1,6,"Laptop",6,"Laptop HP 16","HP",1,2,5,"Investigación",3690,0.5420054200542,7380
+"Ciencias de la computación",2,5,"Laptop",4,"Asus tuf dash f15","Asus",8,2,4,"Estudios, Investigación, Entretenimiento",6841,2.33883935097208,13682
+"Ingenieria Civil",6,6,"Tablet",3,"Tab S6 lite","Samsung",7,1,4,"Estudios",7040,0.994318181818182,7040
+"Ingenieria Civil",6,6,"Laptop",2,"Nitro AN515-44","Acer",3,10,3,"Estudios, Investigación, Entretenimiento",5176,5.79598145285935,51760
+"Ingenieria Química",3,5,"Laptop",2,"IdeaPad 5 14ITL05","Lenovo",9,3,5,"Estudios, Investigación, Entretenimiento",5086,5.30869052300433,15258
+"Ciencias de la computación",3,5,"Laptop",2,"G5 5500","DELL",5,4,3,"Estudios",3870,5.16795865633075,15480
+"Ciencias de la computación",4,6,"Laptop",2,"VivoBook_ASUSLaptop X513EA_K513EA","Asus",10,3,4,"Estudios, Entretenimiento",3780,7.93650793650794,11340
+"Ingenieria Civil",3,6,"Laptop",2,"Cyborg 15 A13E","MSI",5,3,4,"Estudios, Investigación, Entretenimiento",4815,3.11526479750779,14445
+"Ciencias de la computación",5,5,"Celular",2,"iPhone 15 pro","Apple",4,1,5,"Estudios, Entretenimiento",3274,1.22174709835064,3274
+"Ciencias de la computación",6,5,"Laptop",2,"Lenovo ideapad 330","Lenovo",12,8,1,"Estudios, Investigación, Entretenimiento, Otros",4050,23.7037037037037,32400
+"Ingenieria Mecatrónica",4,6,"Laptop",2,"Nitro AN515-55","Acer",8,2,4,"Estudios, Entretenimiento",5176,3.09119010819165,10352
+"Ingenieria Mecatrónica",7,4,"Celular",2,"POCO X5G","POCO",4,2,1,"Estudios, Entretenimiento",5000,1.6,10000
+"Ciencias de la computación",6,8,"Laptop",2,"VivoBook_ASUSLaptop X512DA_X512DA","Asus",3,3,3,"Estudios, Entretenimiento",3780,2.38095238095238,11340
+"Ingenieria Electrónica",3,6,"Celular",3,"Galaxy A33","Samsung",6,2,3,"Estudios, Investigación, Entretenimiento",4000,3,8000
+"Ingenieria Electrónica",3,6,"Laptop",3,"Nitro 5","Acer",7,3,4,"Estudios, Entretenimiento",5176,4.05718701700155,15528
+"Ingenieria Química",5,5,"Tablet",4,"Galaxy Tab 7 fe","Samsung",10,2,5,"Estudios, Entretenimiento",10090,1.98216055500496,20180
+"Ciencias de la computación",3,6,"Celular",3,"Iphone 13","Apple",4,1,4,"Estudios, Investigación, Entretenimiento, Otros",3227,1.23954136969321,3227
+"Ingenieria Mecatrónica",3,6,"Celular",2,"Samsung Galaxy S21+","Samsung",4,1,3,"Estudios, Investigación, Entretenimiento",5000,0.8,5000
+"Ingenieria Electrónica",4,5,"Celular",2,"Asus 515SX","Asus",4,2,4,"Estudios, Investigación, Entretenimiento",2880,2.77777777777778,5760
+"Ingenieria Civil",6,7,"Laptop",1,"HP Pavilion Gaming Laptop 15-dk1xxx","HP",5,3,5,"Estudios",3690,4.0650406504065,11070
+"Ciencia de Datos",3,5,"Celular",3,"iPhone 12","Apple",6,1,4,"Estudios, Entretenimiento",2815,2.13143872113677,2815
+"Ingenieria Mecánica",3,5,"Celular",2,"Galaxy A34","Samsung",5,2,4,"Estudios",5000,2,10000
+"Ingenieria Civil",6,7,"Laptop",2,"Lenovo IdeaPad Slim 3i","Lenovo",8,2,4,"Estudios, Investigación",4230,3.78250591016548,8460
+"Ingenieria Mecánica",7,5,"Laptop",3,"ROG Zephyrus G14 GA401IV_GA401IV","Asus",4,2,4,"Estudios, Entretenimiento",6841,1.16941967548604,13682
+"Ingenieria Electrónica",9,7,"Celular",3,"Redmi note 9S","Xiaomi",10,3,4,"Estudios, Entretenimiento",5000,6,15000
+"Ingenieria Mecatrónica",6,5,"Laptop",2,"TUF Gaming A15 FA507NV_FA507NV","HP",5,1,5,"Estudios, Investigación, Entretenimiento",8101,0.617207752129367,8101
+"Ingenieria Industrial",5,5,"Laptop",3,"HP Pavilion 360 14""","HP",10,2,4,"Estudios, Entretenimiento",3690,5.42005420054201,7380
+"Ciencias de la computación",3,5,"Laptop",3,"Galaxy Tab S6 Lite","Samsung",3,1,5,"Estudios",7040,0.426136363636364,7040
+"Ciencias de la computación",2,6,"Laptop",2,"Dell G17","DELL",6,3,5,"Estudios, Investigación",3780,4.76190476190476,11340
+"Ingenieria Civil",4,6,"Laptop",2,"ASUS TUF Dash F15 FX517ZE_FX517ZE","Asus",5,2,3,"Estudios, Investigación, Entretenimiento",6841,1.46177459435755,13682
+"Ingenieria de la Energía",3,6,"Laptop",3,"Asus tuf dash f15","Asus",8,1,5,"Estudios, Entretenimiento",6841,1.16941967548604,6841
+"Ingenieria de la Energía",3,6,"Celular",3,"iPhone 14 Plus","Apple",3,1,5,"Estudios, Entretenimiento",3279,0.914913083257091,3279
+"Ingenieria de la Energía",3,5,"Tablet",3,"Asus TUF Das F15","Asus",4,1,4,"Estudios, Entretenimiento",6841,0.58470983774302,6841
+"Ingenieria de la Energía",3,5,"Celular",3,"Samsung A53","Samsung",6,2,4,"Estudios, Entretenimiento, Otros",5000,2.4,10000
+"Ciencias de la computación",3,6,"Laptop",2,"HP ProBook 450 G8 Notebook PC","HP",5.5,2,4,"Estudios, Entretenimiento",3690,2.9810298102981,7380
+"Ciencias de la computación",3,5,"Laptop",2,"ASUS TUF Gaming A15 FA507RE_FA507RE","Asus",4,3,3,"Estudios, Investigación, Entretenimiento, Otros",4320,2.77777777777778,12960
+"Ciencias de la computación",3,5,"Laptop",2,"Samsung A21","Samsung",5,2,4,"Estudios, Entretenimiento",5000,2,10000
+"Ciencias de la computación",4,5,"Celular",3,"Redmi Note 9","Xiaomi",3.5,3,4,"Estudios, Entretenimiento",5020,2.09163346613546,15060
+"Bioingenieria",7,7,"Laptop",3,"HP Pavilion gaming laptop 15-dk 1 xxx","HP",6,2,4,"Estudios, Investigación, Entretenimiento",3690,3.2520325203252,7380
+"Ciencias de la computación",4,6,"Celular",3,"HP Laptop 15-dy2xxx","HP",6,2,3,"Estudios, Investigación, Entretenimiento",3690,3.2520325203252,7380
+"Ingenieria Civil",1,7,"Laptop",2,"82N6 Lenovo","Lenovo",6,4,3,"Estudios, Entretenimiento",3870,6.2015503875969,15480
+"Bioingenieria",1,7,"Laptop",3,"MacBook Air","Apple",7,2,4,"Estudios, Investigación, Entretenimiento",4734,2.95732995352767,9468
+"Bioingenieria",1,7,"Tablet",3,"iPad(séptima generación)","Apple",1.5,2,4,"Estudios, Entretenimiento",8134,0.368822227686255,16268
+"Ingenieria Industrial",6,6,"Laptop",2,"lenovo ideapad flex 5 ryzen 4","Lenovo",8,2,5,"Estudios, Entretenimiento",4050,3.95061728395062,8100
+"Ingenieria Mecatrónica",6,5,"Celular",2,"Galaxy A10s","Samsung",5,2,4,"Estudios, Entretenimiento",4000,2.5,8000
+"Ciencias de la computación",4,6,"Laptop",3,"tuf gaming f15","Asus",8,8,4,"Estudios",4320,14.8148148148148,34560
+"Ingenieria Industrial",4,7,"Celular",4,"Honor X8","Honor",6.5,4,4,"Estudios, Investigación, Entretenimiento",5000,5.2,20000
+"Ciencias de la computación",7,6,"Laptop",3,"MacBook Pro 2020","Apple",6,2,4,"Estudios, Investigación, Entretenimiento",5239,2.29051345676656,10478
+"Ingenieria Mecánica",1,7,"Celular",3,"Poco x4 pro","POCO",10,4,5,"Estudios, Investigación, Entretenimiento",5000,8,20000
+"Ingenieria Mecánica",1,7,"Tablet",4,"Xiaomi pad 6","Xiaomi",5,4,5,"Entretenimiento",8840,2.26244343891403,35360
+"Ingenieria Mecatrónica",3,4,"Celular",3,"Redmi note 10 pro","Xiaomi",6,6,5,"Estudios, Investigación, Entretenimiento",5020,7.17131474103586,30120
+"Ciencias de la computación",3,4,"Celular",2,"iPhone 15 Pro","Apple",10,10,2,"Estudios, Investigación, Entretenimiento",3290,30.3951367781155,32900
+"Ingenieria Química",3,4,"Celular",2,"Samsung 5 FE","Samsung",4,2,5,"Estudios, Investigación, Entretenimiento, Otros",4500,1.77777777777778,9000
+"Ingenieria Civil",6,6,"Tablet",3,"Galaxy S6 lite","Samsung",4,1,5,"Estudios",7040,0.568181818181818,7040
+"Ingenieria Mecatrónica",8,4,"Celular",5,"Galaxy S20 FE 5G","Samsung",3,1,4,"Estudios, Entretenimiento",4500,0.666666666666667,4500
+"Ingenieria Mecatrónica",9,5,"Laptop",3,"Lenovo ThinkBook","Lenovo",12,2,3,"Estudios, Investigación",3950,6.07594936708861,7900
+"Ingenieria Mecatrónica",10,5,"Laptop",3,"Ideapad gaming 315ach6","Lenovo",10,3,3,"Estudios, Investigación, Entretenimiento",3150,9.52380952380952,9450
+"Ciencias de la computación",4,6,"Laptop",2,"82K2","Lenovo",6,10,5,"Estudios, Investigación, Entretenimiento",5401,11.1090538789113,54010
+"Ingenieria Civil",4,7,"Celular",2,"Samsung A2","Samsung",4,2,3,"Estudios",2600,3.07692307692308,5200
+"Bioingenieria",6,5,"Celular",2,"Samsung S23","Samsung",5,1,5,"Estudios, Entretenimiento",3785,1.32100396301189,3785
+"Ingenieria Civil",6,4,"Laptop",2,"LG Gram","LG",5,2,5,"Estudios, Entretenimiento",7201,1.38869601444244,14402
+"Ingenieria Civil",5,8,"Laptop",3,"Acer nitro 5","Acer",5,3,5,"Estudios",3220,4.6583850931677,9660
+"Ingenieria Civil",4,7,"Celular",2,"Redmi note 10s","Xiaomi",8,2,4,"Estudios, Entretenimiento",5000,3.2,10000
+"Ingenieria Mecatrónica",1,6,"Laptop",2,"82XV","Lenovo",5,3,3,"Estudios, Investigación, Entretenimiento",5401,2.77726346972783,16203
+"Ciencias de la computación",3,5,"Laptop",2,"MSI GF65 Thin 10SDR","MSI",8,3,3,"Estudios, Entretenimiento, Otros",4500,5.33333333333333,13500
+"Bioingenieria",8,5,"Celular",3,"Iphone 13","Apple",8,1,3,"Estudios, Investigación, Entretenimiento, Otros",3227,2.47908273938643,3227
+"Ciencias de la computación",1,6,"Celular",2,"Redmi note 11","Xiaomi",9,2,4,"Estudios, Entretenimiento",5000,3.6,10000
+"Ciencias de la computación",1,6,"Tablet",3,"Ipad pro 11","Apple",3,2,4,"Estudios, Investigación, Entretenimiento",7538,0.795967100026532,15076
+"Ingenieria Industrial",1,6,"Celular",3,"Galaxy A54 5G","Samsung",8,1,5,"Estudios, Investigación, Entretenimiento",5000,1.6,5000
+"Ciencias de la computación",5,6,"Laptop",3,"MacBook Pro","Apple",4,1,5,"Estudios, Investigación, Entretenimiento",5239,0.763504485588853,5239
+"Ingenieria Civil",6,7,"Laptop",4,"AsusTuff gaming","Asus",12,5,4,"Estudios, Entretenimiento",4320,13.8888888888889,21600
+"Ingenieria Electrónica",7,4,"Celular",2,"Honor X8","Honor",3,1,4,"Estudios, Investigación, Entretenimiento",4000,0.75,4000
+"Ingenieria Química",4,5,"Celular",2,"iPhone 13","Apple",4,2,4,"Estudios, Investigación",3227,2.47908273938643,6454
+"Ingenieria Ambiental",5,5,"Tablet",3,"IPad 11","Apple",5,2,4,"Estudios",7600,1.31578947368421,15200
+"Ciencias de la computación",1,7,"Celular",2,"Iphone11","Apple",7,2,4,"Estudios, Investigación, Entretenimiento",3110,4.5016077170418,6220
+"Ingenieria Mecánica",3,5,"Celular",2,"iPhone 13","Apple",9,2,3,"Estudios, Entretenimiento",32277,0.557672646156706,64554
+"Ingenieria Industrial",1,7,"Laptop",2,"HP Victus 15","HP",4,1,3,"Estudios, Entretenimiento, Otros",4725,0.846560846560847,4725
+"Ingenieria Industrial",1,7,"Celular",2,"Xiaomi redmi note 10s","Xiaomi",6,2,4,"Estudios, Investigación, Entretenimiento",5000,2.4,10000
+"Ingenieria Industrial",1,7,"Celular",2,"Samsung A32","Samsung",6,1,5,"Estudios, Investigación, Entretenimiento",5000,1.2,5000
+"Ingenieria Civil",4,5,"Tablet",3,"IPad Air 5ta Generación","Apple",6,2,4,"Estudios, Investigación",2916,4.11522633744856,5832
+"Ingenieria Mecánica",1,4,"Celular",2,"SM-G781B","Samsung",1.1,2,4,"Estudios, Investigación, Entretenimiento",4500,0.488888888888889,9000
+"Ciencias de la computación",2,5,"Celular",3,"ASUS","Samsung",12,3,4,"Estudios, Investigación, Entretenimiento",6400,5.625,19200
+"Ciencias de la computación",3,6,"Celular",3,"IPHONE 13","Apple",4,1,4,"Estudios, Investigación, Entretenimiento",3240,1.23456790123457,3240
+"Ciencias de la computación",3,6,"Laptop",2,"ASPIRE A315-24P","Acer",6,2,3,"Estudios, Investigación, Entretenimiento",3634,3.30214639515685,7268
+"Ciencias de la computación",3,5,"Laptop",2,"G5 5500","DELL",5,4,3,"Estudios",2437.5,8.2051282051282,9750
+"Ingenieria Ambiental",5,4,"Celular",2,"HONORX8A","Honor",6.1,2,4,"Estudios, Investigación, Entretenimiento",6000,2.03333333333333,12000
+"Ciencias de la computación",5,5,"Laptop",2,"G5 5505","Samsung",3,2,5,"Estudios",2925,2.05128205128205,5850
+"Ingenieria Química",6,5,"Laptop",2,"82C5","Lenovo",7,5,3,"Estudios, Investigación, Otros",2730,12.8205128205128,13650
+"Ingenieria Civil",6,5,"Laptop",3,"NITRO AN515-55","Acer",14,5,5,"Estudios, Investigación, Entretenimiento, Otros",5460,12.8205128205128,27300
+"Ingenieria Ambiental",2,4,"Tablet",3,"SAMSUNG TAB S6 LITE","Honor",5,1,5,"Estudios, Investigación, Entretenimiento",8750,0.571428571428571,8750
+"Ciencias de la computación",3,6,"Laptop",2,"ASUS TUF GAMING A15 FA507RE_FA507RE","Asus",8,3,3,"Estudios, Investigación, Entretenimiento",5200,4.61538461538461,15600
+"Ingenieria Ambiental",9,4,"Laptop",2,"NITRO AN515-55","Acer",5,2,4,"Estudios",4875,2.05128205128205,9750
+"Ingenieria Química",6,6,"Laptop",2,"MSINFO32","HP",6,2,4,"Entretenimiento",5850,2.05128205128205,11700
+"Ingenieria Civil",4,7,"Laptop",2,"NITRO5","Acer",6,3,4,"Estudios",3900,4.61538461538461,11700
+"Ingenieria Civil",4,6,"Laptop",2,"VICTUS HP","Samsung",4,2,4,"Estudios, Investigación, Entretenimiento",3900,2.05128205128205,7800
+"Ingenieria de la Energía",8,6,"Laptop",3,"IPHONE 14 PLUS","Apple",4,2,5,"Estudios, Otros",3900,2.05128205128205,7800
+"Ciencias de la computación",2,6,"Laptop",2,"LENOVO IDEAPAD GAMING 3","Lenovo",6,3,3,"Estudios, Entretenimiento",3900,4.61538461538461,11700
+"Ingenieria Industrial",2,6,"Laptop",2,"MICROSOFT WINDOWS 11 - LENOVO 82K1","Samsung",16,10,4,"Estudios, Investigación, Entretenimiento",3120,51.2820512820513,31200
+"Ingenieria Mecatronica",4,6,"Laptop",2,"ASUS TUF DASH F15 FX517ZR_FX517ZR","Asus",4,2,4,"Estudios",3900,2.05128205128205,7800
+"Ingenieria Civil",4,7,"Tablet",3,"GALAXY TAB S9","Samsung",10,2,4,"Estudios, Investigación, Entretenimiento",8750,2.28571428571429,17500
+"Bioingenieria",2,7,"Laptop",3,"MSINFO32","Samsung",6,3,3,"Estudios",3900,4.61538461538461,11700
+"Ingenieria Mecatronica",3,4,"Celular",3,"HP LAPTOP 15-EF2XXX","Samsung",2,4,2,"Estudios, Entretenimiento",800,10,3200
+"Ingenieria Civil",5,6,"Celular",3,"MICROSOFT WINDOWS 11","Apple",5,3,4,"Estudios",2667,5.62429696287964,8001
+"Ingenieria Ambiental",6,5,"Laptop",2,"HP PAVILION GAMING","HP",8,5,5,"Estudios, Investigación, Entretenimiento",3120,12.8205128205128,15600
+"Ciencias de la computación",8,6,"Laptop",2,"LENOVO_MT_81YK_BU_IDEA_FM_IDEAPAD 5 15IIL05","Lenovo",12,3,3,"Estudios, Investigación, Entretenimiento, Otros",7800,4.61538461538461,23400
+"Ciencias de la computación",5,6,"Laptop",3,"HP PROBOOK 450 G5","Samsung",6,3,4,"Estudios, Investigación, Entretenimiento",3900,4.61538461538461,11700
+"Ciencia de Datos",3,5,"Laptop",3,"LENOVO LEGIÓN SLIM 7I","Lenovo",8,3,3,"Estudios, Entretenimiento",5200,4.61538461538461,15600
+"Ingenieria Electrónica",7,6,"Laptop",2,"IPHONE 13","Apple",5,2,5,"Estudios, Investigación, Entretenimiento",4875,2.05128205128205,9750
+"Ingenieria Industrial",5,7,"Celular",2,"motorola edge 50 ultra","MOTOROLA",2,7,2,"Investigación",4.5,3111.11111111111,31.5
+"Bioingenieria",4,6,"Tablet",3,"HP PAVILION GAMING LAPTOP 15","Samsung",7,1,5,"Estudios, Investigación, Otros",12250,0.571428571428571,12250
+"Bioingenieria",7,5,"Laptop",3,"INSPIRON 5502","DELL",7,3,4,"Estudios, Entretenimiento",4550,4.61538461538461,13650
+"Ingenieria de la Energía",7,4,"Laptop",2,"MICROSOFT WINDOWS 10 PRO","HP",4,3,4,"Estudios, Entretenimiento",2600,4.61538461538461,7800
+"Ingenieria Química",4,4,"Laptop",3,"MACBOOK AIR 13","Apple",7.26,2,5,"Estudios, Investigación, Entretenimiento",1919.5,7.56446991404011,3839
+"Ingenieria Mecatronica",7,4,"Laptop",2,"DELL G16 7630","Apple",10,3,3,"Estudios, Investigación, Entretenimiento",975,30.7692307692308,2925
+"Ingenieria Industrial",5,6,"Celular",3,"NITRO AN515-58","Samsung",4,1,3,"Estudios, Entretenimiento",6400,0.625,6400
+"Ingenieria de la Energía",6,6,"Celular",2,"LENOVO IDEAPAD 320 CORE I5","Samsung",4,2,3,"Investigación, Entretenimiento",3200,2.5,6400
+"Ingenieria Civil",7,5,"Laptop",3,"LENOVO IDEAPAD 3","Apple",3,4,2,"Estudios, Entretenimiento",1904.1,6.30219001102883,7616.4
+"Ingenieria de la Energía",5,4,"Tablet",4,"MACBOOK AIR M1","Apple",5.13,1,5,"Investigación, Entretenimiento",1924.7,2.66535044422507,1924.7
+"Ingenieria Civil",7,7,"Celular",2,"MSINFO33",NA,8,10,5,"Estudios, Investigación, Entretenimiento",640,125,6400
+"Ingenieria Civil",2,6,"Celular",2,"ACER NITRO AN515-58","Samsung",3,2,4,"Estudios, Entretenimiento",2400,2.5,4800
+"Ingenieria Civil",2,6,"Laptop",3,"ASUS TUF DASH F15 FX517ZC_FX517ZC","Asus",5,3,2,"Estudios, Investigación, Entretenimiento",3250,4.61538461538461,9750
+"Ingenieria Ambiental",4,6,"Laptop",2,"HP LAPTOP 15-DY2XXX","HP",7,3,3,"Estudios, Investigación",4550,4.61538461538461,13650
+"Ingenieria Mecánica",10,3,"Laptop",2,"ASUS TUF GAMING F15","Apple",8,2,3,"Estudios, Investigación, Entretenimiento",7800,2.05128205128205,15600
+"Ciencias de la computación",5,6,"Laptop",2,"SAMSUNG S23 ULTRA","Samsung",5,1,5,"Entretenimiento",9750,0.512820512820513,9750
+"Bioingenieria",5,5,"Laptop",2,"ASPIRE A515-54G","Acer",6,1,4,"Estudios, Investigación, Entretenimiento",11700,0.512820512820513,11700
+"Ingenieria Mecatronica",5,5,"Laptop",2,"ASUS TUF DASH F15 FX516PC","Asus",6,1,4,"Estudios, Investigación, Entretenimiento",11700,0.512820512820513,11700
+"Ingenieria Civil",8,7,"Laptop",4,"IPHONE 13","Apple",3,1,5,"Estudios, Investigación, Entretenimiento, Otros",5850,0.512820512820513,5850
+"Ingenieria Mecánica",6,6,"Celular",3,"IPHONE 12","Apple",6,1,4,"Estudios",9600,0.625,9600
+"Ingenieria Mecánica",7,5,"Celular",2,"IPHONE 13","Apple",1.1,2,4,"Estudios",2000,1.1,4000
+"Ingenieria Industrial",8,4,"Celular",4,"CONTROL","Samsung",4.1,2,4,"Estudios, Otros",4480,1.83035714285714,8960
+"Ingenieria Civil",8,7,"Laptop",2,"BOHK-WAX9X","Huawei",9,3,5,"Estudios, Investigación",5850,4.61538461538461,17550
+"Ingenieria Industrial",6,7,"Laptop",2,"MICROSOFT WINDOWS 11 PRO","Samsung",2.1,4,4,"Estudios, Entretenimiento",1706,4.92379835873388,6824
+"Ingenieria Industrial",5,5,"Laptop",3,"HP PAVILION 360","HP",8,2,3,"Estudios, Entretenimiento",7800,2.05128205128205,15600
+"Ingenieria Ambiental",2,5,"Tablet",3,"PHONE13","Apple",2.1,1,4,"Estudios, Investigación, Entretenimiento",6125,0.342857142857143,6125
+"Ingenieria Civil",6,6,"Laptop",2,"RELAMI-C11","HP",10,8,2,"Estudios, Entretenimiento",5850,13.6752136752137,46800
+"Ingenieria Civil",6,6,"Laptop",3,"SM-A54","Samsung",3,1,3,"Estudios, Entretenimiento",5850,0.512820512820513,5850
+"Ingenieria Química",1,8,"Laptop",3,"IPHONEXR","Apple",3,2,5,"Estudios, Investigación, Entretenimiento",2925,2.05128205128205,5850
+"Ingenieria Ambiental",4,6,"Laptop",3,"QUE BIEN","HP",4,3,3,"Estudios",2600,4.61538461538461,7800
+"Ingenieria Mecatronica",5,5,"Laptop",2,"X515EA_X515EA","Asus",2.1,2,4,"Estudios, Investigación",1909.4,2.19964386718341,3818.8
+"Ingenieria Mecánica",1,7,"Tablet",5,"XIAOMI PAD 6","Xiaomi",5,4,5,"Estudios, Entretenimiento",2187.5,9.14285714285714,8750
+"Ingenieria Civil",4,6,"Celular",2,"Oppo A18","OPPO",3,2,4,"Estudios",5000,1.2,10000
+"Ingenieria Mecánica",1,7,"Celular",3,"POCO X4 PRO","Xiaomi",10,3,5,"Estudios, Investigación, Entretenimiento",5,6000,15
+"Ingenieria Mecánica",1,6,"Celular",2,"XIAOMI 11 PRO MAX","Xiaomi",3,2,3,"Otros",2400,2.5,4800
+"Ingenieria Mecatronica",1,7,"Laptop",2,"HP ENVY X360  CONVERTIBLE 15M-EU0XXX","HP",6,2,2,"Estudios, Investigación, Entretenimiento",5850,2.05128205128205,11700
+"Ingenieria Industrial",6,6,"Laptop",2,"HP PAVILION LAPTOP 15-EH0XXX","HP",6,2,4,"Estudios, Investigación, Entretenimiento, Otros",5850,2.05128205128205,11700
+"Ciencias de la computación",3,6,"Celular",2,"IPHONE XS","Apple",4,1,4,"Estudios, Investigación, Entretenimiento",6400,0.625,6400
+"Ciencias de la computación",4,6,"Laptop",2,"GALAXY A12","HP",5,2,3,"Estudios, Investigación, Entretenimiento",4875,2.05128205128205,9750
+"Ciencias de la computación",4,7,"Celular",3,"GALAXY A12","Samsung",10,4,3,"Estudios, Entretenimiento",4000,10,16000
+"Ciencias de la computación",4,6,"Laptop",2,"ROG STRIX G713QE_G713QE","Asus",3,1,4,"Estudios, Entretenimiento",5850,0.512820512820513,5850
+"Ciencias de la computación",7,4,"Laptop",2,"NONE",NA,8,3,4,"Estudios, Investigación, Otros",5200,4.61538461538461,15600
+"Ingenieria Civil",6,7,"Laptop",3,"SM-A515F","Samsung",3,3,3,"Entretenimiento",1950,4.61538461538461,5850
+"Ingenieria Civil",5,6,"Celular",2,"TELEFONO","Apple",1,2,5,"Estudios, Investigación",800,2.5,1600
+"Ingenieria Industrial",3,5,"Celular",2,"MOTO G(9) PLUS","MOTOROLA",6,2,5,"Estudios, Entretenimiento",4800,2.5,9600
+"Ingenieria Civil",4,7,"Celular",2,"PC","Asus",6,3,4,"Estudios, Entretenimiento",3200,5.625,9600
+"Ingenieria Civil",4,7,"Tablet",2,"MSINFO32","Apple",3,1,5,"Estudios",5250,0.571428571428571,5250
+"Ingenieria Civil",3,7,"Laptop",7,"MSINFO32","Samsung",2.1,5,4,"Estudios",1326,7.9185520361991,6630
+"Ingenieria Civil",4,7,"Laptop",2,"MSINFI32","Apple",8,2,5,"Estudios, Investigación, Entretenimiento",7800,2.05128205128205,15600
+"Ingenieria Industrial",6,4,"Laptop",2,"ASUS TUF GAMING F15 FX506LH_FX506LH","Apple",2.1,2,4,"Estudios, Entretenimiento",1909.5,2.19952867242734,3819
+"Ingenieria Civil",7,7,"Laptop",2,"MODELO DEL SISTEMA	82K1","Lenovo",3.1,5,3,"Estudios, Entretenimiento",1755,8.83190883190883,8775
+"Ciencias de la computación",4,4,"Laptop",3,"LISTO","Lenovo",7,5,4,"Estudios, Investigación, Entretenimiento",2730,12.8205128205128,13650
+"Ingenieria Mecatronica",5,2,"Laptop",3,"HP PAVILION GAMING LAPTOP 15","Samsung",5,5,4,"Estudios, Investigación, Entretenimiento, Otros",1950,12.8205128205128,9750
+"Ciencias de la computación",6,4,"Celular",2,"DESKTOP","VASTEC",4,1,5,"Estudios, Investigación, Entretenimiento",6400,0.625,6400
+"Ciencia de Datos",3,2,"Celular",2,"MSINFO21","Samsung",5,3,5,"Estudios, Entretenimiento",2.667,5624.29696287964,8.001
+"Ingenieria Civil",4,7,"Celular",2,"MICROSOFT WINDOWS 11 HOME SINGLE LANGUAGE","HP",15,2,3,"Estudios",12000,2.5,24000
+"Ciencias de la computación",3,6,"Laptop",3,"SM A556E","Samsung",3,2,5,"Estudios",2925,2.05128205128205,5850
+"Ingenieria Química",6,6,"Celular",3,"IPHONE 12","Apple",3,1,3,"Estudios, Entretenimiento",4800,0.625,4800
+"Ingenieria Química",6,6,"Laptop",3,"ASUS","Asus",2,4,3,"Estudios, Investigación",975,8.2051282051282,3900
+"Ciencias de la computación",1,5,"Laptop",3,"ASUS TUF DASH F15","Asus",4,4,5,"Estudios",1950,8.2051282051282,7800
+"Ingenieria Industrial",6,5,"Laptop",2,"20JNS4TN00","Lenovo",6,5,2,"Estudios",2340,12.8205128205128,11700
+"Ingenieria Industrial",6,5,"Laptop",2,"DESKTOP-VMH8M42","DELL",6,4,3,"Estudios, Investigación",2925,8.2051282051282,11700
+"Ciencias de la computación",4,6,"Laptop",2,"ASUS VIVOBOOK","Asus",12,3,4,"Estudios, Entretenimiento",7800,4.61538461538461,23400
+"Ingenieria Química",4,6,"Laptop",3,"ASUS","Samsung",6,4,4,"Estudios, Entretenimiento",2925,8.2051282051282,11700
+"Ciencias de la computación",5,4,"Laptop",3,"LENOVO 82LN","Lenovo",4,2,4,"Estudios, Investigación, Entretenimiento",3900,2.05128205128205,7800
+"Ingenieria Ambiental",3,4,"Laptop",5,"IPHONE 13","Apple",1.1,3,3,"Estudios",1625,2.03076923076923,4875
+"Ingenieria Mecatronica",10,2,"Laptop",5,"TUF Gaming","Asus",5,2,3,"Estudios, Entretenimiento",4875,2.05128205128205,9750
+"Ingenieria Mecatrónica",10,2,"Celular",4,"SM-S921U1","Samsung",5,1,5,"Estudios, Entretenimiento, Otros",8000,0.625,8000
+"Ingenieria Mecatronica",3,5,"Laptop",3,"82S9","Lenovo",2.1,3,5,"Estudios, Entretenimiento",2275,2.76923076923077,6825
+"Ingenieria Electrónica",9,4,"Laptop",3,"POCO X3 NFC","Xiaomi",6,2,5,"Estudios, Entretenimiento",5850,2.05128205128205,11700
+"Ingenieria Electrónica",9,4,"Celular",3,"MUI GLOBAL 13.0.15","Xiaomi",8,1,4,"Estudios, Entretenimiento",12800,0.625,12800
+"Ingenieria Civil",6,7,"Laptop",2,"LENOVO CORE I5","Lenovo",8,2,4,"Estudios",7800,2.05128205128205,15600
+"Ingenieria Civil",6,6,"Laptop",2,"HP PAVILION GAMING LAPTOP 15-DK1XXX","HP",6,3,4,"Estudios",3900,4.61538461538461,11700
+"Ingenieria Civil",6,6,"Laptop",3,"ASUS TUF GAMING F15 FX506LI_FX506LI","Asus",5,4,2,"Estudios, Investigación, Entretenimiento",2437.5,8.2051282051282,9750
+"Ingenieria Industrial",5,7,"Laptop",2,"HP","Xiaomi",4,2,4,"Investigación",3900,2.05128205128205,7800
+"Ingenieria Ambiental",9,4,"Laptop",2,"ASUS","Asus",6,4,4,"Estudios, Investigación, Entretenimiento",2925,8.2051282051282,11700
+"Ciencia de Datos",7,4,"Laptop",4,"XIAOMI REDMI NOTE 11","HP",3,3,4,"Estudios, Investigación",1950,4.61538461538461,5850
+"Ciencias de la computación",7,5,"Laptop",3,"REDMI NOTE 11 PRO","Xiaomi",8,1,3,"Entretenimiento, Otros",15600,0.512820512820513,15600
+"Ingenieria Mecatronica",6,5,"Laptop",2,"ROG STRIX G513RC_G513RC","Asus",5,2,5,"Estudios, Investigación, Entretenimiento",4875,2.05128205128205,9750
+"Bioingenieria",3,4,"Celular",2,"MSI","Huawei",3,6,2,"Estudios, Entretenimiento, Otros",800,22.5,4800
+"Ingenieria Mecatronica",3,6,"Celular",2,"S23","Samsung",12,2,5,"Estudios, Entretenimiento",9600,2.5,19200
+"Ingenieria Industrial",6,6,"Celular",3,"MSINFO32","Samsung",8,1,4,"Estudios, Otros",12800,0.625,12800
+"Ingenieria Industrial",6,4,"Celular",2,"RYZEN","HP",1.1,3,4,"Estudios, Entretenimiento",1334,2.47376311844078,4002
+"Ingenieria Ambiental",4,6,"Laptop",3,"ASPIRE A315-57G","Acer",6,3,3,"Estudios, Investigación, Entretenimiento",3900,4.61538461538461,11700
+"Ingenieria Industrial",6,6,"Laptop",2,"DESKOT","Lenovo",8,3,4,"Estudios, Investigación, Entretenimiento",5200,4.61538461538461,15600
+"Ingenieria Mecánica",8,5,"Laptop",3,"JFJFJFJ","HP",5,3,4,"Estudios, Investigación, Entretenimiento",3250,4.61538461538461,9750
+"Ingenieria Ambiental",5,7,"Laptop",3,"LATITUDE 3450","DELL",12,10,4,"Estudios, Investigación",2340,51.2820512820513,23400
+"Ingenieria Industrial",1,6,"Laptop",2,"MSINFO32","Xiaomi",5,2,4,"Estudios, Investigación",4875,2.05128205128205,9750
+"Ingenieria Civil",4,6,"Laptop",3,"MSINFO32","HP",5,5,3,"Estudios, Entretenimiento",1950,12.8205128205128,9750
+"Bioingenieria",4,6,"Tablet",3,"TAB S6","Samsung",6,1,5,"Estudios",10500,0.571428571428571,10500
+"Ciencia de Datos",5,6,"Celular",2,"MOTOG(50)","MOTOROLA",8,2,3,"Investigación",6400,2.5,12800
+"Ciencias de la computación",5,4,"Laptop",2,"MACBOOK PRO","Apple",6,1,4,"Estudios, Entretenimiento",11700,0.512820512820513,11700
+"Ingenieria Mecatronica",4,5,"Laptop",2,"MACBOOK AIR (M1, 2020)","Apple",6,2,4,"Estudios, Investigación",5850,2.05128205128205,11700
